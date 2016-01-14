@@ -57,9 +57,6 @@ def getSchoolInfo(url):
 
 def getAttribute(page, short_id, id_type):
 
-    # if not isinstance(s, bs4.BeautifulSoup) :
-    #     raise Exception("Page must be an instance of bs4.BeautifulSoup")
-
     if id_type == "long":
         long_id = "ctl00_cphContent_repLocations_ctl01_lbl" + short_id
     elif id_type == "short":
