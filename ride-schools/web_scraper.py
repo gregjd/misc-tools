@@ -3,23 +3,19 @@ import bs4  # Requires BeautifulSoup4 to be installed
 import csv
 
 
-# create master dict/list of schools
-# get master list HTML
-# for each school (if it satisfies a condition?): get certain info
-# write that info to our master dict/list
-# write results to CSV
-# compare?
+def getAllInfo(schools_html):
 
-def getAllInfo(all_schools):
-
-    f = open(all_schools, "r")
+    print ("Opening: " + schools_html)
+    f = open(schools_html, "r")
     html = bs4.BeautifulSoup(f.read(), "html.parser")
     f.close()
+    print ("Closed: " + schools_html)
 
     some_schools = html.find_all("tr", class_="DataGridItem")
     other_schools = html.find_all("tr", class_="DataGridAlternatingItem")
     all_schools = some_schools + other_schools
 
+    print ("Scraping each school's info page. This may take a few minutes.")
     schools = []
     for i in all_schools:
         url = str(i.find_all("td")[1].find("a")["href"])
@@ -32,9 +28,6 @@ def getAllInfo(all_schools):
             print (i.find_all("td")[1].find("a").get_text() + "\n")
         else:
             schools.append(sch_info)
-
-    # do something
-    # writeCSV
 
     writeCSV("ride_schools_info.csv")
 
