@@ -49,7 +49,8 @@ def getSchoolInfo(url):
         # "grades": getAttribute(page, "Grades", "short"),
         # "level": getAttribute(page, "SchLevel", "short"),
         "nces": getAttribute(page, "NCESCode", "short"),
-        "street": getAttribute(page, "Address", "long"),
+        "street1": getMultiAttribute(page, "Address")[0],
+        "street2": getMultiAttribute(page, "Address")[1],
         "c_s_z": getAttribute(page, "CityStateZip", "long"),
         "phone": getAttribute(page, "LocPhone", "long"),
         # "fax": getAttribute(page, "LocFax", "long"),
@@ -80,6 +81,20 @@ def getAttribute(page, short_id, id_type):
         content = ""
 
     return str(content)
+
+def getMultiAttribute(page, short_id):
+
+    long_id = "ctl00_cphContent_repLocations_ctl01_lbl" + short_id
+    tag = "span"
+
+    try:
+        content = list(page.find(tag, {"id": long_id}).strings)
+    except AttributeError:
+        return ("", "")
+    else:
+        a = str(content[0])
+        b = str(", ".join(content[1:]))  # flag if multiple?
+        return (a, b)
 
 def writeCSV(new_file_name, data):
 
