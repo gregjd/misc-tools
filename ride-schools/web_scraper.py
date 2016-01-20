@@ -38,22 +38,37 @@ def getSchoolInfo(url):
     page = bs4.BeautifulSoup(urllib2.urlopen(url).read(), "html.parser")
 
     return {
+        "name": getAttribute(page, "Name", "link"),
+        "dist": getAttribute(page, "Parent", "link"),
+        "status": getAttribute(page, "Active", "short"),
         "code": getAttribute(page, "Code", "short"),
-        "grades": getAttribute(page, "Grades", "short"),
-        "level": getAttribute(page, "SchLevel", "short"),
+        "type": getAttribute(page, "Type", "short"),
+        # "grades": getAttribute(page, "Grades", "short"),
+        # "level": getAttribute(page, "SchLevel", "short"),
+        "nces": getAttribute(page, "NCESCode", "short"),
         "address": getAttribute(page, "Address", "long"),
         "c_s_z": getAttribute(page, "CityStateZip", "long"),
         "phone": getAttribute(page, "LocPhone", "long"),
-        "fax": getAttribute(page, "LocFax", "long"),
-        "url": getAttribute(page, "LocWebsite", "long")
+        # "fax": getAttribute(page, "LocFax", "long"),
+        "url": getAttribute(page, "LocWebsite", "long"),
+        "config": getAttribute(page, "01", "mid")
     }
 
 def getAttribute(page, short_id, id_type):
 
     if id_type == "long":
         long_id = "ctl00_cphContent_repLocations_ctl01_lbl" + short_id
+        tag = "span"
     elif id_type == "short":
         long_id = "ctl00_cphContent_lbl" + short_id
+        tag = "span"
+    elif id_type == "link":
+        long_id = "ctl00_cphContent_hlk" + short_id
+        tag = "a"
+    elif id_type == "mid":
+        long_id = "ctl00_cphContent_repAttributes_ctl" + short_id +
+            "_repValues_ctl01_lblAttValue"
+        tag = "span"
     else:
         raise Exception("id_type is not valid")
     try:
