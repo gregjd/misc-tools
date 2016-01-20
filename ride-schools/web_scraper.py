@@ -76,11 +76,11 @@ def getAttribute(page, short_id, id_type):
     else:
         raise Exception("id_type is not valid")
     try:
-        content = page.find("span", {"id": long_id}).get_text()
+        content = page.find(tag, {"id": long_id}).get_text()
     except AttributeError:
-        content = ""
-
-    return str(content)
+        return ""
+    else:
+        return str(content)
 
 def getMultiAttribute(page, short_id):
 
