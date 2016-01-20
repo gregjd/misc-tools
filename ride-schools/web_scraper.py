@@ -1,7 +1,10 @@
 import urllib2
 import bs4  # Requires BeautifulSoup4 to be installed
 import csv
+import re
 
+
+# Primary functions
 
 def getAllInfo(schools_html):
 
@@ -46,7 +49,7 @@ def getSchoolInfo(url):
         # "grades": getAttribute(page, "Grades", "short"),
         # "level": getAttribute(page, "SchLevel", "short"),
         "nces": getAttribute(page, "NCESCode", "short"),
-        "address": getAttribute(page, "Address", "long"),
+        "street": getAttribute(page, "Address", "long"),
         "c_s_z": getAttribute(page, "CityStateZip", "long"),
         "phone": getAttribute(page, "LocPhone", "long"),
         # "fax": getAttribute(page, "LocFax", "long"),
@@ -93,6 +96,36 @@ def writeCSV(new_file_name, data):
 
     return
 
+
+# Tools
+
+def cleanPhone(phone_num):
+    """Given '(123) 456-7890', returns '1234567890'."""
+
+    return "".join(re.split("\W+", phone_num))
+
+def cleanStreet(street):
+    """Given an address, separates it into street1 and street2."""
+
+    return
+
+def cleanCSZ(c_s_z):
+    """Given 'City, RI 12345', returns ('City', '12345').
+
+    Will convert a 9-digit ZIP to a 5-digit ZIP if necessary.
+    """
+
+    city, sz = c_s_z.split(",")
+    state, zip_ = sz.split()
+    if state != "RI":
+        # not necessarily an error, but weird
+        print ("Encountered state of " + state + ".")
+    zip5 = zip_[0:5]
+
+    return (city, zip5)
+
+
+# Run
 
 if __name__ == "__main__":
     schools = getAllInfo("ride_all_schools.html")
