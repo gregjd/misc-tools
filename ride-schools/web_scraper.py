@@ -119,11 +119,6 @@ def cleanPhone(phone_num):
 
     return "".join(re.split("\W+", phone_num))
 
-def cleanStreet(street):
-    """Given an address, separates it into street1 and street2."""
-
-    return
-
 def cleanCSZ(c_s_z):
     """Given 'City, RI 12345', returns ('City', '12345').
 
