@@ -2,11 +2,17 @@ import urllib2
 import bs4  # Requires BeautifulSoup4 to be installed
 import csv
 import re
+import logging as log
 
 
 # Primary functions
 
 def getAllInfo(schools_html):
+
+    log.basicConfig(
+        filename="ride_schools_logfile.log",
+        format="%(levelname)s: %(message)s",
+        level=logging.DEBUG)
 
     print ("Opening: " + schools_html)
     f = open(schools_html, "r")
@@ -25,10 +31,10 @@ def getAllInfo(schools_html):
         url_ = "http://www2.ride.ri.gov/Applications/MasterDirectory/" + url
         try:
             sch_info = getSchoolInfo(url_)
-        except urllib2.URLError, e:  # if can't load page, print URL and name
-            # print (e)
-            print ("URLError: " + url_)
-            print (i.find_all("td")[1].find("a").get_text() + "\n")
+        except urllib2.URLError:  # if can't load page, log URL and name
+            log.warning("Couldn't load page: " + url_ +
+                + "\n(Name: " + i.find_all("td")[1].find("a").get_text() +
+                ")" + "\nPage skipped.")
         else:
             schools.append(sch_info)
 
@@ -93,7 +99,10 @@ def getMultiAttribute(page, short_id):
         return ("", "")
     else:
         a = str(content[0])
-        b = str(", ".join(content[1:]))  # flag if multiple?
+        b = str(", ".join(content[1:]))
+        if len(content) > 2:
+            log.debug("On " + page + ", multiple new lines found here:\n"
+                +  "\n".join(content[1:]))
         return (a, b)
 
 def writeCSV(new_file_name, data):
@@ -128,8 +137,8 @@ def cleanCSZ(c_s_z):
     city, sz = c_s_z.split(",")
     state, zip_ = sz.split()
     if state != "RI":
-        # not necessarily an error, but weird
-        print ("Encountered state of " + state + ".")
+        log.debug("Encountered state of " + state +
+            "when applying cleanCSZ to '" + c_s_z + "'.")
     zip5 = zip_[0:5]
 
     return (city, zip5)
