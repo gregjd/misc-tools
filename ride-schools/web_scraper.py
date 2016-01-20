@@ -46,6 +46,15 @@ def getSchoolInfo(url):
 
     page = bs4.BeautifulSoup(urllib2.urlopen(url).read(), "html.parser")
 
+    # if multiple addresses, make a note in the logfile:
+    labels = [i.get_text() for i in 
+        page.find_all("span", {"class": "smalllabel"})]
+    count = len([j for j in labels if j == "Address:"])
+    if count > 1:
+        log.debug("Found multiple addresses for " +
+            getAttribute(page, "Name", "link") + "\n(" + url +
+            ")\nFirst address used.")
+
     return {
         "name": getAttribute(page, "Name", "link"),
         "dist": getAttribute(page, "Parent", "link"),
