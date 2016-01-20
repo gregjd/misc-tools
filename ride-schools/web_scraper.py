@@ -51,9 +51,9 @@ def getSchoolInfo(url):
         "nces": getAttribute(page, "NCESCode", "short"),
         "street1": getMultiAttribute(page, "Address")[0],
         "street2": getMultiAttribute(page, "Address")[1],
-        "c_s_z": getAttribute(page, "CityStateZip", "long"),
-        "phone": getAttribute(page, "LocPhone", "long"),
-        # "fax": getAttribute(page, "LocFax", "long"),
+        "c_s_z": cleanCSZ(getAttribute(page, "CityStateZip", "long")),
+        "phone": cleanPhone(getAttribute(page, "LocPhone", "long")),
+        # "fax": cleanPhone(getAttribute(page, "LocFax", "long")),
         "url": getAttribute(page, "LocWebsite", "long"),
         "config": getAttribute(page, "01", "mid")
     }
