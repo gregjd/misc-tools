@@ -76,8 +76,8 @@ def getAttribute(page, short_id, id_type):
         long_id = "ctl00_cphContent_hlk" + short_id
         tag = "a"
     elif id_type == "mid":
-        long_id = "ctl00_cphContent_repAttributes_ctl" + short_id +
-            "_repValues_ctl01_lblAttValue"
+        long_id = ("ctl00_cphContent_repAttributes_ctl" + short_id +
+            "_repValues_ctl01_lblAttValue")
         tag = "span"
     else:
         raise Exception("id_type is not valid")
