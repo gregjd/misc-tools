@@ -121,19 +121,9 @@ def getMultiAttribute(page, short_id):
 
 def getPrincipal(page):
 
-    # Look for exactly one person with the role of Principal, Director, or Superintendent
-    # If one, get name and title (not role)
-    # If none, log error (DEBUG)
-    # If multiple:
-        # check to see if they're actually the same person and have the same title - then use that person
-        # log error (DEBUG) and concatenate names (and make title plural)
-    # Optional: strip PhD and EdD from people's names (LOW PRIORITY)
-
     def getInfo(soup):
 
         rows = [row for row in soup.contents if isTag(row)]
-        # print type(rows)
-        # print ("Number of rows: " + str(len(rows)))  # cut
         name = str(rows[0].find_all("span")[1].get_text()).rstrip()
         title = str(rows[1].find_all("span")[1].get_text())
         roles = [str(role.get_text()) for role in rows[3].find_all("span")]
@@ -152,41 +142,13 @@ def getPrincipal(page):
         return any(i in check_list for i in r)
 
     t = page.find("div", {"id": "ctl00_cphContent_pnlContacts"}).table
-    # for thing in t.contents:
-    #     print isinstance(thing, bs4.element.Tag)
-    # tags = [x for x in t.contents if isinstance(x, bs4.element.Tag)]
     tags = [x for x in t.contents if isTag(x)]
-    # print len(tags)
-    # print type(t)
-    # print ("len of t: " + str(len(t)))
-    # print type(t.contents)
-    # print ("len of t.contents: " + str(len(t.contents)))
-    # print ("filter" + str(len(filter(lambda x: x=="", t.contents))))
-    # print type(t.contents[0])
-    # print type(t.contents[1])
-    # print type(t.contents[2])
-    # print type(t.contents[3])
-    # print type(t.contents[4])
-    # print type(t.contents[5])
-    # print "final" + str(type(t.contents[28]))
-    # for c in t.contents:
-    #     print "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-    #     print c
-    # people = []
-    # for y in tags:
-    #     try:
-    #         table_exists = (y.table != None)
-    #     except AttributeError:
-    #         print "AE!!!"
-    #         pass
-    #     else:
-    #         print table_exists  # cut
-    #         if table_exists:
-    #             people.append(getInfo(y))
     people = [getInfo(y) for y in tags if y.table != None]
-    # print people  # cut
+    for person in people:
+        print person
     principals = [z for z in people if isPrincipal(z)]
-    # print principals  # cut
+    for prin in principals:
+        print prin
 
     if len(principals) == 1:
         return (principals[0]["name"], principals[0]["title"])
@@ -203,14 +165,12 @@ def getPrincipal(page):
                 title_ = ", ".join(title_list)
             return (name_list[0], title_)
         else:
-            # names = ", ".join([p["name"] for p in principals])
             names = ", ".join(name_list)
             if len(set(title_list)) == 1:  # if they all have the same title
                 titles = title_list[0] + "s"  # make it plural
             else:
                 titles = ", ".join(title_list)
             # log debug
-            # print ("Multiple principals found.")  # cut
             return (names, titles)
     else:
         # not good, log warning
