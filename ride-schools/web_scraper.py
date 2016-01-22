@@ -30,6 +30,22 @@ def getAllInfo(schools_html):
     schools = []
     for i in all_schools:
         url = str(i.find_all("td")[1].find("a")["href"])
+    def getOrgSummary(org_soup):
+
+        tags = org_soup.find_all("td")
+
+        code = tags[0].get_text()
+        name = tags[1].get_text().strip()
+        link = tags[1].find("a")["href"]
+        org_type = tags[3].get_text()
+
+        return {
+            "code": code,
+            "name": name,
+            "link": link,
+            "org_type": org_type
+        }
+
         url_ = "http://www2.ride.ri.gov/Applications/MasterDirectory/" + url
         try:
             sch_info = getSchoolInfo(url_)
