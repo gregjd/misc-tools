@@ -146,7 +146,11 @@ def getPrincipal(page):
 
         return any(i in check_list for i in r)
 
-    t = page.find("div", {"id": "ctl00_cphContent_pnlContacts"}).table
+    try:
+        t = page.find("div", {"id": "ctl00_cphContent_pnlContacts"}).table
+    except AttributeError:
+        # log.exception("Couldn't find principal.")  # update to include url
+        return ("", "")
     tags = [x for x in t.contents if isTag(x)]
     people = [getInfo(y) for y in tags if y.table != None]
     principals = [z for z in people if isPrincipal(z)]
