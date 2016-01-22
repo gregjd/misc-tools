@@ -41,7 +41,7 @@ def getAllInfo(schools_html):
         else:
             schools.append(sch_info)
 
-    writeCSV("ride_schools_info.csv")
+    writeCSV("ride_schools_info.csv", convertAllToString(schools))
 
     return schools
 
@@ -180,6 +180,20 @@ def getPrincipal(page):
     else:
         # not good, log warning
         return ("", "")
+
+def convertAllToString(list_of_dicts):
+
+    for d in list_of_dicts:
+        for key in d:
+            try:
+                d[key] = str(d[key])
+            except UnicodeEncodeError:
+                # replace right single quote mark with single quote mark
+                d[key] = d[key].replace(u"\u2019", u"'").replace(u"\u2013", u"")
+                d[key] = str(d[key])
+                # TODO: deal with other cases, if they were to exist
+
+    return list_of_dicts
 
 def writeCSV(new_file_name, data):
 
