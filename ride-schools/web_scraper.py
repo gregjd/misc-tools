@@ -46,15 +46,25 @@ def getAllInfo(schools_html):
             "org_type": org_type
         }
 
+    def scrapeSchoolPage(school_summary):
+
+        url = school_summary["link"]
         url_ = "http://www2.ride.ri.gov/Applications/MasterDirectory/" + url
         try:
             sch_info = getSchoolInfo(url_)
         except urllib2.URLError:  # if can't load page, log URL and name
             log.warning("Couldn't load page: " + url_ +
-                + "\n(Name: " + i.find_all("td")[1].find("a").get_text() +
-                ")" + "\nPage skipped.")
+                "\n(Name: " + school_summary["name"] + ")\nPage skipped.")
+            return None
+        except AttributeError as e:
+            log.warning("AttributeError encountered on this page: " + url_ +
+                "\n(Name: " + school_summary["name"] + ")\n" +
+                "Page skipped. See details below.")
+            log.exception(e)
+            return None
         else:
-            schools.append(sch_info)
+            return sch_info
+
 
     writeCSV("ride_schools_info.csv", convertAllToString(schools))
 
