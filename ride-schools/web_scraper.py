@@ -65,6 +65,18 @@ def getAllInfo(schools_html):
         else:
             return sch_info
 
+    school_list = []
+    district_list = []
+    other_list = []
+    for org in full_list:
+        summary = getOrgSummary(org)
+        if summary["org_type"] == "School":
+            school_list.append(summary)
+        elif summary["org_type"] == "LEA":
+            district_list.append(summary)
+        else:
+            other_list.append(summary)
+
 
     writeCSV("ride_schools_info.csv", convertAllToString(schools))
 
