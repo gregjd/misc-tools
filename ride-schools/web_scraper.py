@@ -212,14 +212,22 @@ def cleanCSZ(c_s_z):
     Will convert a 9-digit ZIP to a 5-digit ZIP if necessary.
     """
 
-    city, sz = c_s_z.split(",")
-    state, zip_ = sz.split()
-    if state != "RI":
-        log.debug("Encountered state of " + state +
-            "when applying cleanCSZ to '" + c_s_z + "'.")
-    zip5 = zip_[0:5]
-
-    return (city, zip5)
+    if c_s_z == "":
+        return ("", "")
+    else:
+        try:
+            city, sz = c_s_z.split(",")
+            state, zip_ = sz.split()
+        except ValueError as e:
+            log.debug("Encountered error when trying to clean: " + c_s_z +
+                "\nOutput city and ZIP left blank.")
+            return ("", "")
+        else:
+            if state != "RI":
+                log.debug("Encountered state of " + state +
+                    " when applying cleanCSZ to '" + c_s_z + "'.")
+            zip5 = zip_[0:5]
+            return (city, zip5)
 
 
 # Run
