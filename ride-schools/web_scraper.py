@@ -118,7 +118,7 @@ def getMultiAttribute(page, short_id):
         a = content[0].strip()
         b = ", ".join([s.strip() for s in content[1:]])
         if len(content) > 2:
-            log.debug("On " + page + ", multiple new lines found here:\n"
+            log.debug("Multiple new lines found here:\n"
                 +  "\n".join(content[1:]))
         return (a, b)
 
