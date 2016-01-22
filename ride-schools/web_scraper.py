@@ -26,10 +26,6 @@ def getAllInfo(schools_html):
     full_list = html.find_all("tr",
         class_=["DataGridItem", "DataGridAlternatingItem"])
 
-    print ("Scraping each school's info page. This may take a few minutes.")
-    schools = []
-    for i in all_schools:
-        url = str(i.find_all("td")[1].find("a")["href"])
     def getOrgSummary(org_soup):
 
         tags = org_soup.find_all("td")
@@ -77,10 +73,22 @@ def getAllInfo(schools_html):
         else:
             other_list.append(summary)
 
+    print ("Scraping each school's info page. This may take a few minutes.")
+    schools = []
+    districts = []
+
+    for s in school_list:
+        sch_scrape = scrapeSchoolPage(s)
+        if sch_scrape != None:
+            schools.append(sch_scrape)
+    for d in district_list:
+        dist_scrape = scrapeSchoolPage(d)
+        if dist_scrape != None:
+            districts.append(dist_scrape)
 
     writeCSV("ride_schools_info.csv", convertAllToString(schools))
 
-    return schools
+    return (schools, districts)
 
 def getSchoolInfo(url):
 
@@ -293,4 +301,4 @@ def cleanCSZ(c_s_z):
 # Run
 
 if __name__ == "__main__":
-    schools = getAllInfo("ride_all_schools.html")
+    schools, districts = getAllInfo("ride_all_schools.html")
