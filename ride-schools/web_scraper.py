@@ -99,11 +99,11 @@ def getAttribute(page, short_id, id_type):
     else:
         raise Exception("id_type is not valid")
     try:
-        content = page.find(tag, {"id": long_id}).get_text()
+        content = page.find(tag, {"id": long_id}).get_text().strip()
     except AttributeError:
         return ""
     else:
-        return str(content)
+        return content
 
 def getMultiAttribute(page, short_id):
 
@@ -115,8 +115,8 @@ def getMultiAttribute(page, short_id):
     except AttributeError:
         return ("", "")
     else:
-        a = str(content[0])
-        b = str(", ".join(content[1:]))
+        a = content[0].strip()
+        b = ", ".join([s.strip() for s in content[1:]])
         if len(content) > 2:
             log.debug("On " + page + ", multiple new lines found here:\n"
                 +  "\n".join(content[1:]))
@@ -127,12 +127,14 @@ def getPrincipal(page):
     def getInfo(soup):
 
         rows = [row for row in soup.contents if isTag(row)]
-        name = str(rows[0].find_all("span")[1].get_text()).rstrip()
-        title = str(rows[1].find_all("span")[1].get_text())
-        roles = [str(role.get_text()) for role in rows[3].find_all("span")]
+        name = rows[0].find_all("span")[1].get_text().strip()
+        title = rows[1].find_all("span")[1].get_text().strip()
+        roles = [role.get_text() for role in rows[3].find_all("span")]
+        # removes double-spaces in the middle of names w/o middle initials:
+        name_ = name.replace(u"  ", u" ")
 
         return {
-            "name": name,
+            "name": name_,
             "title": title,
             "roles": roles
         }
