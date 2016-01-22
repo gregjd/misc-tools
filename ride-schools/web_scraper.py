@@ -149,11 +149,7 @@ def getPrincipal(page):
     t = page.find("div", {"id": "ctl00_cphContent_pnlContacts"}).table
     tags = [x for x in t.contents if isTag(x)]
     people = [getInfo(y) for y in tags if y.table != None]
-    for person in people:
-        print person
     principals = [z for z in people if isPrincipal(z)]
-    for prin in principals:
-        print prin
 
     if len(principals) == 1:
         return (principals[0]["name"], principals[0]["title"])
