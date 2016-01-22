@@ -23,9 +23,8 @@ def getAllInfo(schools_html):
     f.close()
     print ("Closed: " + schools_html)
 
-    some_schools = html.find_all("tr", class_="DataGridItem")
-    other_schools = html.find_all("tr", class_="DataGridAlternatingItem")
-    all_schools = some_schools + other_schools
+    full_list = html.find_all("tr",
+        class_=["DataGridItem", "DataGridAlternatingItem"])
 
     print ("Scraping each school's info page. This may take a few minutes.")
     schools = []
