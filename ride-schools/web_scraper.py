@@ -220,7 +220,13 @@ def isTag(t):
 def cleanPhone(phone_num):
     """Given '(123) 456-7890', returns '1234567890'."""
 
-    return "".join(re.split("\W+", phone_num))
+    try:
+        new_phone = "".join(re.split("\W+", phone_num))
+    except ValueError:
+        log.debug("Encountered error when trying to clean: " + phone_num)
+        return phone_num
+    else:
+        return new_phone
 
 def cleanCSZ(c_s_z):
     """Given 'City, RI 12345', returns ('City', '12345').
