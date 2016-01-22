@@ -3,16 +3,19 @@ import bs4  # Requires BeautifulSoup4 to be installed
 import csv
 import re
 import logging as log
+from datetime import datetime
 
 
 # Primary functions
 
 def getAllInfo(schools_html):
 
+    now = datetime.now()
+    dt = "-".join([str(now.date()), str(now.hour), str(now.minute)])
     log.basicConfig(
-        filename="ride_schools_logfile.log",
+        filename=("ride_schools_logfile_" + dt + ".log"),
         format="%(levelname)s: %(message)s",
-        level=logging.DEBUG)
+        level=log.DEBUG)
 
     print ("Opening: " + schools_html)
     f = open(schools_html, "r")
