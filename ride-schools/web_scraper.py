@@ -197,8 +197,9 @@ def convertAllToString(list_of_dicts):
 
 def writeCSV(new_file_name, data):
 
-    header = ["code", "grades", "level", "address",
-        "c_s_z", "phone", "fax", "url"]
+    header = ["code", "type", "status", "name", "dist", "config", "nces",
+        "street1", "street2", "city", "zip", "phone",
+        "url", "p_name", "p_title"]
     print '\nSaving file:', new_file_name, '...'
     with open(new_file_name, "wb") as csvfile:
         writer = csv.DictWriter(csvfile, header)
