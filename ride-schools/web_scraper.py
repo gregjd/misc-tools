@@ -105,6 +105,9 @@ def getSchoolInfo(url):
             getAttribute(page, "Name", "link") + "\n(" + url +
             ")\nFirst address used.")
 
+    street1, street2 = getMultiAttribute(page, "Address")
+    city, zip_ = cleanCSZ(getAttribute(page, "CityStateZip", "long"))
+
     p_name, p_title = getPrincipal(page, url, sch_name)
 
     return {
@@ -116,10 +119,10 @@ def getSchoolInfo(url):
         # "grades": getAttribute(page, "Grades", "short"),
         # "level": getAttribute(page, "SchLevel", "short"),
         "nces": getAttribute(page, "NCESCode", "short"),
-        "street1": getMultiAttribute(page, "Address")[0],
-        "street2": getMultiAttribute(page, "Address")[1],
-        "city": cleanCSZ(getAttribute(page, "CityStateZip", "long"))[0],
-        "zip": cleanCSZ(getAttribute(page, "CityStateZip", "long"))[1],
+        "street1": street1,
+        "street2": street2,
+        "city": city,
+        "zip": zip_,
         "phone": cleanPhone(getAttribute(page, "LocPhone", "long")),
         # "fax": cleanPhone(getAttribute(page, "LocFax", "long")),
         "url": getAttribute(page, "LocWebsite", "long"),
