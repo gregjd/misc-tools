@@ -215,7 +215,7 @@ def getPrincipal(page):
                 title_ = ", ".join(title_list)
             return (name_list[0], title_)
         else:
-            names = ", ".join(name_list)
+            names = "; ".join(name_list)
             if len(set(title_list)) == 1:  # if they all have the same title
                 titles = title_list[0] + "s"  # make it plural
             else:
