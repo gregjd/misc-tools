@@ -94,6 +94,8 @@ def getSchoolInfo(url):
 
     page = bs4.BeautifulSoup(urllib2.urlopen(url).read(), "html.parser")
 
+    sch_name = "name": getAttribute(page, "Name", "link")
+
     # if multiple addresses, make a note in the logfile:
     labels = [i.get_text() for i in 
         page.find_all("span", {"class": "smalllabel"})]
@@ -103,10 +105,10 @@ def getSchoolInfo(url):
             getAttribute(page, "Name", "link") + "\n(" + url +
             ")\nFirst address used.")
 
-    p_name, p_title = getPrincipal(page)
+    p_name, p_title = getPrincipal(page, url, sch_name)
 
     return {
-        "name": getAttribute(page, "Name", "link"),
+        "name": sch_name,
         "dist": getAttribute(page, "Parent", "link"),
         "status": getAttribute(page, "Active", "short"),
         "code": getAttribute(page, "Code", "short"),
@@ -167,7 +169,7 @@ def getMultiAttribute(page, short_id):
                 +  "\n".join(content[1:]))
         return (a, b)
 
-def getPrincipal(page):
+def getPrincipal(page, url, sch_name):
 
     def getInfo(soup):
 
@@ -194,7 +196,6 @@ def getPrincipal(page):
     try:
         t = page.find("div", {"id": "ctl00_cphContent_pnlContacts"}).table
     except AttributeError:
-        # log.exception("Couldn't find principal.")  # update to include url
         return ("", "")
     tags = [x for x in t.contents if isTag(x)]
     people = [getInfo(y) for y in tags if y.table != None]
@@ -203,7 +204,8 @@ def getPrincipal(page):
     if len(principals) == 1:
         return (principals[0]["name"], principals[0]["title"])
     elif len(principals) == 0:
-        # log debug
+        log.debug("No principal found in contacts list for " + sch_name +
+            ".\n(" + url + ")")
         return ("", "")
     elif len(principals) > 1:
         name_list = [p["name"] for p in principals]
@@ -220,10 +222,12 @@ def getPrincipal(page):
                 titles = title_list[0] + "s"  # make it plural
             else:
                 titles = "; ".join(title_list)
-            # log debug
+                log.debug("Multiple principals found for " + sch_name +
+                    ".\n(" + url + ")")
             return (names, titles)
     else:
-        # not good, log warning
+        log.warning("Encoutered error when trying to find principal for " +
+            sch_name + ".\n(" + url + ")")
         return ("", "")
 
 def convertAllToString(list_of_dicts):
