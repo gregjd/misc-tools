@@ -102,7 +102,7 @@ def getSchoolInfo(url):
     count = len([j for j in labels if j == "Address:"])
     if count > 1:
         log.debug("Found multiple addresses for " +
-            getAttribute(page, "Name", "link") + "\n(" + url +
+            sch_name + "\n(" + url +
             ")\nFirst address used.")
 
     street1, street2 = getMultiAttribute(page, "Address")
