@@ -116,7 +116,7 @@ def getSchoolInfo(url):
         "status": getAttribute(page, "Active", "short"),
         "code": getAttribute(page, "Code", "short"),
         "type": getAttribute(page, "Type", "short"),
-        # "grades": getAttribute(page, "Grades", "short"),
+        "grades": getAttribute(page, "Grades", "short"),
         # "level": getAttribute(page, "SchLevel", "short"),
         "nces": getAttribute(page, "NCESCode", "short"),
         "street1": street1,
