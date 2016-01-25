@@ -205,7 +205,10 @@ def getPrincipal(page, url, sch_name):
     principals = [z for z in people if isPrincipal(z)]
 
     if len(principals) == 1:
-        return (principals[0]["name"], principals[0]["title"])
+        if principals[0]["name"] != "[No Contact Selected]":
+            return (principals[0]["name"], principals[0]["title"])
+        else:
+            return ("", "")
     elif len(principals) == 0:
         log.debug("No principal found in contacts list for " + sch_name +
             ".\n(" + url + ")")
