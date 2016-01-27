@@ -23,7 +23,7 @@ GRADES = {
     "G12": "12"
 }
 
-# positions of grades in list
+# map from clean grade names to positions in list
 GRADE_POSITIONS = {
     "PK": 0,
     "K": 1,
@@ -40,6 +40,9 @@ GRADE_POSITIONS = {
     "11": 12,
     "12": 13
 }
+
+# map from list positions to their respective grades
+POSITION_GRADES = dict(reversed(item) for item in GRADE_POSITIONS.items())
 
 
 # Functions
