@@ -5,10 +5,10 @@ import csv
 
 # map from given grade names to cleaner names
 GRADES = {
-    "PK": "PK",
-    "PF": "PK",
-    "KG": "K",
-    "KF": "K",
+    "GPK": "PK",
+    "GPF": "PK",
+    "GKG": "K",
+    "GKF": "K",
     "G01": "1",
     "G02": "2",
     "G03": "3",
