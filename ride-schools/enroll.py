@@ -164,4 +164,4 @@ def mapData(raw_data):
 
 if __name__ == "__main__":
 
-    sch_enrolls, dist_enrolls = main()
+    sch_enrolls, dist_enrolls = main("enroll.csv")
