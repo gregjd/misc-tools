@@ -14,7 +14,7 @@ def getAllInfo(schools_html):
     now = datetime.now()
     dt = "-".join([str(now.date()), str(now.hour), str(now.minute)])
     log.basicConfig(
-        filename=("ride_schools_logfile_" + dt + ".log"),
+        filename=("web_scraper_logfile_" + dt + ".log"),
         format="%(levelname)s: %(message)s",
         level=log.DEBUG)
 
