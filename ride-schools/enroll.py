@@ -1,48 +1,5 @@
 import csv
-
-
-# Constants:
-
-# map from given grade names to cleaner names
-GRADES = {
-    "GPK": "PK",
-    "GPF": "PK",
-    "GKG": "K",
-    "GKF": "K",
-    "G01": "1",
-    "G02": "2",
-    "G03": "3",
-    "G04": "4",
-    "G05": "5",
-    "G06": "6",
-    "G07": "7",
-    "G08": "8",
-    "G09": "9",
-    "G10": "10",
-    "G11": "11",
-    "G12": "12"
-}
-
-# map from clean grade names to positions in list
-GRADE_POSITIONS = {
-    "PK": 0,
-    "K": 1,
-    "1": 2,
-    "2": 3,
-    "3": 4,
-    "4": 5,
-    "5": 6,
-    "6": 7,
-    "7": 8,
-    "8": 9,
-    "9": 10,
-    "10": 11,
-    "11": 12,
-    "12": 13
-}
-
-# map from list positions to their respective grades
-POSITION_GRADES = dict(reversed(item) for item in GRADE_POSITIONS.items())
+import constants
 
 
 # Classes
@@ -59,8 +16,8 @@ class SchoolOrDistrict():
         given_grades = ["GPK", "GPF", "GKG", "GKF", "G01", "G02", "G03",
             "G04", "G05", "G06", "G07", "G08", "G09", "G10", "G11", "G12"]
         for grade in given_grades:
-            new_grade_name = GRADES[grade]
-            list_position = GRADE_POSITIONS[new_grade_name]
+            new_grade_name = constants.GRADES[grade]
+            list_position = constants.GRADE_POSITIONS[new_grade_name]
             count = int(dict_[grade])
             self.enroll[list_position] += count
 
@@ -88,8 +45,8 @@ class SchoolOrDistrict():
                 "must be of type str.")
 
         try:
-            start_index = GRADE_POSITIONS[grade_start]
-            end_index = GRADE_POSITIONS[grade_end] + 1
+            start_index = constants.GRADE_POSITIONS[grade_start]
+            end_index = constants.GRADE_POSITIONS[grade_end] + 1
         except KeyError:
             raise KeyError("One or both of the given grades is out of range.")
 
@@ -97,16 +54,16 @@ class SchoolOrDistrict():
         missing = []
         for i in range(start_index, end_index):
             if self.enroll[i] == 0:
-                missing.append(POSITION_GRADES[i])
+                missing.append(constants.POSITION_GRADES[i])
 
         # Check enrolled students outside the given grade range:
         extra = []
         for j in range(0, start_index):
             if self.enroll[j] != 0:
-                extra.append(POSITION_GRADES[j])
+                extra.append(constants.POSITION_GRADES[j])
         for k in range(end_index, len(self.enroll)):
             if self.enroll[k] != 0:
-                extra.append(POSITION_GRADES[k])
+                extra.append(constants.POSITION_GRADES[k])
 
         # Do the enrollments match the grade span provided?
         match = ((missing == []) and (extra == []))
