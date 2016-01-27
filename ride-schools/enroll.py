@@ -55,7 +55,7 @@ def readCSV(file_name):
 
     print ("Opening: " + file_name)
     f = open(file_name, "r")
-    raw_data = csv.DictReader(f)
+    raw_data = list(csv.DictReader(f))
     f.close()
     print ("Closed: " + file_name)
 
