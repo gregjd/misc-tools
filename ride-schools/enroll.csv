@@ -1,0 +1,403 @@
+distcode,distname,schcode,schname,total,GPK,GPF,GKG,GKF,G01,G02,G03,G04,G05,G06,G07,G08,G09,G10,G11,G12
+00,Rhode Island,00,Rhode Island,142014,2014,436,1154,8743,10483,10799,11013,10900,10792,11005,10859,10945,11677,10595,9847,10752
+01,Barrington,01,Barrington,3328,24,0,0,183,222,224,256,269,262,260,280,303,268,297,255,225
+01,Barrington,01103,Primrose Hill School,316,23,0,0,60,74,63,96,0,0,0,0,0,0,0,0,0
+01,Barrington,01104,Nayatt School,345,0,0,0,74,87,93,91,0,0,0,0,0,0,0,0,0
+01,Barrington,01105,Hampden Meadows School,525,0,0,0,0,0,0,0,267,258,0,0,0,0,0,0,0
+01,Barrington,01106,Barrington High School,1028,0,0,0,0,0,0,0,0,0,0,0,0,264,294,253,217
+01,Barrington,01108,Barrington Middle School,841,0,0,0,0,0,0,0,0,0,258,280,303,0,0,0,0
+01,Barrington,01109,Sowams Elementary School,246,0,0,0,49,61,68,68,0,0,0,0,0,0,0,0,0
+01,Barrington,01190,Barrington Public Schools,27,1,0,0,0,0,0,1,2,4,2,0,0,4,3,2,8
+03,Burrillville,03,Burrillville,2383,44,0,0,146,155,173,160,176,180,187,198,211,214,195,170,174
+03,Burrillville,03104,Burrillville Middle School,595,0,0,0,0,0,0,0,0,0,187,198,210,0,0,0,0
+03,Burrillville,03105,Steere Farm Elementary School,384,0,0,0,0,0,92,102,90,100,0,0,0,0,0,0,0
+03,Burrillville,03107,William L. Callahan School,302,0,0,0,0,0,81,58,83,80,0,0,0,0,0,0,0
+03,Burrillville,03108,Austin T. Levy School,344,44,0,0,146,154,0,0,0,0,0,0,0,0,0,0,0
+03,Burrillville,03109,Burrillville High School,741,0,0,0,0,0,0,0,0,0,0,0,0,213,193,166,169
+03,Burrillville,03190,Burrillville Public Schools,17,0,0,0,0,1,0,0,3,0,0,0,1,1,2,4,5
+04,Central Falls,04,Central Falls,2657,164,1,0,197,215,241,232,214,269,167,143,147,151,161,172,183
+04,Central Falls,04101,Ella Risk School,406,0,0,0,0,97,104,102,103,0,0,0,0,0,0,0,0
+04,Central Falls,04104,Capt. G. Harold Hunt School,168,164,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+04,Central Falls,04106,Veterans Memorial Elementary,491,0,0,0,0,116,137,128,110,0,0,0,0,0,0,0,0
+04,Central Falls,04108,Central Falls Senior High School,664,0,0,0,0,0,0,0,0,0,0,0,0,150,161,170,183
+04,Central Falls,04115,Dr. Earl F. Calcutt Middle School,719,0,0,0,0,0,0,0,0,269,164,141,145,0,0,0,0
+04,Central Falls,04117,Margaret I. Robertson School,194,0,0,0,194,0,0,0,0,0,0,0,0,0,0,0,0
+04,Central Falls,04190,Central Falls Schools,15,0,0,0,0,2,0,2,1,0,3,2,2,1,0,2,0
+06,Coventry,06,Coventry,4750,136,0,256,0,314,314,354,360,359,373,372,398,396,384,348,386
+06,Coventry,06104,Alan Shawn Feinstein Middle School Of Coventry,1140,0,0,0,0,0,0,0,0,0,372,371,397,0,0,0,0
+06,Coventry,06109,Western Coventry School,362,0,0,45,0,60,59,70,57,71,0,0,0,0,0,0,0
+06,Coventry,06112,Hopkins Hill School,358,0,0,42,0,66,60,63,66,61,0,0,0,0,0,0,0
+06,Coventry,06116,Tiogue School,410,52,0,55,0,56,53,63,71,60,0,0,0,0,0,0,0
+06,Coventry,06117,Blackrock School,414,36,0,45,0,55,62,70,75,71,0,0,0,0,0,0,0
+06,Coventry,06119,Coventry High School,1505,0,0,0,0,0,0,0,0,0,0,0,0,392,381,346,386
+06,Coventry,06121,Washington Oak School,548,48,0,69,0,77,80,88,90,96,0,0,0,0,0,0,0
+06,Coventry,06190,Coventry Public Schools,13,0,0,0,0,0,0,0,1,0,1,1,1,4,3,2,0
+07,Cranston,07,Cranston,10441,84,0,530,93,729,774,808,818,797,835,824,868,872,812,763,834
+07,Cranston,07103,Oak Lawn School,249,0,0,30,0,30,30,34,42,37,46,0,0,0,0,0,0
+07,Cranston,07110,Daniel D. Waterman School,269,0,0,35,0,40,41,33,44,35,41,0,0,0,0,0,0
+07,Cranston,07112,Chester W. Barrows School,190,0,0,0,25,35,34,32,37,27,0,0,0,0,0,0,0
+07,Cranston,07113,Cranston High School East,1577,0,0,0,0,0,0,0,0,0,0,0,0,458,397,358,364
+07,Cranston,07115,Hugh B. Bain Middle School,479,0,0,0,0,0,0,0,0,0,0,233,246,0,0,0,0
+07,Cranston,07116,William R. Dutemple School,309,0,0,29,0,38,50,50,40,50,52,0,0,0,0,0,0
+07,Cranston,07117,Edward S. Rhodes School,248,0,0,0,22,31,31,33,32,43,56,0,0,0,0,0,0
+07,Cranston,07118,Eden Park School,352,0,0,33,0,59,52,49,55,49,55,0,0,0,0,0,0
+07,Cranston,07119,Gladstone Street School,565,0,0,75,0,87,96,105,94,93,15,0,0,0,0,0,0
+07,Cranston,07120,Stadium School,349,22,0,32,0,42,46,53,51,52,51,0,0,0,0,0,0
+07,Cranston,07121,Woodridge School,344,0,0,33,0,45,52,54,56,55,49,0,0,0,0,0,0
+07,Cranston,07122,Garden City School,350,26,0,47,0,45,43,49,49,36,55,0,0,0,0,0,0
+07,Cranston,07123,Park View Middle School,531,0,0,0,0,0,0,0,0,0,0,264,267,0,0,0,0
+07,Cranston,07124,George J. Peters School,347,0,0,41,0,42,48,54,55,52,55,0,0,0,0,0,0
+07,Cranston,07125,Arlington School,276,0,0,24,0,35,35,35,23,25,99,0,0,0,0,0,0
+07,Cranston,07126,Cranston High School West,1476,0,0,0,0,0,0,0,0,0,0,0,0,361,357,350,408
+07,Cranston,07127,Stone Hill School,312,13,0,48,0,33,52,45,45,39,37,0,0,0,0,0,0
+07,Cranston,07128,Glen Hills School,347,3,0,43,0,57,46,49,55,46,48,0,0,0,0,0,0
+07,Cranston,07129,Western Hills Middle School,656,0,0,0,0,0,0,0,0,0,0,310,346,0,0,0,0
+07,Cranston,07130,Edgewood Highland School,244,0,0,24,0,36,33,38,30,41,42,0,0,0,0,0,0
+07,Cranston,07134,Hope Highlands Elementary School,363,14,0,33,0,43,44,52,44,59,74,0,0,0,0,0,0
+07,Cranston,07135,NEL/CPS Construction Career Academy,170,0,0,0,0,0,0,0,0,0,0,0,0,47,42,40,41
+07,Cranston,07136,Orchard Farms Elementary School,304,3,0,0,46,27,34,39,55,48,52,0,0,0,0,0,0
+07,Cranston,07190,Cranston Public Schools,134,3,0,3,0,4,7,4,11,10,8,17,9,6,16,15,21
+08,Cumberland,08,Cumberland,4552,90,0,0,285,339,315,349,332,369,388,368,385,403,277,303,349
+08,Cumberland,08107,B.F. Norton Elementary School,432,0,0,0,54,75,68,72,79,84,0,0,0,0,0,0,0
+08,Cumberland,08108,Garvin Memorial School,396,0,0,0,58,66,69,68,64,71,0,0,0,0,0,0,0
+08,Cumberland,08109,Community School,572,0,0,0,84,92,80,111,93,112,0,0,0,0,0,0,0
+08,Cumberland,08110,John J. McLaughlin Cumberland Hill School,339,0,0,0,46,67,54,59,53,60,0,0,0,0,0,0,0
+08,Cumberland,08112,Ashton School,248,0,0,0,43,39,43,38,43,42,0,0,0,0,0,0,0
+08,Cumberland,08114,Cumberland High School,1298,0,0,0,0,0,0,0,0,0,0,0,0,395,274,297,332
+08,Cumberland,08115,Joseph L. McCourt Middle School,451,0,0,0,0,0,0,0,0,0,145,157,149,0,0,0,0
+08,Cumberland,08116,North Cumberland Middle School,685,0,0,0,0,0,0,0,0,0,240,211,234,0,0,0,0
+08,Cumberland,08121,Cumberland Preschool Center,90,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+08,Cumberland,08190,Cumberland Public Schools,41,0,0,0,0,0,1,1,0,0,3,0,2,8,3,6,17
+09,East Greenwich,09,East Greenwich,2455,46,1,83,41,166,153,180,187,215,211,226,201,205,183,146,211
+09,East Greenwich,09102,James H. Eldredge El. School,298,0,0,0,0,0,0,92,98,108,0,0,0,0,0,0,0
+09,East Greenwich,09103,Archie R. Cole Middle School,633,0,0,0,0,0,0,0,0,0,210,225,198,0,0,0,0
+09,East Greenwich,09105,Frenchtown School,238,0,0,41,19,90,88,0,0,0,0,0,0,0,0,0,0
+09,East Greenwich,09106,East Greenwich High School,737,0,0,0,0,0,0,0,0,0,0,0,0,204,183,146,204
+09,East Greenwich,09107,Meadowbrook Farms School,251,45,1,42,22,76,65,0,0,0,0,0,0,0,0,0,0
+09,East Greenwich,09108,George Hanaford School,281,0,0,0,0,0,0,88,87,106,0,0,0,0,0,0,0
+09,East Greenwich,09190,E. Greenwich Public Schools,17,1,0,0,0,0,0,0,2,1,1,1,3,1,0,0,7
+10,East Providence,10,East Providence,5282,90,0,0,411,397,425,414,422,406,391,406,370,413,388,332,417
+10,East Providence,10109,Edward R. Martin Middle School,712,0,0,0,0,0,0,0,0,0,248,265,199,0,0,0,0
+10,East Providence,10111,James R. D. Oldham School,174,0,0,0,26,24,25,22,34,43,0,0,0,0,0,0,0
+10,East Providence,10112,East Providence High School,1478,0,0,0,0,0,0,0,0,0,0,0,0,401,376,311,390
+10,East Providence,10113,Kent Heights School,291,0,0,0,46,51,51,52,49,42,0,0,0,0,0,0,0
+10,East Providence,10114,Alice M. Waddington School,505,90,0,0,67,68,65,66,77,72,0,0,0,0,0,0,0
+10,East Providence,10116,Agnes B. Hennessey School,295,0,0,0,43,51,52,51,47,51,0,0,0,0,0,0,0
+10,East Providence,10117,Emma G. Whiteknact School,290,0,0,0,51,54,52,51,42,40,0,0,0,0,0,0,0
+10,East Providence,10122,Riverside Middle School,434,0,0,0,0,0,0,0,0,0,136,134,164,0,0,0,0
+10,East Providence,10123,Silver Spring School,285,0,0,0,52,39,52,44,48,50,0,0,0,0,0,0,0
+10,East Providence,10124,Orlo Avenue School,300,0,0,0,51,45,51,51,52,50,0,0,0,0,0,0,0
+10,East Providence,10125,Myron J. Francis Elementary School,412,0,0,0,75,64,74,74,69,56,0,0,0,0,0,0,0
+10,East Providence,10190,E. Providence School Department,106,0,0,0,0,1,3,3,4,2,7,7,7,12,12,21,27
+12,Foster,12,Foster,277,0,0,0,39,29,51,53,48,57,0,0,0,0,0,0,0
+12,Foster,12101,Captain Isaac Paine Elementary School,277,0,0,0,39,29,51,53,48,57,0,0,0,0,0,0,0
+13,Glocester,13,Glocester,545,0,4,0,82,89,79,93,103,95,0,0,0,0,0,0,0
+13,Glocester,13103,Fogarty Memorial School,313,0,0,0,48,53,43,55,58,56,0,0,0,0,0,0,0
+13,Glocester,13104,West Glocester Elementary,232,0,4,0,34,36,36,38,45,39,0,0,0,0,0,0,0
+15,Jamestown,15,Jamestown,496,23,0,0,44,48,48,60,54,52,59,53,50,0,1,0,4
+15,Jamestown,15101,Jamestown School-Lawn,213,0,0,0,0,0,0,0,0,52,58,53,50,0,0,0,0
+15,Jamestown,15102,Jamestown School-Melrose,277,23,0,0,44,48,48,60,54,0,0,0,0,0,0,0,0
+15,Jamestown,15190,Jamestown Public Schools,6,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4
+16,Johnston,16,Johnston,3217,75,2,0,220,262,235,252,257,244,251,263,269,219,197,207,264
+16,Johnston,16103,Thornton School,368,0,0,0,0,77,68,69,83,71,0,0,0,0,0,0,0
+16,Johnston,16106,Brown Avenue School,231,0,0,0,0,49,45,46,50,41,0,0,0,0,0,0,0
+16,Johnston,16108,Sarah Dyer Barnes School,306,0,0,0,36,55,49,63,51,52,0,0,0,0,0,0,0
+16,Johnston,16109,Winsor Hill School,372,0,0,0,0,81,69,72,70,80,0,0,0,0,0,0,0
+16,Johnston,16110,Graniteville School,75,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Johnston,16111,Nicholas A. Ferri Middle School,769,0,0,0,0,0,0,0,0,0,244,261,264,0,0,0,0
+16,Johnston,16112,Johnston Senior High School,841,0,0,0,0,0,0,0,0,0,0,0,0,217,192,191,241
+16,Johnston,16114,Early Childhood Center,184,0,0,0,184,0,0,0,0,0,0,0,0,0,0,0,0
+16,Johnston,16190,Johnston Public Schools,71,0,2,0,0,0,4,2,3,0,7,2,5,2,5,16,23
+17,Lincoln,17,Lincoln,3012,97,0,0,199,195,219,206,212,226,272,243,247,253,191,199,253
+17,Lincoln,17106,Lonsdale Elementary School,266,0,0,0,35,34,53,49,43,52,0,0,0,0,0,0,0
+17,Lincoln,17109,Lincoln Central Elementary School,332,0,0,0,60,53,62,49,57,51,0,0,0,0,0,0,0
+17,Lincoln,17110,Lincoln Senior High School,886,0,0,0,0,0,0,0,0,0,0,0,0,249,189,198,250
+17,Lincoln,17112,Saylesville Elementary School,252,0,0,0,34,44,42,37,43,52,0,0,0,0,0,0,0
+17,Lincoln,17113,Northern Lincoln Elementary School,495,97,0,0,69,62,61,70,66,70,0,0,0,0,0,0,0
+17,Lincoln,17117,Lincoln Middle School,760,0,0,0,0,0,0,0,0,0,271,242,247,0,0,0,0
+17,Lincoln,17190,Lincoln Public Schools,21,0,0,0,1,2,1,1,3,1,1,1,0,4,2,1,3
+18,Little Compton,18,Little Compton,243,0,0,0,17,25,25,21,25,28,31,36,35,0,0,0,0
+18,Little Compton,18101,Wilbur and McMahon Schools,243,0,0,0,17,25,25,21,25,28,31,36,35,0,0,0,0
+19,Middletown,19,Middletown,2287,20,0,0,187,173,145,181,194,179,196,165,183,211,146,158,149
+19,Middletown,19106,Aquidneck School,390,20,0,0,104,95,80,91,0,0,0,0,0,0,0,0,0
+19,Middletown,19107,Forest Avenue School,313,0,0,0,83,76,65,89,0,0,0,0,0,0,0,0,0
+19,Middletown,19111,Middletown High School,636,0,0,0,0,0,0,0,0,0,0,0,0,209,137,151,139
+19,Middletown,19114,Joseph H. Gaudet School,712,0,0,0,0,0,0,0,0,178,193,160,181,0,0,0,0
+19,Middletown,19117,Joseph H. Gaudet Learning Academy,192,0,0,0,0,0,0,0,192,0,0,0,0,0,0,0,0
+19,Middletown,19190,Middletown Public Schools,44,0,0,0,0,2,0,1,2,1,3,5,2,2,9,7,10
+20,Narragansett,20,Narragansett,1321,45,6,0,74,76,86,92,111,111,112,101,87,113,113,92,102
+20,Narragansett,20102,Narragansett Elementary School,489,45,5,0,74,76,86,92,111,0,0,0,0,0,0,0,0
+20,Narragansett,20103,Narragansett Pier School,409,0,0,0,0,0,0,0,0,111,112,100,86,0,0,0,0
+20,Narragansett,20104,Narragansett High School,418,0,0,0,0,0,0,0,0,0,0,0,0,112,113,92,101
+20,Narragansett,20190,Narragansett Public Schools,5,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1
+21,Newport,21,Newport,2173,59,0,0,181,207,164,177,151,148,164,156,151,174,175,124,142
+21,Newport,21106,Frank E. Thompson Middle School,609,0,0,0,0,0,0,0,0,147,161,153,148,0,0,0,0
+21,Newport,21107,Claiborne Pell Elementary School,933,59,0,0,181,205,163,175,150,0,0,0,0,0,0,0,0
+21,Newport,21111,Rogers High School,590,0,0,0,0,0,0,0,0,0,0,0,0,168,165,119,138
+21,Newport,21190,Newport Public Schools,41,0,0,0,0,2,1,2,1,1,3,3,3,6,10,5,4
+22,New Shoreham,22,New Shoreham,113,0,0,0,9,8,6,5,6,10,9,12,12,14,6,7,9
+22,New Shoreham,22101,Block Island School,112,0,0,0,9,8,6,5,6,10,9,12,12,14,6,7,8
+22,New Shoreham,22190,New Shoreham Public Schools,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,North Kingstown,23,North Kingstown,4017,82,0,0,217,234,239,281,277,292,322,307,342,336,368,333,387
+23,North Kingstown,23105,Wickford Middle School,430,0,0,0,0,0,0,0,0,0,142,139,149,0,0,0,0
+23,North Kingstown,23108,North Kingstown Senior High School,1360,0,0,0,0,0,0,0,0,0,0,0,0,329,356,323,352
+23,North Kingstown,23109,Fishing Cove Elementary School,304,82,0,0,30,40,30,39,34,49,0,0,0,0,0,0,0
+23,North Kingstown,23110,Forest Park Elementary School,256,0,0,0,33,37,38,47,49,52,0,0,0,0,0,0,0
+23,North Kingstown,23111,Hamilton Elementary School,346,0,0,0,48,42,61,61,67,67,0,0,0,0,0,0,0
+23,North Kingstown,23112,Davisville Middle School,534,0,0,0,0,0,0,0,0,0,179,166,189,0,0,0,0
+23,North Kingstown,23113,Suzanne M. Henseler Quidnessett Elementary School,294,0,0,0,50,53,47,56,42,46,0,0,0,0,0,0,0
+23,North Kingstown,23114,Stony Lane Elementary School,409,0,0,0,56,61,60,75,82,75,0,0,0,0,0,0,0
+23,North Kingstown,23190,N. Kingstown Public Schools,84,0,0,0,0,1,3,3,3,3,1,2,4,7,12,10,35
+24,North Providence,24,North Providence,3562,93,0,0,245,260,277,250,285,270,292,296,290,243,249,233,279
+24,North Providence,24103,Marieville Elementary School,232,0,0,0,31,40,49,37,29,46,0,0,0,0,0,0,0
+24,North Providence,24105,North Providence High School,967,0,0,0,0,0,0,0,0,0,0,0,0,240,240,223,264
+24,North Providence,24106,Stephen Olney School,293,0,0,0,44,48,45,51,60,45,0,0,0,0,0,0,0
+24,North Providence,24107,James L. McGuire School,268,0,0,0,39,44,43,39,55,48,0,0,0,0,0,0,0
+24,North Providence,24108,Dr. Joseph A Whelan Elementary School,261,0,0,0,39,43,47,40,48,44,0,0,0,0,0,0,0
+24,North Providence,24109,Centredale School,279,27,0,0,43,39,44,39,43,44,0,0,0,0,0,0,0
+24,North Providence,24110,Greystone School,322,65,0,0,46,42,45,39,44,41,0,0,0,0,0,0,0
+24,North Providence,24111,Dr. Edward A. Ricci Middle School,441,0,0,0,0,0,0,0,0,0,143,142,156,0,0,0,0
+24,North Providence,24112,Birchwood Middle School,430,0,0,0,0,0,0,0,0,0,145,154,131,0,0,0,0
+24,North Providence,24190,N. Providence School Department,69,1,0,0,3,4,4,5,6,2,4,0,3,3,9,10,15
+25,North Smithfield,25,North Smithfield,1729,37,0,0,104,117,122,137,116,125,144,152,163,134,119,120,139
+25,North Smithfield,25106,Dr. Harry L. Halliwell Memorial School,331,0,0,0,0,0,0,90,116,125,0,0,0,0,0,0,0
+25,North Smithfield,25108,North Smithfield High School,496,0,0,0,0,0,0,0,0,0,0,0,0,133,111,117,135
+25,North Smithfield,25109,North Smithfield Middle School,454,0,0,0,0,0,0,0,0,0,143,152,159,0,0,0,0
+25,North Smithfield,25110,North Smithfield Elementary School,424,37,0,0,104,117,121,45,0,0,0,0,0,0,0,0,0
+25,North Smithfield,25190,N. Smithfield Schools,24,0,0,0,0,0,1,2,0,0,1,0,4,1,8,3,4
+26,Pawtucket,26,Pawtucket,9022,53,57,0,719,792,813,850,782,778,776,710,656,456,477,530,573
+26,Pawtucket,26103,Joseph Jenks Junior High School,563,0,0,0,0,0,0,0,0,0,198,192,173,0,0,0,0
+26,Pawtucket,26105,William E Tolman Senior High School,1012,0,0,0,0,0,0,0,0,0,0,0,0,235,227,264,286
+26,Pawtucket,26106,Samuel Slater Junior High School,711,0,0,0,0,0,0,0,0,0,190,270,251,0,0,0,0
+26,Pawtucket,26107,Goff Junior High School,721,0,0,0,0,0,0,0,0,0,250,244,227,0,0,0,0
+26,Pawtucket,26109,Jacqueline M. Walsh School for the Performing and,168,0,0,0,0,0,0,0,0,0,0,0,0,43,42,35,48
+26,Pawtucket,26110,Potter-Burns School,509,0,0,0,81,79,83,94,81,91,0,0,0,0,0,0,0
+26,Pawtucket,26111,Nathanael Greene School,523,0,0,0,56,70,69,68,76,106,78,0,0,0,0,0,0
+26,Pawtucket,26113,Fallon Memorial School,600,0,57,0,70,88,112,96,80,97,0,0,0,0,0,0,0
+26,Pawtucket,26115,Flora S. Curtis Memorial School,374,53,0,0,47,51,57,56,60,50,0,0,0,0,0,0,0
+26,Pawtucket,26116,Curvin-McCabe School,472,0,0,0,76,76,75,94,72,79,0,0,0,0,0,0,0
+26,Pawtucket,26118,Charles E. Shea High School,809,0,0,0,0,0,0,0,0,0,0,0,0,173,202,218,216
+26,Pawtucket,26119,Henry J. Winters School,392,0,0,0,67,71,69,70,56,59,0,0,0,0,0,0,0
+26,Pawtucket,26120,Elizabeth Baldwin School,695,0,0,0,108,118,111,141,125,92,0,0,0,0,0,0,0
+26,Pawtucket,26121,M. Virginia Cunningham School,536,0,0,0,90,90,99,91,92,74,0,0,0,0,0,0,0
+26,Pawtucket,26122,Agnes E. Little School,446,0,0,0,66,73,73,67,80,87,0,0,0,0,0,0,0
+26,Pawtucket,26125,Francis J. Varieur School,402,0,0,0,57,75,61,66,51,41,51,0,0,0,0,0,0
+26,Pawtucket,26190,Pawtucket Public Schools,89,0,0,0,1,1,4,7,9,2,9,4,5,5,6,13,23
+27,Portsmouth,27,Portsmouth,2480,26,0,0,153,148,162,171,160,180,177,187,215,215,201,249,236
+27,Portsmouth,27104,Howard Hathaway School,361,0,0,0,83,91,88,99,0,0,0,0,0,0,0,0,0
+27,Portsmouth,27106,Portsmouth High School,879,0,0,0,0,0,0,0,0,0,0,0,0,213,197,245,224
+27,Portsmouth,27111,Melville Elementary School,296,26,0,0,70,57,72,71,0,0,0,0,0,0,0,0,0
+27,Portsmouth,27112,Portsmouth Middle School,908,0,0,0,0,0,0,0,158,177,174,187,212,0,0,0,0
+27,Portsmouth,27190,Portsmouth Public Schools,36,0,0,0,0,0,2,1,2,3,3,0,3,2,4,4,12
+28,Providence,28,Providence,23867,126,149,0,1767,1834,2084,1981,1956,1890,1888,1767,1763,2068,1735,1423,1436
+28,Providence,28103,Leviton Dual Language School,286,0,0,0,45,48,49,51,48,45,0,0,0,0,0,0,0
+28,Providence,28106,Frank D. Spaziano Elementary School Annex,174,0,0,0,84,90,0,0,0,0,0,0,0,0,0,0,0
+28,Providence,28113,Dr. Jorge Alvarez High School,410,0,0,0,0,0,0,0,0,0,0,0,0,163,103,64,80
+28,Providence,28115,Asa Messer Elementary School,561,19,23,0,102,102,103,107,105,0,0,0,0,0,0,0,0
+28,Providence,28116,Alan Shawn Feinstein Elementary at Broad Street,465,0,0,0,75,82,78,67,91,72,0,0,0,0,0,0,0
+28,Providence,28121,"Alfred Lima, Sr. Elementary School",578,0,0,0,0,0,144,167,125,142,0,0,0,0,0,0,0
+28,Providence,28122,Charles N. Fortes Elementary School,351,29,42,0,131,149,0,0,0,0,0,0,0,0,0,0,0
+28,Providence,28127,Webster Avenue School,390,0,0,0,51,48,53,105,54,79,0,0,0,0,0,0,0
+28,Providence,28130,Veazie Street School,598,0,0,0,89,96,100,100,116,97,0,0,0,0,0,0,0
+28,Providence,28134,Frank D. Spaziano Elementary School,474,0,0,0,0,0,121,122,127,104,0,0,0,0,0,0,0
+28,Providence,28135,George J. West Elementary School,832,0,0,0,131,99,155,171,150,126,0,0,0,0,0,0,0
+28,Providence,28137,Esek Hopkins Middle School,546,0,0,0,0,0,0,0,0,0,194,154,198,0,0,0,0
+28,Providence,28138,Robert F. Kennedy Elementary School,470,0,0,0,71,77,79,75,70,98,0,0,0,0,0,0,0
+28,Providence,28139,Central High School,1065,0,0,0,0,0,0,0,0,0,0,0,0,276,297,270,222
+28,Providence,28140,Carl G. Lauro Elementary School,879,0,0,0,127,145,201,138,137,131,0,0,0,0,0,0,0
+28,Providence,28142,Reservoir Avenue School,306,0,0,0,51,51,51,51,51,51,0,0,0,0,0,0,0
+28,Providence,28143,Nathan Bishop Middle School,707,0,0,0,0,0,0,0,0,0,234,211,262,0,0,0,0
+28,Providence,28144,Gilbert Stuart Middle School,879,0,0,0,0,0,0,0,0,0,284,290,305,0,0,0,0
+28,Providence,28145,Nathanael Greene Middle School,971,0,0,0,0,0,0,0,0,0,346,296,329,0,0,0,0
+28,Providence,28147,Roger Williams Middle School,857,0,0,0,0,0,0,0,0,0,277,282,298,0,0,0,0
+28,Providence,28149,Hope High School,815,0,0,0,0,0,0,0,0,0,0,0,0,213,208,158,236
+28,Providence,28150,Mount Pleasant High School,876,0,0,0,0,0,0,0,0,0,0,0,0,290,212,161,213
+28,Providence,28151,Vartan Gregorian Elementary School,387,0,0,0,51,70,84,69,54,59,0,0,0,0,0,0,0
+28,Providence,28153,William D'Abate Elementary School,405,0,0,0,76,74,78,50,52,75,0,0,0,0,0,0,0
+28,Providence,28156,"Robert L Bailey IV, Elementary School",440,0,0,0,72,74,51,72,77,94,0,0,0,0,0,0,0
+28,Providence,28157,"Lillian Feinstein Elementary, Sackett Street",447,0,0,0,69,71,82,74,73,78,0,0,0,0,0,0,0
+28,Providence,28160,Mary E. Fogarty Elementary School,466,0,0,0,66,71,98,72,88,71,0,0,0,0,0,0,0
+28,Providence,28161,Harry Kizirian Elementary School,601,0,0,0,102,94,104,96,118,87,0,0,0,0,0,0,0
+28,Providence,28162,"The Sgt. Cornel Young, Jr & Charlotte Woods Elemen",693,15,0,0,97,98,130,115,147,91,0,0,0,0,0,0,0
+28,Providence,28163,"Dr. Martin Luther King, Jr. Elementary School",498,0,0,0,68,96,96,89,78,71,0,0,0,0,0,0,0
+28,Providence,28164,Classical High School,1143,0,0,0,0,0,0,0,0,0,0,0,0,293,304,264,282
+28,Providence,28165,Pleasant View School,414,44,67,0,51,48,54,47,52,51,0,0,0,0,0,0,0
+28,Providence,28170,Times2 Academy,675,0,0,0,58,57,57,57,58,57,57,62,68,41,43,36,24
+28,Providence,28178,Academy for Career Exploration (ACES),201,0,0,0,0,0,0,0,0,0,0,0,0,60,50,56,35
+28,Providence,28181,Anthony Carnevale Elementary School,573,19,17,0,100,84,110,80,78,85,0,0,0,0,0,0,0
+28,Providence,28182,Governor Christopher DelSesto Middle School,912,0,0,0,0,0,0,0,0,0,358,311,243,0,0,0,0
+28,Providence,28187,E-Cubed Academy,346,0,0,0,0,0,0,0,0,0,0,0,0,84,86,96,80
+28,Providence,28189,"William B. Cooley, Sr. High School and the Provide",677,0,0,0,0,0,0,0,0,0,0,0,0,231,209,135,102
+28,Providence,28190,Providence Public Schools,234,0,0,0,0,10,6,6,7,18,11,15,22,42,32,26,39
+28,Providence,28193,Providence Career and Technical Academy,684,0,0,0,0,0,0,0,0,0,0,0,0,214,190,157,123
+28,Providence,28194,West Broadway Middle School,419,0,0,0,0,0,0,0,0,108,127,146,38,0,0,0,0
+28,Providence,28195,360 High School,78,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0
+28,Providence,28196,Evolutions High School,84,0,0,0,0,0,0,0,0,0,0,0,0,83,1,0,0
+30,Scituate,30,Scituate,1366,11,0,0,73,77,78,112,89,122,119,109,113,117,114,99,133
+30,Scituate,30102,Hope Elementary School,209,0,0,0,21,22,34,37,47,48,0,0,0,0,0,0,0
+30,Scituate,30103,Clayville Elementary School,142,11,0,0,21,19,21,25,20,25,0,0,0,0,0,0,0
+30,Scituate,30104,Scituate High School,463,0,0,0,0,0,0,0,0,0,0,0,0,117,114,99,133
+30,Scituate,30105,Scituate Middle School,341,0,0,0,0,0,0,0,0,0,119,109,113,0,0,0,0
+30,Scituate,30106,North Scituate Elementary School,211,0,0,0,31,36,23,50,22,49,0,0,0,0,0,0,0
+31,Smithfield,31,Smithfield,2390,45,2,0,157,148,176,194,176,197,171,178,201,201,176,179,189
+31,Smithfield,31103,William Winsor School,261,0,0,0,35,44,36,49,49,48,0,0,0,0,0,0,0
+31,Smithfield,31104,Old County Road School,256,0,0,0,43,33,50,38,43,49,0,0,0,0,0,0,0
+31,Smithfield,31105,Anna M. McCabe School,337,45,2,0,38,40,46,67,49,50,0,0,0,0,0,0,0
+31,Smithfield,31107,Smithfield Senior High School,742,0,0,0,0,0,0,0,0,0,0,0,0,201,175,178,188
+31,Smithfield,31108,Raymond C. LaPerche School,240,0,0,0,41,31,44,40,35,49,0,0,0,0,0,0,0
+31,Smithfield,31109,Vincent J. Gallagher Middle School,549,0,0,0,0,0,0,0,0,0,170,178,201,0,0,0,0
+31,Smithfield,31190,Smithfield Public Schools,5,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1
+32,South Kingstown,32,South Kingstown,3249,44,66,0,197,213,196,235,243,247,281,250,265,239,225,242,306
+32,South Kingstown,32103,Wakefield Elementary School,253,0,0,0,36,59,53,47,58,0,0,0,0,0,0,0,0
+32,South Kingstown,32105,South Kingstown Integrated Pre-school,110,44,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,South Kingstown,32107,Peace Dale Elementary School,360,0,0,0,80,67,61,79,73,0,0,0,0,0,0,0,0
+32,South Kingstown,32108,South Kingstown High School,1004,0,0,0,0,0,0,0,0,0,0,0,0,238,221,241,304
+32,South Kingstown,32110,Curtis Corner Middle School,511,0,0,0,0,0,0,0,0,0,0,249,262,0,0,0,0
+32,South Kingstown,32112,West Kingston Elementary School,265,0,0,0,47,50,40,62,66,0,0,0,0,0,0,0,0
+32,South Kingstown,32113,Matunuck School,202,0,0,0,34,35,42,47,44,0,0,0,0,0,0,0,0
+32,South Kingstown,32114,Broad Rock Middle School,526,0,0,0,0,0,0,0,0,247,279,0,0,0,0,0,0
+32,South Kingstown,32190,S. Kingstown Public Schools,18,0,0,0,0,2,0,0,2,0,2,1,3,1,4,1,2
+33,Tiverton,33,Tiverton,1843,26,0,0,142,120,130,152,148,137,146,133,155,125,150,128,151
+33,Tiverton,33105,Walter E. Ranger School,235,1,0,0,47,41,49,46,51,0,0,0,0,0,0,0,0
+33,Tiverton,33106,Fort Barton School,233,0,0,0,50,37,37,63,46,0,0,0,0,0,0,0,0
+33,Tiverton,33107,Pocasset School,248,25,0,0,45,42,43,42,51,0,0,0,0,0,0,0,0
+33,Tiverton,33108,Tiverton High School,542,0,0,0,0,0,0,0,0,0,0,0,0,122,147,127,146
+33,Tiverton,33110,Tiverton Middle School,562,0,0,0,0,0,0,0,0,135,145,132,150,0,0,0,0
+33,Tiverton,33190,Tiverton Public Schools,23,0,0,0,0,0,1,1,0,2,1,1,5,3,3,1,5
+35,Warwick,35,Warwick,9140,171,22,285,322,661,681,630,697,689,743,692,711,779,660,663,734
+35,Warwick,35101,Norwood School,260,0,0,0,44,43,39,40,35,20,39,0,0,0,0,0,0
+35,Warwick,35104,Oakland Beach Elementary School,362,31,0,0,48,51,44,38,45,53,52,0,0,0,0,0,0
+35,Warwick,35114,Greenwood School,275,0,0,25,0,40,44,42,33,49,42,0,0,0,0,0,0
+35,Warwick,35118,Aldrich Junior High School,497,0,0,0,0,0,0,0,0,0,0,233,264,0,0,0,0
+35,Warwick,35119,Wyman School,272,0,0,0,22,37,43,35,48,39,48,0,0,0,0,0,0
+35,Warwick,35120,Gorton Junior High School,404,0,0,0,0,0,0,0,0,0,0,211,193,0,0,0,0
+35,Warwick,35121,E. G. Robertson School,298,0,0,0,28,44,44,46,47,44,45,0,0,0,0,0,0
+35,Warwick,35123,Lippitt School,254,0,0,0,48,36,36,30,36,32,36,0,0,0,0,0,0
+35,Warwick,35124,Randall Holden School,248,0,0,36,0,37,38,36,31,27,43,0,0,0,0,0,0
+35,Warwick,35125,Francis School,247,0,0,0,23,30,39,22,44,44,45,0,0,0,0,0,0
+35,Warwick,35127,Sherman School,334,0,0,39,0,32,49,51,57,51,55,0,0,0,0,0,0
+35,Warwick,35128,Holliman School,291,0,0,0,23,48,43,33,49,49,46,0,0,0,0,0,0
+35,Warwick,35129,John Wickes School,347,0,0,41,17,52,44,46,48,51,48,0,0,0,0,0,0
+35,Warwick,35130,Warwick Veterans Memorial HS,809,0,0,0,0,0,0,0,0,0,0,0,0,217,193,181,218
+35,Warwick,35131,Cedar Hill School,369,0,0,35,0,53,43,55,64,51,68,0,0,0,0,0,0
+35,Warwick,35132,Park School,262,0,0,32,0,41,39,40,36,33,41,0,0,0,0,0,0
+35,Warwick,35133,Warwick Neck School,294,0,0,43,0,33,41,39,44,53,41,0,0,0,0,0,0
+35,Warwick,35134,Pilgrim High School,969,0,0,0,0,0,0,0,0,0,0,0,0,270,236,225,238
+35,Warwick,35135,Harold F. Scott School,272,0,0,34,0,35,39,34,43,44,43,0,0,0,0,0,0
+35,Warwick,35136,Cottrell F. Hoxsie School,313,0,0,0,46,48,56,43,33,44,43,0,0,0,0,0,0
+35,Warwick,35137,Drum Rock Early Childhood Center,185,140,22,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+35,Warwick,35138,Toll Gate High School,959,0,0,0,0,0,0,0,0,0,0,0,0,280,206,232,241
+35,Warwick,35139,Winman Junior High School,488,0,0,0,0,0,0,0,0,0,0,244,244,0,0,0,0
+35,Warwick,35190,Warwick Public Schools,131,0,0,0,0,1,0,0,4,5,8,4,10,12,25,25,37
+36,Westerly,36,Westerly,2908,0,92,0,190,217,214,228,219,214,235,212,215,229,208,214,221
+36,Westerly,36101,Bradford Elementary School,176,0,92,0,18,18,18,14,16,0,0,0,0,0,0,0,0
+36,Westerly,36103,Westerly Middle School,867,0,0,0,0,0,0,0,0,213,232,208,214,0,0,0,0
+36,Westerly,36104,Westerly High School,851,0,0,0,0,0,0,0,0,0,0,0,0,227,201,205,218
+36,Westerly,36106,State Street School,356,0,0,0,68,68,78,75,67,0,0,0,0,0,0,0,0
+36,Westerly,36109,Dunn's Corners School,283,0,0,0,51,56,53,64,59,0,0,0,0,0,0,0,0
+36,Westerly,36111,Springbrook Elementary School,338,0,0,0,53,74,64,72,75,0,0,0,0,0,0,0,0
+36,Westerly,36190,Westerly Public Schools,37,0,0,0,0,1,1,3,2,1,3,4,1,2,7,9,3
+38,West Warwick,38,West Warwick,3485,55,7,0,273,288,275,318,249,259,227,269,246,326,263,211,219
+38,West Warwick,38104,John F. Horgan Elementary School,528,0,0,0,113,109,107,99,100,0,0,0,0,0,0,0,0
+38,West Warwick,38105,Maisie E. Quinn Elementary School,58,54,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,West Warwick,38106,West Warwick Senior High School,992,0,0,0,0,0,0,0,0,0,0,0,0,324,256,199,213
+38,West Warwick,38107,John F. Deering Middle School,1000,0,0,0,0,0,0,0,0,259,226,269,246,0,0,0,0
+38,West Warwick,38109,Greenbush Elementary School,469,0,0,0,89,110,97,99,74,0,0,0,0,0,0,0,0
+38,West Warwick,38111,Wakefield Hills Elementary School,408,1,3,0,71,69,71,119,74,0,0,0,0,0,0,0,0
+38,West Warwick,38190,W. Warwick Public Schools,30,0,0,0,0,0,0,1,1,0,1,0,0,2,7,12,6
+39,Woonsocket,39,Woonsocket,5908,64,0,0,476,523,511,536,487,459,412,458,442,475,339,344,382
+39,Woonsocket,39101,Harris School,400,0,0,0,72,75,65,70,54,64,0,0,0,0,0,0,0
+39,Woonsocket,39110,Governor Aram J. Pothier School,528,64,0,0,140,172,149,3,0,0,0,0,0,0,0,0,0
+39,Woonsocket,39115,Woonsocket Middle School,1276,0,0,0,0,0,0,0,0,0,407,445,424,0,0,0,0
+39,Woonsocket,39117,Citizens Memorial School,397,0,0,0,0,0,0,158,127,112,0,0,0,0,0,0,0
+39,Woonsocket,39118,Bernon Heights School,463,0,0,0,73,75,69,89,85,72,0,0,0,0,0,0,0
+39,Woonsocket,39119,Globe Park School,496,0,0,0,71,80,102,67,87,89,0,0,0,0,0,0,0
+39,Woonsocket,39120,Leo A. Savoie School,453,0,0,0,73,68,71,86,77,78,0,0,0,0,0,0,0
+39,Woonsocket,39123,Woonsocket High School,1486,0,0,0,0,0,0,0,0,0,0,0,0,466,332,322,366
+39,Woonsocket,39128,Kevin K. Coleman Elementary School,292,0,0,0,47,51,52,53,52,37,0,0,0,0,0,0,0
+39,Woonsocket,39190,Woonsocket Public Schools,117,0,0,0,0,2,3,10,5,7,5,13,18,9,7,22,16
+40,Davies Career and Tech,17701,Wm. M. Davies Jr. Career-Technical  High School,809,0,0,0,0,0,0,0,0,0,0,0,0,238,206,170,195
+40,Davies Career and Tech,40,Davies Career and Tech,809,0,0,0,0,0,0,0,0,0,0,0,0,238,206,170,195
+41,Achievement First Rhode Island,28609,Achievement First Providence Mayoral Academy,351,0,0,0,82,86,92,91,0,0,0,0,0,0,0,0,0
+41,Achievement First Rhode Island,28614,Achievement First Iluminar Mayoral Academy,169,0,0,0,84,85,0,0,0,0,0,0,0,0,0,0,0
+41,Achievement First Rhode Island,41,Achievement First Rhode Island,520,0,0,0,166,171,92,91,0,0,0,0,0,0,0,0,0
+42,Sheila Skip Nowell Leadership Academy,04603,Sheila Skip Nowell Leadership Academy (Central Cam,67,0,0,0,0,0,0,0,0,0,0,0,0,20,12,14,21
+42,Sheila Skip Nowell Leadership Academy,28610,Sheila Skip Nowell Leadership Academy (Capital Cam,90,0,0,0,0,0,0,0,0,0,0,0,0,19,21,27,23
+42,Sheila Skip Nowell Leadership Academy,42,Sheila Skip Nowell Leadership Academy,157,0,0,0,0,0,0,0,0,0,0,0,0,39,33,41,44
+43,SouthSide Charter School,28611,SouthSide Elementary Charter School,48,0,0,0,25,23,0,0,0,0,0,0,0,0,0,0,0
+43,SouthSide Charter School,43,SouthSide Charter School,48,0,0,0,25,23,0,0,0,0,0,0,0,0,0,0,0
+46,Segue Institute for Learning,04602,Segue Institute for Learning,238,0,0,0,0,0,0,0,0,0,79,81,78,0,0,0,0
+46,Segue Institute for Learning,46,Segue Institute for Learning,238,0,0,0,0,0,0,0,0,0,79,81,78,0,0,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",08601,Blackstone Valley Prep Elementary School,413,0,0,0,82,82,83,83,83,0,0,0,0,0,0,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",08602,Blackstone Valley Prep Middle School,331,0,0,0,0,0,0,0,0,84,83,83,81,0,0,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",08603,Blackstone Valley Prep Elementary 2 School,410,0,0,0,81,81,83,81,84,0,0,0,0,0,0,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",08604,Blackstone Valley Prep High School,184,0,0,0,0,0,0,0,0,0,0,0,0,90,94,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",08605,Blackstone Valley Prep Elementary 3 School,56,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",47,"Blackstone Valley Prep, A RI Mayoral Academy",1397,0,0,0,220,163,166,164,167,84,84,83,82,90,94,0,0
+47,"Blackstone Valley Prep, A RI Mayoral Academy",47190,Blackstone Valley Prep Admin School,3,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+48,Highlander,28601,Highlander Charter School,458,0,23,0,32,35,36,36,36,36,37,58,40,31,37,21,0
+48,Highlander,48,Highlander,458,0,23,0,32,35,36,36,36,36,37,58,40,31,37,21,0
+49,Urban Collaborative,28167,Urban Collaborative Accelerated Program,141,0,0,0,0,0,0,0,0,0,0,36,83,22,0,0,0
+49,Urban Collaborative,49,Urban Collaborative,141,0,0,0,0,0,0,0,0,0,0,36,83,22,0,0,0
+50,R.I. Sch for the Deaf,28702,Rhode Island School for the Deaf,63,0,4,0,2,4,2,1,7,4,7,5,3,2,5,7,10
+50,R.I. Sch for the Deaf,50,R.I. Sch for the Deaf,63,0,4,0,2,4,2,1,7,4,7,5,3,2,5,7,10
+51,Paul Cuffee Charter Sch,28602,Paul Cuffee Charter School,786,0,0,0,57,55,57,56,57,55,60,60,60,81,60,63,65
+51,Paul Cuffee Charter Sch,51,Paul Cuffee Charter Sch,786,0,0,0,57,55,57,56,57,55,60,60,60,81,60,63,65
+52,Kingston Hill Academy,32601,Kingston Hill Academy,183,0,0,0,40,40,41,21,21,20,0,0,0,0,0,0,0
+52,Kingston Hill Academy,52,Kingston Hill Academy,185,0,0,0,40,40,41,21,21,22,0,0,0,0,0,0,0
+52,Kingston Hill Academy,52190,Kingston Hill Admin School,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+53,International Charter,26601,International Charter School,342,0,0,0,65,57,56,58,55,51,0,0,0,0,0,0,0
+53,International Charter,53,International Charter,342,0,0,0,65,57,56,58,55,51,0,0,0,0,0,0,0
+54,Blackstone Academy,26602,Blackstone Academy Charter School,247,0,0,0,0,0,0,0,0,0,0,0,0,78,74,48,47
+54,Blackstone Academy,54,Blackstone Academy,247,0,0,0,0,0,0,0,0,0,0,0,0,78,74,48,47
+55,The Compass School,23601,The Compass School,164,0,0,0,17,17,19,19,19,18,20,17,18,0,0,0,0
+55,The Compass School,55,The Compass School,164,0,0,0,17,17,19,19,19,18,20,17,18,0,0,0,0
+58,Beacon Charter School,39601,BEACON Charter School,232,0,0,0,0,0,0,0,0,0,0,0,0,57,60,57,58
+58,Beacon Charter School,39603,Founders Academy,44,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0
+58,Beacon Charter School,58,Beacon Charter School,276,0,0,0,0,0,0,0,0,0,44,0,0,57,60,57,58
+59,Learning Community,04601,The Learning Community Charter School,556,0,0,0,63,63,63,63,63,64,60,58,59,0,0,0,0
+59,Learning Community,59,Learning Community,557,0,0,0,63,63,63,63,63,64,60,59,59,0,0,0,0
+59,Learning Community,59190,Learning Community Admin School,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+60,MET Career and Tech,28703,Metropolitan Regional Career and Technical Center,810,0,0,0,0,0,0,0,0,0,0,0,0,186,219,208,197
+60,MET Career and Tech,60,MET Career and Tech,810,0,0,0,0,0,0,0,0,0,0,0,0,186,219,208,197
+61,Trinity Academy for the Performing Arts,28606,Trinity Academy for the Performing Arts,208,0,0,0,0,0,0,0,0,0,0,40,45,40,32,27,24
+61,Trinity Academy for the Performing Arts,61,Trinity Academy for the Performing Arts,208,0,0,0,0,0,0,0,0,0,0,40,45,40,32,27,24
+62,The Greene School,62,The Greene School,166,0,0,0,0,0,0,0,0,0,0,0,0,43,46,42,35
+62,The Greene School,97601,The Greene School,166,0,0,0,0,0,0,0,0,0,0,0,0,43,46,42,35
+63,Rhode Island Nurses Institute Middle College,28607,RI Nurses Institute Middle College Charter High Sc,193,0,0,0,0,0,0,0,0,0,0,0,0,0,38,61,94
+63,Rhode Island Nurses Institute Middle College,63,Rhode Island Nurses Institute Middle College,193,0,0,0,0,0,0,0,0,0,0,0,0,0,38,61,94
+64,Village Green Virtual,28608,Village Green Virtual Charter School,208,0,0,0,0,0,0,0,0,0,0,0,0,52,34,64,58
+64,Village Green Virtual,64,Village Green Virtual,208,0,0,0,0,0,0,0,0,0,0,0,0,52,34,64,58
+67,DCYF,07702,DCYF Alternative Education Program,65,0,0,0,0,0,0,0,0,0,0,0,3,16,14,20,12
+67,DCYF,67,DCYF,65,0,0,0,0,0,0,0,0,0,0,0,3,16,14,20,12
+68,The Hope Academy,28613,The Hope Academy,72,0,0,0,36,36,0,0,0,0,0,0,0,0,0,0,0
+68,The Hope Academy,68,The Hope Academy,72,0,0,0,36,36,0,0,0,0,0,0,0,0,0,0,0
+79,RISE Prep Mayoral Academy,39602,RISE Prep Mayoral Academy,48,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0
+79,RISE Prep Mayoral Academy,79,RISE Prep Mayoral Academy,48,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0
+96,Bristol Warren,96,Bristol Warren,3328,44,0,0,244,238,290,243,305,268,233,288,243,266,238,198,230
+96,Bristol Warren,96104,Guiteras School,303,0,0,0,42,42,55,44,59,61,0,0,0,0,0,0,0
+96,Bristol Warren,96105,Colt Andrews School,368,0,0,0,58,58,63,58,64,67,0,0,0,0,0,0,0
+96,Bristol Warren,96106,Rockwell School,278,0,0,0,46,42,46,44,49,51,0,0,0,0,0,0,0
+96,Bristol Warren,96107,Mt. Hope High School,912,0,0,0,0,0,0,0,0,0,0,0,0,262,231,195,224
+96,Bristol Warren,96112,Kickemuit Middle School,753,0,0,0,0,0,0,0,0,0,231,284,238,0,0,0,0
+96,Bristol Warren,96113,Hugh Cole School,674,44,0,0,98,96,126,95,127,88,0,0,0,0,0,0,0
+96,Bristol Warren,96190,Bristol Warren  Public Schools,40,0,0,0,0,0,0,2,6,1,2,4,5,4,7,3,6
+97,Exeter-West Greenwich,97,Exeter-West Greenwich,1638,57,0,0,112,100,101,89,116,115,131,155,137,118,133,131,143
+97,Exeter-West Greenwich,97101,Wawaloam School,313,0,0,0,112,100,101,0,0,0,0,0,0,0,0,0,0
+97,Exeter-West Greenwich,97102,Mildred E. Lineham School,57,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Exeter-West Greenwich,97103,Metcalf School,447,0,0,0,0,0,0,89,115,114,129,0,0,0,0,0,0
+97,Exeter-West Greenwich,97105,Exeter-West Greenwich Regional  Junior High,290,0,0,0,0,0,0,0,0,0,0,154,136,0,0,0,0
+97,Exeter-West Greenwich,97106,Exeter-West Greenwich Regional High School,508,0,0,0,0,0,0,0,0,0,0,0,0,114,129,128,137
+97,Exeter-West Greenwich,97190,Exeter-W. Greenwich Schools,23,0,0,0,0,0,0,0,1,1,2,1,1,4,4,3,6
+98,Chariho,98,Chariho,3237,83,0,0,173,200,241,204,231,209,250,251,251,279,294,304,267
+98,Chariho,98101,Chariho Regional High School,1105,0,0,0,0,0,0,0,0,0,0,0,0,268,281,295,261
+98,Chariho,98103,Chariho Regional Middle School,944,0,0,0,0,0,0,0,0,208,248,247,241,0,0,0,0
+98,Chariho,98104,Charlestown Elementary School,277,0,0,0,42,59,61,46,69,0,0,0,0,0,0,0,0
+98,Chariho,98105,Richmond Elementary School,417,21,0,0,60,64,91,95,86,0,0,0,0,0,0,0,0
+98,Chariho,98106,Ashaway Elementary School,197,0,0,0,37,41,49,36,34,0,0,0,0,0,0,0,0
+98,Chariho,98107,Hope Valley Elementary School,238,62,0,0,33,36,39,26,42,0,0,0,0,0,0,0,0
+98,Chariho,98108,The R.Y.S.E. School,55,0,0,0,0,0,1,1,0,1,2,4,9,11,13,8,5
+98,Chariho,98190,Chariho Regional District,4,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1
+99,Foster-Glocester,99,Foster-Glocester,1155,0,0,0,0,0,0,0,0,0,161,160,149,190,168,141,186
+99,Foster-Glocester,99101,Ponaganset Middle School,470,0,0,0,0,0,0,0,0,0,161,160,149,0,0,0,0
+99,Foster-Glocester,99102,Ponaganset High School,685,0,0,0,0,0,0,0,0,0,0,0,0,190,168,141,186
