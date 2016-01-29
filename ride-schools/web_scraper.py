@@ -109,6 +109,23 @@ def getSchoolInfo(url):
     street1, street2 = getMultiAttribute(page, "Address")
     city, zip_ = cleanCSZ(getAttribute(page, "CityStateZip", "long"))
 
+    grades = getAttribute(page, "Grades", "short")
+    # print grades
+    # print grades.split(" - ")
+    # print [shortenGrade(s) for s in grades.split(" - ")]
+    grade_pair = [shortenGrade(s) for s in grades.split(" - ")]
+    if len(grade_pair) == 2:
+        grade_min, grade_max = grade_pair
+    elif len(grade_pair) == 0 or len(grade_pair) == 1:
+        grade_min, grade_max = "", ""
+    else:
+        print sch_name
+        grade_min, grade_max = "", ""
+    # try:
+    #     grade_min, grade_max = [shortenGrade(s) for s in grades.split(" - ")]
+    # except KeyError:
+    #     grade_min, grade_max = "", ""
+
     p_name, p_title = getPrincipal(page, url, sch_name)
 
     return {
@@ -117,7 +134,9 @@ def getSchoolInfo(url):
         "status": getAttribute(page, "Active", "short"),
         "code": getAttribute(page, "Code", "short"),
         "type": getAttribute(page, "Type", "short"),
-        "grades": getAttribute(page, "Grades", "short"),
+        "grades": grades,
+        "grade_min": grade_min,
+        "grade_max": grade_max,
         # "level": getAttribute(page, "SchLevel", "short"),
         "nces": getAttribute(page, "NCESCode", "short"),
         "street1": street1,
@@ -253,7 +272,8 @@ def convertAllToString(list_of_dicts):
 
 def writeCSV(new_file_name, data):
 
-    header = ["code", "type", "status", "name", "dist", "config", "nces",
+    header = ["code", "type", "status", "name", "dist", "config",
+        "grades", "grade_min", "grade_max", "nces",
         "street1", "street2", "city", "zip", "phone",
         "url", "p_name", "p_title"]
     print '\nSaving file:', new_file_name, '...'
@@ -307,6 +327,16 @@ def cleanCSZ(c_s_z):
                     " when applying cleanCSZ to '" + c_s_z + "'.")
             zip5 = zip_[0:5]
             return (city, zip5)
+
+def shortenGrade(grade):
+    """Given grades like 'KF', '03', '10' (etc.), returns 'K', '3', '10'."""
+
+    try:
+        g = constants.GRADES[u"G" + grade]
+    except KeyError:
+        return ("")
+    else:
+        return g
 
 
 # Run
