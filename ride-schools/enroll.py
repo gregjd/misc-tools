@@ -33,7 +33,7 @@ class SchoolOrDistrict():
 
         return self.total
 
-    def checkEnroll(self, grade_start, grade_end):
+    def checkGrades(self, grade_start, grade_end):
         """Checks a provided grade range against the actual enrollments."""
 
         if type(grade_start) == int:
