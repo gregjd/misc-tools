@@ -41,3 +41,33 @@ GRADE_POSITIONS = {
 
 # list positions >> short grade names
 POSITION_GRADES = dict(reversed(item) for item in GRADE_POSITIONS.items())
+
+# # RIDE's school classifications >> school classifications in Access database
+# SCHOOL_TYPE_MAP = {
+    
+# }
+
+# # Needed destinations:
+# "Public School"
+# "Independent Charter School"
+# "State Operated School"
+# "Regional Collaborative"
+# "District Charter School"
+
+# fields in Access database >> fields in dicts returned by web_scraper
+VARIABLES_MAP = {
+    "school_code": "code",
+    "name_iwl": "name",
+    "low_grade": "grade_min",
+    "high_grade": "grade_max",
+    "street1": "street1",
+    "street2": "street2",
+    "city": "city",
+    "zip": "zip",
+    "phone": "phone",
+    "url": "url",
+    "principal": "p_name",
+    "principal_label": "p_title",
+    "district_name": "dist",
+    "nces_code": "nces"
+}
