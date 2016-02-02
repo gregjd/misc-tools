@@ -156,4 +156,5 @@ def writeCSV(new_file_name, schools_list):
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    pass
