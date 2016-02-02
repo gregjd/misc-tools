@@ -3,6 +3,7 @@ from constants import VARIABLES_MAP as VM
 
 
 SCHOOL_YEAR = "2015-2016"  # change this each year
+SCHOOL_YEAR_SHORT = "2015-16"  # change this each year
 
 # clean up some parts of this code
 
@@ -154,6 +155,25 @@ def writeCSV(new_file_name, schools_list):
 
     return
 
+def printNotes():
+
+    last = listToDict(getDataFromCSV("last_year.csv"), "school_code")
+    this = listToDict(getDataFromCSV("new_year_final2.csv"), "school_code")
+
+    for i in sorted(this):
+        if i not in last:
+            print i, "In " + SCHOOL_YEAR + ", this school was opened."
+        else:
+            new_span = this[i]["low_grade"] + " to " + this[i]["high_grade"]
+            if new_span != last[i]["grade_span"]:
+                if this[i]["is_open"] == "Y":
+                    print (i, ("In " + SCHOOL_YEAR_SHORT + ", grade span was"
+                        + " changed from " + last[i]["grade_span"] + " to " +
+                        new_span + "."))
+
+    # writeCSV("new_year_final_gen.csv")
+
+    return
 
 if __name__ == "__main__":
     # main()
