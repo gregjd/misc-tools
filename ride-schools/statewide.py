@@ -4,13 +4,10 @@ import utils
 
 
 # change slice file location each year:
-# SLICE_FILE = "//TPPFILE/Data/WORK/iRide/Year Six/Slice/00199.csv"
 SLICE_FILE = "//TPPFILE/Data/WORK/iRide/Year Seven/Slice/00225.csv"
 
-# ENROLL_FILE = "enroll_2014-15.csv"
 ENROLL_FILE = "enroll.csv"
 
-# SCHOOL_YEAR = "2014-2015"
 SCHOOL_YEAR = "2015-2016"  # move to constants?
 
 
@@ -75,7 +72,6 @@ def main(new_csv_file="statewide_stats.csv"):
     # Past years included this preschools-only number, then later cut it
     del summary["Schools-Preschools"]
 
-    # writeCSV("statewide_last_year.csv", [summary])
     writeCSV(new_csv_file, [summary])
 
     return summary
