@@ -5,10 +5,9 @@ def aggregate(data_file, agg_file='catchment_areas.csv',
               on_left='muni_short', on_right='muni', agg_var='area'):
     
     data_orig = _import_data(data_file)
-
-    agg = _get_agg_file(agg_file, on_left, on_right)
+    agg_groups = _get_agg_file(agg_file, on_left, on_right)
     
-    data_joined = data_orig.merge(agg, how='left', on=on_left)
+    data_joined = data_orig.merge(agg_groups, how='left', on=on_left)
     data_grouped = data_joined.groupby(agg_var)
 
     data_agg = data_grouped.sum()
