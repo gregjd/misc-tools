@@ -4,6 +4,7 @@ sys.path.append('../')
 
 import cleandata as cd
 import aggregate as agg
+import percentages as pct
 
 
 RACES = {'HD01_VD01': 'total',
@@ -27,12 +28,9 @@ data_new.rename(columns=RACES, inplace=True)
 data_agg = agg.aggregate(data_new)
 
 # Calculate percentages
-def calc_pct(row): return row[race]/float(row['total'])
-for race in RACE_LIST:
-    if race != 'total':
-        data_new['pct_' + race] = data_new.apply(calc_pct, axis=1)
-        data_agg['pct_' + race] = data_agg.apply(calc_pct, axis=1)
+data_new_w_pct = pct.add_percentages(data_new, RACE_LIST)
+data_agg_w_pct = pct.add_percentages(data_agg, RACE_LIST)
 
 # Export to CSV
-data_new.to_csv('race_munis.csv', index=False)
-data_agg.to_csv('race_areas.csv', index=True)
+data_new_w_pct.to_csv('race_munis.csv', index=False)
+data_agg_w_pct.to_csv('race_areas.csv', index=True)
