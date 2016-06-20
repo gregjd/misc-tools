@@ -32,7 +32,7 @@ def _import_data(data_file):
 def _get_agg_file(agg_file, on_left, on_right):
 
     try:
-        agg = pd.read_csv(agg_file)
+        agg = _import_data(agg_file)
     except IOError:
         try:
             agg = pd.read_csv('../' + agg_file)
