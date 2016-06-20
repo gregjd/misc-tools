@@ -22,7 +22,8 @@ def import_data(file_path):
 
     Note: will skip second row of header and replace '(X)' values with null."""
 
-    data_frame = pandas.read_csv(file_path, skiprows=[1], na_values=['(X)'])
+    data_frame = pandas.read_csv(file_path, skiprows=[1],
+                                 na_values=['(X)', '-', '**'])
 
     return data_frame
 
