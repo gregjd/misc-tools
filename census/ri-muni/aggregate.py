@@ -10,13 +10,9 @@ def aggregate(data_file, agg_file='catchment_areas.csv',
     data_joined = data_orig.merge(agg_groups, how='left', on=on_left)
     data_grouped = data_joined.groupby(agg_var)
 
-    data_agg = data_grouped.sum()
-    try:
-        data_agg.drop('geoID_short', axis=1, inplace=True)
-    except ValueError:
-        pass
+    return _sum(data_grouped)
 
-    return data_agg
+
 
 def _import_data(data_file):
     
@@ -41,3 +37,10 @@ def _get_agg_file(agg_file, on_left, on_right):
 
     return agg_renamed
 
+def _sum(groupby_object):
+    
+    data_agg = groupby_object.sum()
+    try:
+        return data_agg.drop('geoID_short', axis=1)
+    except ValueError:
+        return data_agg
