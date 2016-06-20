@@ -1,6 +1,8 @@
 import pandas as pd
 
 
+# Main function
+
 def aggregate(data_file, agg_file='catchment_areas.csv',
               on_left='muni_short', on_right='muni', agg_var='area'):
     
@@ -13,6 +15,7 @@ def aggregate(data_file, agg_file='catchment_areas.csv',
     return _sum(data_grouped)
 
 
+# Helper functions
 
 def _import_data(data_file):
     
