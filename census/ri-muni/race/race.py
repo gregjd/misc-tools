@@ -23,6 +23,6 @@ data_new = data[GEO_COLUMNS + sorted(RACES)]
 data_new.rename(columns=RACES, inplace=True)
 for race in RACE_LIST:
     if race != 'total':
-        def calc_pct(row): return row[race]/float(row['total'])
+def calc_pct(row): return row[race]/float(row['total'])
         data_new['pct_' + race] = data_new.apply(calc_pct, axis=1)
 data_new.to_csv('race_munis.csv', index=False)
