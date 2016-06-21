@@ -18,11 +18,6 @@ VALUES = {'HC01_EST_VC01': 'pop_5+',
 # speak a non-English language at home who speak English 'very well'
 # and 'less than very well' (respectively); they add up to 100
 
-
-##VALUES = {'a': 'pop_5+',
-##          'b': 'eng_only',
-##          'c': 'ne_very',
-##          'd': 'ne_less'}
 GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 
 # Clean municipality data
