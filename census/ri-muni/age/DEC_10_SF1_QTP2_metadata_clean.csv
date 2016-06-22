@@ -1,0 +1,313 @@
+id,desc,age,sex
+SUBHD0101_S01,Number - Both sexes; Total population (all ages),total,b
+SUBHD0102_S01,Number - Male; Total population (all ages),total,m
+SUBHD0103_S01,Number - Female; Total population (all ages),total,f
+SUBHD0101_S03,Number - Both sexes; Total population (all ages) - Under 5 years - Under 1 year,0,b
+SUBHD0102_S03,Number - Male; Total population (all ages) - Under 5 years - Under 1 year,0,m
+SUBHD0103_S03,Number - Female; Total population (all ages) - Under 5 years - Under 1 year,0,f
+SUBHD0101_S04,Number - Both sexes; Total population (all ages) - Under 5 years - 1 year,1,b
+SUBHD0102_S04,Number - Male; Total population (all ages) - Under 5 years - 1 year,1,m
+SUBHD0103_S04,Number - Female; Total population (all ages) - Under 5 years - 1 year,1,f
+SUBHD0101_S05,Number - Both sexes; Total population (all ages) - Under 5 years - 2 years,2,b
+SUBHD0102_S05,Number - Male; Total population (all ages) - Under 5 years - 2 years,2,m
+SUBHD0103_S05,Number - Female; Total population (all ages) - Under 5 years - 2 years,2,f
+SUBHD0101_S06,Number - Both sexes; Total population (all ages) - Under 5 years - 3 years,3,b
+SUBHD0102_S06,Number - Male; Total population (all ages) - Under 5 years - 3 years,3,m
+SUBHD0103_S06,Number - Female; Total population (all ages) - Under 5 years - 3 years,3,f
+SUBHD0101_S07,Number - Both sexes; Total population (all ages) - Under 5 years - 4 years,4,b
+SUBHD0102_S07,Number - Male; Total population (all ages) - Under 5 years - 4 years,4,m
+SUBHD0103_S07,Number - Female; Total population (all ages) - Under 5 years - 4 years,4,f
+SUBHD0101_S09,Number - Both sexes; Total population (all ages) - 5 to 9 years - 5 years,5,b
+SUBHD0102_S09,Number - Male; Total population (all ages) - 5 to 9 years - 5 years,5,m
+SUBHD0103_S09,Number - Female; Total population (all ages) - 5 to 9 years - 5 years,5,f
+SUBHD0101_S10,Number - Both sexes; Total population (all ages) - 5 to 9 years - 6 years,6,b
+SUBHD0102_S10,Number - Male; Total population (all ages) - 5 to 9 years - 6 years,6,m
+SUBHD0103_S10,Number - Female; Total population (all ages) - 5 to 9 years - 6 years,6,f
+SUBHD0101_S11,Number - Both sexes; Total population (all ages) - 5 to 9 years - 7 years,7,b
+SUBHD0102_S11,Number - Male; Total population (all ages) - 5 to 9 years - 7 years,7,m
+SUBHD0103_S11,Number - Female; Total population (all ages) - 5 to 9 years - 7 years,7,f
+SUBHD0101_S12,Number - Both sexes; Total population (all ages) - 5 to 9 years - 8 years,8,b
+SUBHD0102_S12,Number - Male; Total population (all ages) - 5 to 9 years - 8 years,8,m
+SUBHD0103_S12,Number - Female; Total population (all ages) - 5 to 9 years - 8 years,8,f
+SUBHD0101_S13,Number - Both sexes; Total population (all ages) - 5 to 9 years - 9 years,9,b
+SUBHD0102_S13,Number - Male; Total population (all ages) - 5 to 9 years - 9 years,9,m
+SUBHD0103_S13,Number - Female; Total population (all ages) - 5 to 9 years - 9 years,9,f
+SUBHD0101_S15,Number - Both sexes; Total population (all ages) - 10 to 14 years - 10 years,10,b
+SUBHD0102_S15,Number - Male; Total population (all ages) - 10 to 14 years - 10 years,10,m
+SUBHD0103_S15,Number - Female; Total population (all ages) - 10 to 14 years - 10 years,10,f
+SUBHD0101_S16,Number - Both sexes; Total population (all ages) - 10 to 14 years - 11 years,11,b
+SUBHD0102_S16,Number - Male; Total population (all ages) - 10 to 14 years - 11 years,11,m
+SUBHD0103_S16,Number - Female; Total population (all ages) - 10 to 14 years - 11 years,11,f
+SUBHD0101_S17,Number - Both sexes; Total population (all ages) - 10 to 14 years - 12 years,12,b
+SUBHD0102_S17,Number - Male; Total population (all ages) - 10 to 14 years - 12 years,12,m
+SUBHD0103_S17,Number - Female; Total population (all ages) - 10 to 14 years - 12 years,12,f
+SUBHD0101_S18,Number - Both sexes; Total population (all ages) - 10 to 14 years - 13 years,13,b
+SUBHD0102_S18,Number - Male; Total population (all ages) - 10 to 14 years - 13 years,13,m
+SUBHD0103_S18,Number - Female; Total population (all ages) - 10 to 14 years - 13 years,13,f
+SUBHD0101_S19,Number - Both sexes; Total population (all ages) - 10 to 14 years - 14 years,14,b
+SUBHD0102_S19,Number - Male; Total population (all ages) - 10 to 14 years - 14 years,14,m
+SUBHD0103_S19,Number - Female; Total population (all ages) - 10 to 14 years - 14 years,14,f
+SUBHD0101_S21,Number - Both sexes; Total population (all ages) - 15  to 19 years - 15 years,15,b
+SUBHD0102_S21,Number - Male; Total population (all ages) - 15  to 19 years - 15 years,15,m
+SUBHD0103_S21,Number - Female; Total population (all ages) - 15  to 19 years - 15 years,15,f
+SUBHD0101_S22,Number - Both sexes; Total population (all ages) - 15  to 19 years - 16 years,16,b
+SUBHD0102_S22,Number - Male; Total population (all ages) - 15  to 19 years - 16 years,16,m
+SUBHD0103_S22,Number - Female; Total population (all ages) - 15  to 19 years - 16 years,16,f
+SUBHD0101_S23,Number - Both sexes; Total population (all ages) - 15  to 19 years - 17 years,17,b
+SUBHD0102_S23,Number - Male; Total population (all ages) - 15  to 19 years - 17 years,17,m
+SUBHD0103_S23,Number - Female; Total population (all ages) - 15  to 19 years - 17 years,17,f
+SUBHD0101_S24,Number - Both sexes; Total population (all ages) - 15  to 19 years - 18 years,18,b
+SUBHD0102_S24,Number - Male; Total population (all ages) - 15  to 19 years - 18 years,18,m
+SUBHD0103_S24,Number - Female; Total population (all ages) - 15  to 19 years - 18 years,18,f
+SUBHD0101_S25,Number - Both sexes; Total population (all ages) - 15  to 19 years - 19 years,19,b
+SUBHD0102_S25,Number - Male; Total population (all ages) - 15  to 19 years - 19 years,19,m
+SUBHD0103_S25,Number - Female; Total population (all ages) - 15  to 19 years - 19 years,19,f
+SUBHD0101_S27,Number - Both sexes; Total population (all ages) - 20 to 24 years - 20 years,20,b
+SUBHD0102_S27,Number - Male; Total population (all ages) - 20 to 24 years - 20 years,20,m
+SUBHD0103_S27,Number - Female; Total population (all ages) - 20 to 24 years - 20 years,20,f
+SUBHD0101_S28,Number - Both sexes; Total population (all ages) - 20 to 24 years - 21 years,21,b
+SUBHD0102_S28,Number - Male; Total population (all ages) - 20 to 24 years - 21 years,21,m
+SUBHD0103_S28,Number - Female; Total population (all ages) - 20 to 24 years - 21 years,21,f
+SUBHD0101_S29,Number - Both sexes; Total population (all ages) - 20 to 24 years - 22 years,22,b
+SUBHD0102_S29,Number - Male; Total population (all ages) - 20 to 24 years - 22 years,22,m
+SUBHD0103_S29,Number - Female; Total population (all ages) - 20 to 24 years - 22 years,22,f
+SUBHD0101_S30,Number - Both sexes; Total population (all ages) - 20 to 24 years - 23 years,23,b
+SUBHD0102_S30,Number - Male; Total population (all ages) - 20 to 24 years - 23 years,23,m
+SUBHD0103_S30,Number - Female; Total population (all ages) - 20 to 24 years - 23 years,23,f
+SUBHD0101_S31,Number - Both sexes; Total population (all ages) - 20 to 24 years - 24 years,24,b
+SUBHD0102_S31,Number - Male; Total population (all ages) - 20 to 24 years - 24 years,24,m
+SUBHD0103_S31,Number - Female; Total population (all ages) - 20 to 24 years - 24 years,24,f
+SUBHD0101_S33,Number - Both sexes; Total population (all ages) - 25 to 29 years - 25 years,25,b
+SUBHD0102_S33,Number - Male; Total population (all ages) - 25 to 29 years - 25 years,25,m
+SUBHD0103_S33,Number - Female; Total population (all ages) - 25 to 29 years - 25 years,25,f
+SUBHD0101_S34,Number - Both sexes; Total population (all ages) - 25 to 29 years - 26 years,26,b
+SUBHD0102_S34,Number - Male; Total population (all ages) - 25 to 29 years - 26 years,26,m
+SUBHD0103_S34,Number - Female; Total population (all ages) - 25 to 29 years - 26 years,26,f
+SUBHD0101_S35,Number - Both sexes; Total population (all ages) - 25 to 29 years - 27 years,27,b
+SUBHD0102_S35,Number - Male; Total population (all ages) - 25 to 29 years - 27 years,27,m
+SUBHD0103_S35,Number - Female; Total population (all ages) - 25 to 29 years - 27 years,27,f
+SUBHD0101_S36,Number - Both sexes; Total population (all ages) - 25 to 29 years - 28 years,28,b
+SUBHD0102_S36,Number - Male; Total population (all ages) - 25 to 29 years - 28 years,28,m
+SUBHD0103_S36,Number - Female; Total population (all ages) - 25 to 29 years - 28 years,28,f
+SUBHD0101_S37,Number - Both sexes; Total population (all ages) - 25 to 29 years - 29 years,29,b
+SUBHD0102_S37,Number - Male; Total population (all ages) - 25 to 29 years - 29 years,29,m
+SUBHD0103_S37,Number - Female; Total population (all ages) - 25 to 29 years - 29 years,29,f
+SUBHD0101_S39,Number - Both sexes; Total population (all ages) - 30 to 34 years - 30 years,30,b
+SUBHD0102_S39,Number - Male; Total population (all ages) - 30 to 34 years - 30 years,30,m
+SUBHD0103_S39,Number - Female; Total population (all ages) - 30 to 34 years - 30 years,30,f
+SUBHD0101_S40,Number - Both sexes; Total population (all ages) - 30 to 34 years - 31 years,31,b
+SUBHD0102_S40,Number - Male; Total population (all ages) - 30 to 34 years - 31 years,31,m
+SUBHD0103_S40,Number - Female; Total population (all ages) - 30 to 34 years - 31 years,31,f
+SUBHD0101_S41,Number - Both sexes; Total population (all ages) - 30 to 34 years - 32 years,32,b
+SUBHD0102_S41,Number - Male; Total population (all ages) - 30 to 34 years - 32 years,32,m
+SUBHD0103_S41,Number - Female; Total population (all ages) - 30 to 34 years - 32 years,32,f
+SUBHD0101_S42,Number - Both sexes; Total population (all ages) - 30 to 34 years - 33 years,33,b
+SUBHD0102_S42,Number - Male; Total population (all ages) - 30 to 34 years - 33 years,33,m
+SUBHD0103_S42,Number - Female; Total population (all ages) - 30 to 34 years - 33 years,33,f
+SUBHD0101_S43,Number - Both sexes; Total population (all ages) - 30 to 34 years - 34 years,34,b
+SUBHD0102_S43,Number - Male; Total population (all ages) - 30 to 34 years - 34 years,34,m
+SUBHD0103_S43,Number - Female; Total population (all ages) - 30 to 34 years - 34 years,34,f
+SUBHD0101_S45,Number - Both sexes; Total population (all ages) - 35 to 39 years - 35 years,35,b
+SUBHD0102_S45,Number - Male; Total population (all ages) - 35 to 39 years - 35 years,35,m
+SUBHD0103_S45,Number - Female; Total population (all ages) - 35 to 39 years - 35 years,35,f
+SUBHD0101_S46,Number - Both sexes; Total population (all ages) - 35 to 39 years - 36 years,36,b
+SUBHD0102_S46,Number - Male; Total population (all ages) - 35 to 39 years - 36 years,36,m
+SUBHD0103_S46,Number - Female; Total population (all ages) - 35 to 39 years - 36 years,36,f
+SUBHD0101_S47,Number - Both sexes; Total population (all ages) - 35 to 39 years - 37 years,37,b
+SUBHD0102_S47,Number - Male; Total population (all ages) - 35 to 39 years - 37 years,37,m
+SUBHD0103_S47,Number - Female; Total population (all ages) - 35 to 39 years - 37 years,37,f
+SUBHD0101_S48,Number - Both sexes; Total population (all ages) - 35 to 39 years - 38 years,38,b
+SUBHD0102_S48,Number - Male; Total population (all ages) - 35 to 39 years - 38 years,38,m
+SUBHD0103_S48,Number - Female; Total population (all ages) - 35 to 39 years - 38 years,38,f
+SUBHD0101_S49,Number - Both sexes; Total population (all ages) - 35 to 39 years - 39 years,39,b
+SUBHD0102_S49,Number - Male; Total population (all ages) - 35 to 39 years - 39 years,39,m
+SUBHD0103_S49,Number - Female; Total population (all ages) - 35 to 39 years - 39 years,39,f
+SUBHD0101_S51,Number - Both sexes; Total population (all ages) - 40 to 44 years - 40 years,40,b
+SUBHD0102_S51,Number - Male; Total population (all ages) - 40 to 44 years - 40 years,40,m
+SUBHD0103_S51,Number - Female; Total population (all ages) - 40 to 44 years - 40 years,40,f
+SUBHD0101_S52,Number - Both sexes; Total population (all ages) - 40 to 44 years - 41 years,41,b
+SUBHD0102_S52,Number - Male; Total population (all ages) - 40 to 44 years - 41 years,41,m
+SUBHD0103_S52,Number - Female; Total population (all ages) - 40 to 44 years - 41 years,41,f
+SUBHD0101_S53,Number - Both sexes; Total population (all ages) - 40 to 44 years - 42 years,42,b
+SUBHD0102_S53,Number - Male; Total population (all ages) - 40 to 44 years - 42 years,42,m
+SUBHD0103_S53,Number - Female; Total population (all ages) - 40 to 44 years - 42 years,42,f
+SUBHD0101_S54,Number - Both sexes; Total population (all ages) - 40 to 44 years - 43 years,43,b
+SUBHD0102_S54,Number - Male; Total population (all ages) - 40 to 44 years - 43 years,43,m
+SUBHD0103_S54,Number - Female; Total population (all ages) - 40 to 44 years - 43 years,43,f
+SUBHD0101_S55,Number - Both sexes; Total population (all ages) - 40 to 44 years - 44 years,44,b
+SUBHD0102_S55,Number - Male; Total population (all ages) - 40 to 44 years - 44 years,44,m
+SUBHD0103_S55,Number - Female; Total population (all ages) - 40 to 44 years - 44 years,44,f
+SUBHD0101_S57,Number - Both sexes; Total population (all ages) - 45 to 49 years - 45 years,45,b
+SUBHD0102_S57,Number - Male; Total population (all ages) - 45 to 49 years - 45 years,45,m
+SUBHD0103_S57,Number - Female; Total population (all ages) - 45 to 49 years - 45 years,45,f
+SUBHD0101_S58,Number - Both sexes; Total population (all ages) - 45 to 49 years - 46 years,46,b
+SUBHD0102_S58,Number - Male; Total population (all ages) - 45 to 49 years - 46 years,46,m
+SUBHD0103_S58,Number - Female; Total population (all ages) - 45 to 49 years - 46 years,46,f
+SUBHD0101_S59,Number - Both sexes; Total population (all ages) - 45 to 49 years - 47 years,47,b
+SUBHD0102_S59,Number - Male; Total population (all ages) - 45 to 49 years - 47 years,47,m
+SUBHD0103_S59,Number - Female; Total population (all ages) - 45 to 49 years - 47 years,47,f
+SUBHD0101_S60,Number - Both sexes; Total population (all ages) - 45 to 49 years - 48 years,48,b
+SUBHD0102_S60,Number - Male; Total population (all ages) - 45 to 49 years - 48 years,48,m
+SUBHD0103_S60,Number - Female; Total population (all ages) - 45 to 49 years - 48 years,48,f
+SUBHD0101_S61,Number - Both sexes; Total population (all ages) - 45 to 49 years - 49 years,49,b
+SUBHD0102_S61,Number - Male; Total population (all ages) - 45 to 49 years - 49 years,49,m
+SUBHD0103_S61,Number - Female; Total population (all ages) - 45 to 49 years - 49 years,49,f
+SUBHD0101_S63,Number - Both sexes; Total population (all ages) - 50 to 54 years - 50 years,50,b
+SUBHD0102_S63,Number - Male; Total population (all ages) - 50 to 54 years - 50 years,50,m
+SUBHD0103_S63,Number - Female; Total population (all ages) - 50 to 54 years - 50 years,50,f
+SUBHD0101_S64,Number - Both sexes; Total population (all ages) - 50 to 54 years - 51 years,51,b
+SUBHD0102_S64,Number - Male; Total population (all ages) - 50 to 54 years - 51 years,51,m
+SUBHD0103_S64,Number - Female; Total population (all ages) - 50 to 54 years - 51 years,51,f
+SUBHD0101_S65,Number - Both sexes; Total population (all ages) - 50 to 54 years - 52 years,52,b
+SUBHD0102_S65,Number - Male; Total population (all ages) - 50 to 54 years - 52 years,52,m
+SUBHD0103_S65,Number - Female; Total population (all ages) - 50 to 54 years - 52 years,52,f
+SUBHD0101_S66,Number - Both sexes; Total population (all ages) - 50 to 54 years - 53 years,53,b
+SUBHD0102_S66,Number - Male; Total population (all ages) - 50 to 54 years - 53 years,53,m
+SUBHD0103_S66,Number - Female; Total population (all ages) - 50 to 54 years - 53 years,53,f
+SUBHD0101_S67,Number - Both sexes; Total population (all ages) - 50 to 54 years - 54 years,54,b
+SUBHD0102_S67,Number - Male; Total population (all ages) - 50 to 54 years - 54 years,54,m
+SUBHD0103_S67,Number - Female; Total population (all ages) - 50 to 54 years - 54 years,54,f
+SUBHD0101_S69,Number - Both sexes; Total population (all ages) - 55 to 59 years - 55 years,55,b
+SUBHD0102_S69,Number - Male; Total population (all ages) - 55 to 59 years - 55 years,55,m
+SUBHD0103_S69,Number - Female; Total population (all ages) - 55 to 59 years - 55 years,55,f
+SUBHD0101_S70,Number - Both sexes; Total population (all ages) - 55 to 59 years - 56 years,56,b
+SUBHD0102_S70,Number - Male; Total population (all ages) - 55 to 59 years - 56 years,56,m
+SUBHD0103_S70,Number - Female; Total population (all ages) - 55 to 59 years - 56 years,56,f
+SUBHD0101_S71,Number - Both sexes; Total population (all ages) - 55 to 59 years - 57 years,57,b
+SUBHD0102_S71,Number - Male; Total population (all ages) - 55 to 59 years - 57 years,57,m
+SUBHD0103_S71,Number - Female; Total population (all ages) - 55 to 59 years - 57 years,57,f
+SUBHD0101_S72,Number - Both sexes; Total population (all ages) - 55 to 59 years - 58 years,58,b
+SUBHD0102_S72,Number - Male; Total population (all ages) - 55 to 59 years - 58 years,58,m
+SUBHD0103_S72,Number - Female; Total population (all ages) - 55 to 59 years - 58 years,58,f
+SUBHD0101_S73,Number - Both sexes; Total population (all ages) - 55 to 59 years - 59 years,59,b
+SUBHD0102_S73,Number - Male; Total population (all ages) - 55 to 59 years - 59 years,59,m
+SUBHD0103_S73,Number - Female; Total population (all ages) - 55 to 59 years - 59 years,59,f
+SUBHD0101_S75,Number - Both sexes; Total population (all ages) - 60 to 64 years - 60 years,60,b
+SUBHD0102_S75,Number - Male; Total population (all ages) - 60 to 64 years - 60 years,60,m
+SUBHD0103_S75,Number - Female; Total population (all ages) - 60 to 64 years - 60 years,60,f
+SUBHD0101_S76,Number - Both sexes; Total population (all ages) - 60 to 64 years - 61 years,61,b
+SUBHD0102_S76,Number - Male; Total population (all ages) - 60 to 64 years - 61 years,61,m
+SUBHD0103_S76,Number - Female; Total population (all ages) - 60 to 64 years - 61 years,61,f
+SUBHD0101_S77,Number - Both sexes; Total population (all ages) - 60 to 64 years - 62 years,62,b
+SUBHD0102_S77,Number - Male; Total population (all ages) - 60 to 64 years - 62 years,62,m
+SUBHD0103_S77,Number - Female; Total population (all ages) - 60 to 64 years - 62 years,62,f
+SUBHD0101_S78,Number - Both sexes; Total population (all ages) - 60 to 64 years - 63 years,63,b
+SUBHD0102_S78,Number - Male; Total population (all ages) - 60 to 64 years - 63 years,63,m
+SUBHD0103_S78,Number - Female; Total population (all ages) - 60 to 64 years - 63 years,63,f
+SUBHD0101_S79,Number - Both sexes; Total population (all ages) - 60 to 64 years - 64 years,64,b
+SUBHD0102_S79,Number - Male; Total population (all ages) - 60 to 64 years - 64 years,64,m
+SUBHD0103_S79,Number - Female; Total population (all ages) - 60 to 64 years - 64 years,64,f
+SUBHD0101_S81,Number - Both sexes; Total population (all ages) - 65 to 69 years - 65 years,65,b
+SUBHD0102_S81,Number - Male; Total population (all ages) - 65 to 69 years - 65 years,65,m
+SUBHD0103_S81,Number - Female; Total population (all ages) - 65 to 69 years - 65 years,65,f
+SUBHD0101_S82,Number - Both sexes; Total population (all ages) - 65 to 69 years - 66 years,66,b
+SUBHD0102_S82,Number - Male; Total population (all ages) - 65 to 69 years - 66 years,66,m
+SUBHD0103_S82,Number - Female; Total population (all ages) - 65 to 69 years - 66 years,66,f
+SUBHD0101_S83,Number - Both sexes; Total population (all ages) - 65 to 69 years - 67 years,67,b
+SUBHD0102_S83,Number - Male; Total population (all ages) - 65 to 69 years - 67 years,67,m
+SUBHD0103_S83,Number - Female; Total population (all ages) - 65 to 69 years - 67 years,67,f
+SUBHD0101_S84,Number - Both sexes; Total population (all ages) - 65 to 69 years - 68 years,68,b
+SUBHD0102_S84,Number - Male; Total population (all ages) - 65 to 69 years - 68 years,68,m
+SUBHD0103_S84,Number - Female; Total population (all ages) - 65 to 69 years - 68 years,68,f
+SUBHD0101_S85,Number - Both sexes; Total population (all ages) - 65 to 69 years - 69 years,69,b
+SUBHD0102_S85,Number - Male; Total population (all ages) - 65 to 69 years - 69 years,69,m
+SUBHD0103_S85,Number - Female; Total population (all ages) - 65 to 69 years - 69 years,69,f
+SUBHD0101_S87,Number - Both sexes; Total population (all ages) - 70 to 74 years - 70 years,70,b
+SUBHD0102_S87,Number - Male; Total population (all ages) - 70 to 74 years - 70 years,70,m
+SUBHD0103_S87,Number - Female; Total population (all ages) - 70 to 74 years - 70 years,70,f
+SUBHD0101_S88,Number - Both sexes; Total population (all ages) - 70 to 74 years - 71 years,71,b
+SUBHD0102_S88,Number - Male; Total population (all ages) - 70 to 74 years - 71 years,71,m
+SUBHD0103_S88,Number - Female; Total population (all ages) - 70 to 74 years - 71 years,71,f
+SUBHD0101_S89,Number - Both sexes; Total population (all ages) - 70 to 74 years - 72 years,72,b
+SUBHD0102_S89,Number - Male; Total population (all ages) - 70 to 74 years - 72 years,72,m
+SUBHD0103_S89,Number - Female; Total population (all ages) - 70 to 74 years - 72 years,72,f
+SUBHD0101_S90,Number - Both sexes; Total population (all ages) - 70 to 74 years - 73 years,73,b
+SUBHD0102_S90,Number - Male; Total population (all ages) - 70 to 74 years - 73 years,73,m
+SUBHD0103_S90,Number - Female; Total population (all ages) - 70 to 74 years - 73 years,73,f
+SUBHD0101_S91,Number - Both sexes; Total population (all ages) - 70 to 74 years - 74 years,74,b
+SUBHD0102_S91,Number - Male; Total population (all ages) - 70 to 74 years - 74 years,74,m
+SUBHD0103_S91,Number - Female; Total population (all ages) - 70 to 74 years - 74 years,74,f
+SUBHD0101_S93,Number - Both sexes; Total population (all ages) - 75 to 79 years - 75 years,75,b
+SUBHD0102_S93,Number - Male; Total population (all ages) - 75 to 79 years - 75 years,75,m
+SUBHD0103_S93,Number - Female; Total population (all ages) - 75 to 79 years - 75 years,75,f
+SUBHD0101_S94,Number - Both sexes; Total population (all ages) - 75 to 79 years - 76 years,76,b
+SUBHD0102_S94,Number - Male; Total population (all ages) - 75 to 79 years - 76 years,76,m
+SUBHD0103_S94,Number - Female; Total population (all ages) - 75 to 79 years - 76 years,76,f
+SUBHD0101_S95,Number - Both sexes; Total population (all ages) - 75 to 79 years - 77 years,77,b
+SUBHD0102_S95,Number - Male; Total population (all ages) - 75 to 79 years - 77 years,77,m
+SUBHD0103_S95,Number - Female; Total population (all ages) - 75 to 79 years - 77 years,77,f
+SUBHD0101_S96,Number - Both sexes; Total population (all ages) - 75 to 79 years - 78 years,78,b
+SUBHD0102_S96,Number - Male; Total population (all ages) - 75 to 79 years - 78 years,78,m
+SUBHD0103_S96,Number - Female; Total population (all ages) - 75 to 79 years - 78 years,78,f
+SUBHD0101_S97,Number - Both sexes; Total population (all ages) - 75 to 79 years - 79 years,79,b
+SUBHD0102_S97,Number - Male; Total population (all ages) - 75 to 79 years - 79 years,79,m
+SUBHD0103_S97,Number - Female; Total population (all ages) - 75 to 79 years - 79 years,79,f
+SUBHD0101_S99,Number - Both sexes; Total population (all ages) - 80 to 84 years - 80 years,80,b
+SUBHD0102_S99,Number - Male; Total population (all ages) - 80 to 84 years - 80 years,80,m
+SUBHD0103_S99,Number - Female; Total population (all ages) - 80 to 84 years - 80 years,80,f
+SUBHD0101_S100,Number - Both sexes; Total population (all ages) - 80 to 84 years - 81 years,81,b
+SUBHD0102_S100,Number - Male; Total population (all ages) - 80 to 84 years - 81 years,81,m
+SUBHD0103_S100,Number - Female; Total population (all ages) - 80 to 84 years - 81 years,81,f
+SUBHD0101_S101,Number - Both sexes; Total population (all ages) - 80 to 84 years - 82 years,82,b
+SUBHD0102_S101,Number - Male; Total population (all ages) - 80 to 84 years - 82 years,82,m
+SUBHD0103_S101,Number - Female; Total population (all ages) - 80 to 84 years - 82 years,82,f
+SUBHD0101_S102,Number - Both sexes; Total population (all ages) - 80 to 84 years - 83 years,83,b
+SUBHD0102_S102,Number - Male; Total population (all ages) - 80 to 84 years - 83 years,83,m
+SUBHD0103_S102,Number - Female; Total population (all ages) - 80 to 84 years - 83 years,83,f
+SUBHD0101_S103,Number - Both sexes; Total population (all ages) - 80 to 84 years - 84 years,84,b
+SUBHD0102_S103,Number - Male; Total population (all ages) - 80 to 84 years - 84 years,84,m
+SUBHD0103_S103,Number - Female; Total population (all ages) - 80 to 84 years - 84 years,84,f
+SUBHD0101_S105,Number - Both sexes; Total population (all ages) - 85 to 89 years - 85 years,85,b
+SUBHD0102_S105,Number - Male; Total population (all ages) - 85 to 89 years - 85 years,85,m
+SUBHD0103_S105,Number - Female; Total population (all ages) - 85 to 89 years - 85 years,85,f
+SUBHD0101_S106,Number - Both sexes; Total population (all ages) - 85 to 89 years - 86 years,86,b
+SUBHD0102_S106,Number - Male; Total population (all ages) - 85 to 89 years - 86 years,86,m
+SUBHD0103_S106,Number - Female; Total population (all ages) - 85 to 89 years - 86 years,86,f
+SUBHD0101_S107,Number - Both sexes; Total population (all ages) - 85 to 89 years - 87 years,87,b
+SUBHD0102_S107,Number - Male; Total population (all ages) - 85 to 89 years - 87 years,87,m
+SUBHD0103_S107,Number - Female; Total population (all ages) - 85 to 89 years - 87 years,87,f
+SUBHD0101_S108,Number - Both sexes; Total population (all ages) - 85 to 89 years - 88 years,88,b
+SUBHD0102_S108,Number - Male; Total population (all ages) - 85 to 89 years - 88 years,88,m
+SUBHD0103_S108,Number - Female; Total population (all ages) - 85 to 89 years - 88 years,88,f
+SUBHD0101_S109,Number - Both sexes; Total population (all ages) - 85 to 89 years - 89 years,89,b
+SUBHD0102_S109,Number - Male; Total population (all ages) - 85 to 89 years - 89 years,89,m
+SUBHD0103_S109,Number - Female; Total population (all ages) - 85 to 89 years - 89 years,89,f
+SUBHD0101_S111,Number - Both sexes; Total population (all ages) - 90 to 94 years - 90 years,90,b
+SUBHD0102_S111,Number - Male; Total population (all ages) - 90 to 94 years - 90 years,90,m
+SUBHD0103_S111,Number - Female; Total population (all ages) - 90 to 94 years - 90 years,90,f
+SUBHD0101_S112,Number - Both sexes; Total population (all ages) - 90 to 94 years - 91 years,91,b
+SUBHD0102_S112,Number - Male; Total population (all ages) - 90 to 94 years - 91 years,91,m
+SUBHD0103_S112,Number - Female; Total population (all ages) - 90 to 94 years - 91 years,91,f
+SUBHD0101_S113,Number - Both sexes; Total population (all ages) - 90 to 94 years - 92 years,92,b
+SUBHD0102_S113,Number - Male; Total population (all ages) - 90 to 94 years - 92 years,92,m
+SUBHD0103_S113,Number - Female; Total population (all ages) - 90 to 94 years - 92 years,92,f
+SUBHD0101_S114,Number - Both sexes; Total population (all ages) - 90 to 94 years - 93 years,93,b
+SUBHD0102_S114,Number - Male; Total population (all ages) - 90 to 94 years - 93 years,93,m
+SUBHD0103_S114,Number - Female; Total population (all ages) - 90 to 94 years - 93 years,93,f
+SUBHD0101_S115,Number - Both sexes; Total population (all ages) - 90 to 94 years - 94 years,94,b
+SUBHD0102_S115,Number - Male; Total population (all ages) - 90 to 94 years - 94 years,94,m
+SUBHD0103_S115,Number - Female; Total population (all ages) - 90 to 94 years - 94 years,94,f
+SUBHD0101_S117,Number - Both sexes; Total population (all ages) - 95 to 99 years - 95 years,95,b
+SUBHD0102_S117,Number - Male; Total population (all ages) - 95 to 99 years - 95 years,95,m
+SUBHD0103_S117,Number - Female; Total population (all ages) - 95 to 99 years - 95 years,95,f
+SUBHD0101_S118,Number - Both sexes; Total population (all ages) - 95 to 99 years - 96 years,96,b
+SUBHD0102_S118,Number - Male; Total population (all ages) - 95 to 99 years - 96 years,96,m
+SUBHD0103_S118,Number - Female; Total population (all ages) - 95 to 99 years - 96 years,96,f
+SUBHD0101_S119,Number - Both sexes; Total population (all ages) - 95 to 99 years - 97 years,97,b
+SUBHD0102_S119,Number - Male; Total population (all ages) - 95 to 99 years - 97 years,97,m
+SUBHD0103_S119,Number - Female; Total population (all ages) - 95 to 99 years - 97 years,97,f
+SUBHD0101_S120,Number - Both sexes; Total population (all ages) - 95 to 99 years - 98 years,98,b
+SUBHD0102_S120,Number - Male; Total population (all ages) - 95 to 99 years - 98 years,98,m
+SUBHD0103_S120,Number - Female; Total population (all ages) - 95 to 99 years - 98 years,98,f
+SUBHD0101_S121,Number - Both sexes; Total population (all ages) - 95 to 99 years - 99 years,99,b
+SUBHD0102_S121,Number - Male; Total population (all ages) - 95 to 99 years - 99 years,99,m
+SUBHD0103_S121,Number - Female; Total population (all ages) - 95 to 99 years - 99 years,99,f
+SUBHD0101_S122,Number - Both sexes; Total population (all ages) - 100 to 104 years,100-104,b
+SUBHD0102_S122,Number - Male; Total population (all ages) - 100 to 104 years,100-104,m
+SUBHD0103_S122,Number - Female; Total population (all ages) - 100 to 104 years,100-104,f
+SUBHD0101_S123,Number - Both sexes; Total population (all ages) - 105 to 109 years,105-109,b
+SUBHD0102_S123,Number - Male; Total population (all ages) - 105 to 109 years,105-109,m
+SUBHD0103_S123,Number - Female; Total population (all ages) - 105 to 109 years,105-109,f
+SUBHD0101_S124,Number - Both sexes; Total population (all ages) - 110 years and over,110+,b
+SUBHD0102_S124,Number - Male; Total population (all ages) - 110 years and over,110+,m
+SUBHD0103_S124,Number - Female; Total population (all ages) - 110 years and over,110+,f
