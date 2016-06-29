@@ -36,13 +36,6 @@ data_new = data[GEO_COLUMNS + meta.index.tolist()]
 data_new.rename(columns=meta.to_dict(), inplace=True)
 
 # Calculate age group summaries
-##data_new['0-1'] = data_new.loc[:,'0':'1'].sum()
-##data_new['2-4'] = data_new.loc[:,'2':'4'].sum()
-##data_new['5-12'] = data_new.loc[:,'5':'12'].sum()
-##data_new['13-18'] = data_new.loc[:,'13':'18'].sum()
-##data_new['19-25'] = data_new.loc[:,'19':'25'].sum()
-##data_new['26-64'] = data_new.loc[:,'26':'64'].sum()
-##data_new['65+'] = data_new.loc[:,'65':'110+'].sum()
 for g in ORDERED_AGE_GROUPS:
     data_new[g] = data_new.loc[:, AGE_GROUPS[g][0]:AGE_GROUPS[g][1]].sum(axis=1)
 
