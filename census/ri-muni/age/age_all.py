@@ -9,14 +9,6 @@ import percentages as pct
 
 
 GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
-##AGE_GROUPS = {'0-1': ('0', '1'),
-##              '2-4': ('2', '4'),
-##              '5-12': ('5', '12'),
-##              '13-18': ('13', '18'),
-##              '19-25': ('19', '25'),
-##              '26-64': ('26', '64'),
-##              '65+': ('65', '110+')}
-##ORDERED_AGE_GROUPS = ['0-1', '2-4', '5-12', '13-18', '19-25', '26-64', '65+']
 AGES = [str(i) for i in range(100)] + ['100-104', '105-109', '110+']
 
 
@@ -35,15 +27,6 @@ data = cd.clean_data('DEC_10_SF1_QTP2_with_ann.csv')
 meta = filter_metadata()
 data_new = data[GEO_COLUMNS + meta.index.tolist()]
 data_new.rename(columns=meta.to_dict(), inplace=True)
-
-# Calculate age group summaries
-##for g in ORDERED_AGE_GROUPS:
-##    data_new[g] = data_new.loc[:, AGE_GROUPS[g][0]:AGE_GROUPS[g][1]].sum(axis=1)
-
-# Drop unneeded variables
-##data_new_with_extras = data_new
-##cols_to_keep = GEO_COLUMNS + ['total'] + ORDERED_AGE_GROUPS
-##data_new = data_new[cols_to_keep]
 
 # Aggregate
 data_agg = agg.aggregate(data_new)
