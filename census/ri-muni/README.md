@@ -4,6 +4,8 @@ All data is from the American Community Survey 2014 5-year estimates, except age
 
 In the data output files, variables with `pct_` prefixes represent that respective variable (without the prefix) divided by the total population number. This yields a decimal between 0 and 1, which can be converted to a percent if desired.
 
+The section headings below are links to the respective Census data tables.
+
 
 ### [Age](http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/QTP2/0400000US44.06000)
 
