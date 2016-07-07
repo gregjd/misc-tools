@@ -30,7 +30,7 @@ This is data on language spoken at home. The population examined is only people 
 - `ne_very`: Speak a language other than English; Speak English "very well"
 - `ne_less`: Speak a language other than English; Speak English less than "very well"
 
-Some calculations were needed to transform the raw Census data to the output data. `eng_only` was calculated by taking the sum of people who speak a non-English language at home (`not_eng_only`) and subtracting that from `pop_5+`. `ne_very` and `ne_less` were not explicitly given in the raw data, and instead were calculated by taking `not_eng_only` and multiplying it by the percent of those people who were reported as speaking English "very well" or less than "very well." 
+Some calculations were needed to transform the raw Census data to the output data. `eng_only` was calculated by taking the sum of people who speak a non-English language at home (`not_eng_only`) and subtracting that from `pop_5+`. `ne_very` and `ne_less` were not explicitly given in the raw data, and instead were calculated by taking `not_eng_only` and multiplying it by the percent of those people who were reported as speaking English "very well" or less than "very well." (`not_eng_only` is not included in the final output.)
 
 
 ### [Poverty](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/14_5YR/S1701/0400000US44.06000)
