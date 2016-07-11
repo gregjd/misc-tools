@@ -16,7 +16,8 @@ def aggregate_all():
             aggregate_file(folder, name, calc_fields,
                            files.loc[name, 'muni_field_name'])
         except Exception as e:
-            print('With file ' + name + ', ran into error:', e)
+            print(e,)
+            print('No result file saved.\n')
     print('Completed all files.')
 
     return
