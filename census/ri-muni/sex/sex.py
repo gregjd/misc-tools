@@ -21,8 +21,8 @@ data_new = data_new.rename(columns=VARS)
 data_agg = agg.aggregate(data_new)
 
 # Calculate percentages
-data_new_w_pct = pct.add_percentages(data_new, ['male', 'female'])
-data_agg_w_pct = pct.add_percentages(data_agg, ['male', 'female'])
+data_new_w_pct = pct.add_percentages(data_new, ['total', 'male', 'female'])
+data_agg_w_pct = pct.add_percentages(data_agg, ['total', 'male', 'female'])
 
 # Export to CSV
 data_new_w_pct.to_csv('sex_munis.csv', index=False)
