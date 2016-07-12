@@ -16,17 +16,17 @@ def filter_metadata(sex='b'):  # for 'sex', you can use 'm' or 'f' if desired
     
     meta = clean_metadata()
     meta_filtered = meta.loc[meta['sex'] == sex]
-    meta_filtered.set_index('id', inplace=True)
-    meta_filtered.drop(['desc', 'sex'], axis=1, inplace=True)
+    meta_with_id = meta_filtered.set_index('id')
+    meta_fewer_cols = meta_with_id.drop(['desc', 'sex'], axis=1)
     
-    return meta_filtered['age']
+    return meta_fewer_cols['age']
 
 
 # Clean municipality data
 data = cd.clean_data('DEC_10_SF1_QTP2_with_ann.csv')
 meta = filter_metadata()
 data_new = data[GEO_COLUMNS + meta.index.tolist()]
-data_new.rename(columns=meta.to_dict(), inplace=True)
+data_new = data_new.rename(columns=meta.to_dict())
 
 # Aggregate
 data_agg = agg.aggregate(data_new)
