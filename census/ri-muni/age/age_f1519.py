@@ -36,7 +36,7 @@ for g in ORDERED_AGE_GROUPS:
 # Drop unneeded variables
 data_new_with_extras = data_new
 cols_to_keep = GEO_COLUMNS + ['total'] + ORDERED_AGE_GROUPS
-data_new = data_new[cols_to_keep]
+data_new = data_new.loc[:, cols_to_keep]
 
 # Aggregate
 data_agg = agg.aggregate(data_new)
