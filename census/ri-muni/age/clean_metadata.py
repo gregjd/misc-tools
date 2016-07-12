@@ -72,11 +72,9 @@ def add_sexes(data_frame):
         sex_map = {'Both sexes': 'b', 'Male': 'm', 'Female': 'f'}
 
         return sex_map[list_[1].split('; ')[0]]
-    #data_frame['sex'] = data_frame['desc_split'].map(calc_sex)
+    
     map_ = data_frame['desc_split'].map(calc_sex)
-    #data_frame['sex'] = map_
     new_df = data_frame.copy()
     new_df['sex'] = map_
 
     return new_df
-    #return data_frame
