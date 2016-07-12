@@ -16,7 +16,7 @@ GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 # Clean municipality data
 data = cd.clean_data('ACS_14_5YR_S1701_with_ann.csv')
 data_new = data[GEO_COLUMNS + sorted(VARS)]
-data_new.rename(columns=VARS, inplace=True)
+data_new = data_new.rename(columns=VARS)
 
 # Aggregate
 data_agg = agg.aggregate(data_new)
