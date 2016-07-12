@@ -23,7 +23,7 @@ GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 # Clean municipality data
 data = cd.clean_data('ACS_14_5YR_S1601_with_ann.csv')
 data_new = data[GEO_COLUMNS + sorted(VALUES)]
-data_new.rename(columns=VALUES, inplace=True)
+data_new = data_new.rename(columns=VALUES)
 
 # Calculate needed numbers
 # We need the numbers of people whose home language is English only ('eng_only'),
@@ -41,7 +41,7 @@ data_new['ne_less'] = (data_new.loc[:,'not_eng_only'] *
 # Drop unneeded variables
 data_new_with_extras = data_new
 TO_DROP = ['ne_very_pct', 'ne_less_pct', 'not_eng_only'] + OTHER_LANG
-data_new.drop(TO_DROP, axis=1, inplace=True)
+data_new = data_new.drop(TO_DROP, axis=1)
 
 # Aggregate
 data_agg = agg.aggregate(data_new)
