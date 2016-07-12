@@ -30,11 +30,11 @@ def split_description(data_frame):
 
 def filter_out_sex_ratio(data_frame):
     
-    return data_frame.loc[data_frame['id'].str[0:2] != 'HD']
+    return data_frame[data_frame['id'].str[0:2] != 'HD']
 
 def filter_out_percents(data_frame):
     
-    return data_frame.loc[data_frame['desc_split'].str[0] != 'Percent']
+    return data_frame[data_frame['desc_split'].str[0] != 'Percent']
 
 def add_ages(data_frame):
 
@@ -63,7 +63,7 @@ def add_ages(data_frame):
 
 def filter_out_5yr_groups(data_frame):
 
-    return data_frame.loc[data_frame['age'] != 'GROUP5']
+    return data_frame[data_frame['age'] != 'GROUP5']
 
 def add_sexes(data_frame):
 
