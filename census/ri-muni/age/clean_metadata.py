@@ -14,7 +14,7 @@ def clean_metadata(file_path='DEC_10_SF1_QTP2_metadata.csv',
     df_filter2 = filter_out_5yr_groups(df_w_ages)
     df_w_sexes = add_sexes(df_filter2)
 
-    df_w_sexes.drop('desc_split', axis=1, inplace=True)
+    df_w_sexes = df_w_sexes.drop('desc_split', axis=1)
     df_w_sexes.to_csv(new_file_path, index=False)
 
     return df_w_sexes
