@@ -16,6 +16,7 @@ def clean_data(file_path):
 
 
 # Helper functions
+# (Didn't name with underscores because they could maybe be useful elsewhere)
 
 def import_data(file_path):
     """Imports the data from a CSV and returns a DataFrame.
