@@ -33,15 +33,18 @@ def process(input_file, output_name, var_map, agg_areas=True):
     # Aggregate
     if agg_areas:
         data_agg = agg.aggregate(data_new)
+        data_ri = agg.aggregate(data_new, agg_var=(lambda x: True))
 
     # Calculate percentages
     data_new_w_pct = _add_pct(data_new)
     if agg_areas:
         data_agg_w_pct = _add_pct(data_agg)
+        data_ri_w_pct = _add_pct(data_ri)
 
     # Export to CSV
     _export(data_new_w_pct, 'munis')
     if agg_areas:
         _export(data_agg_w_pct, 'areas', include_index=True)
+        _export(data_ri_w_pct, 'state')
 
-    return (data_new_w_pct, data_agg_w_pct)
+    return (data_new_w_pct, data_agg_w_pct, data_ri_w_pct)
