@@ -9,6 +9,14 @@ GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 
 def process(input_file, output_name, var_map, agg_areas=True):
 
+    def _export(data_frame, suffix, include_index=True):
+
+        full_name = output_name + '_' + suffix + '.csv'
+        data_frame.to_csv(full_name, index=include_index)
+        print('Saved file: ' + full_name)
+
+        return
+
     # Clean municipality data
     data = cd.clean_data(input_file)
     data_new = data[GEO_COLUMNS + sorted(var_map.keys())]
@@ -27,10 +35,8 @@ def process(input_file, output_name, var_map, agg_areas=True):
         data_agg_w_pct = pct.add_percentages(data_agg, var_list, var_list[0])
 
     # Export to CSV
-    data_new_w_pct.to_csv(output_name + '_munis.csv', index=False)
-    print('Saved file: ' + output_name + '_munis.csv')
+    _export(data_new_w_pct, 'munis', include_index=False)
     if agg_areas:
-        data_agg_w_pct.to_csv(output_name + '_areas.csv', index=True)
-        print('Saved file: ' + output_name + '_areas.csv')
+        _export(data_agg_w_pct, 'areas')
 
     return (data_new_w_pct, data_agg_w_pct)
