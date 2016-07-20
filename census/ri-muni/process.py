@@ -15,7 +15,7 @@ def process(input_file, output_name, var_map, agg_areas=True):
 
         return pct.add_percentages(data_frame, VAR_LIST, VAR_LIST[0])
 
-    def _export(data_frame, suffix, include_index=True):
+    def _export(data_frame, suffix, include_index=False):
 
         full_name = output_name + '_' + suffix + '.csv'
         data_frame.to_csv(full_name, index=include_index)
@@ -40,8 +40,8 @@ def process(input_file, output_name, var_map, agg_areas=True):
         data_agg_w_pct = _add_pct(data_agg)
 
     # Export to CSV
-    _export(data_new_w_pct, 'munis', include_index=False)
+    _export(data_new_w_pct, 'munis')
     if agg_areas:
-        _export(data_agg_w_pct, 'areas')
+        _export(data_agg_w_pct, 'areas', include_index=True)
 
     return (data_new_w_pct, data_agg_w_pct)
