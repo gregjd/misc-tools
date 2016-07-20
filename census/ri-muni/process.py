@@ -9,6 +9,12 @@ GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 
 def process(input_file, output_name, var_map, agg_areas=True):
 
+    VAR_LIST = [var_map[i] for i in sorted(var_map)]
+
+    def _add_pct(data_frame):
+
+        return pct.add_percentages(data_frame, VAR_LIST, VAR_LIST[0])
+
     def _export(data_frame, suffix, include_index=True):
 
         full_name = output_name + '_' + suffix + '.csv'
@@ -29,10 +35,9 @@ def process(input_file, output_name, var_map, agg_areas=True):
         data_agg = agg.aggregate(data_new)
 
     # Calculate percentages
-    var_list = [var_map[i] for i in sorted(var_map)]
-    data_new_w_pct = pct.add_percentages(data_new, var_list, var_list[0])
+    data_new_w_pct = _add_pct(data_new)
     if agg_areas:
-        data_agg_w_pct = pct.add_percentages(data_agg, var_list, var_list[0])
+        data_agg_w_pct = _add_pct(data_agg)
 
     # Export to CSV
     _export(data_new_w_pct, 'munis', include_index=False)
