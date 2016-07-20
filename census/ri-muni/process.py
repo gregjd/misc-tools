@@ -39,7 +39,7 @@ def process(input_file, output_name, var_map, agg_areas=True):
     data_new_w_pct = _add_pct(data_new)
     if agg_areas:
         data_agg_w_pct = _add_pct(data_agg)
-        data_ri_w_pct = _add_pct(data_ri)
+        data_ri_w_pct = _add_pct(data_ri.drop('area', axis=1))
 
     # Export to CSV
     _export(data_new_w_pct, 'munis')
