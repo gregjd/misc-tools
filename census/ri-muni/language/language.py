@@ -20,12 +20,10 @@ def calc_and_drop(data_frame):
     # a non-English language and speak English 'less than very well' ('ne_less').
     # The numbers should sum to 'pop_5+'.
     OTHER_LANG = ['spanish', 'other_indo_euro', 'asian_pacific', 'other']
-    data_frame['not_eng_only'] = sum([data_frame.loc[:,lang] for lang in OTHER_LANG])
-    data_frame['eng_only'] = data_frame.loc[:,'pop_5+'] - data_frame.loc[:,'not_eng_only']
-    data_frame['ne_very'] = (data_frame.loc[:,'not_eng_only'] *
-                           data_frame.loc[:,'ne_very_pct'] * 0.01)
-    data_frame['ne_less'] = (data_frame.loc[:,'not_eng_only'] *
-                           data_frame.loc[:,'ne_less_pct'] * 0.01)
+    data_frame['not_eng_only'] = sum([data_frame[lang] for lang in OTHER_LANG])
+    data_frame['eng_only'] = data_frame['pop_5+'] - data_frame['not_eng_only']
+    data_frame['ne_very'] = (data_frame['not_eng_only'] * data_frame['ne_very_pct'] * 0.01)
+    data_frame['ne_less'] = (data_frame['not_eng_only'] * data_frame['ne_less_pct'] * 0.01)
 
     # Drop unneeded variables
     # data_new_with_extras = data_frame
