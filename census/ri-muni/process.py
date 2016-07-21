@@ -7,7 +7,7 @@ import percentages as pct
 
 GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 
-def process(input_file, output_name, var_map, agg_areas=True):
+def process(input_file, output_name, var_map, calc=None, agg_areas=True):
 
     VAR_LIST = [var_map[i] for i in sorted(var_map)]
 
@@ -28,7 +28,9 @@ def process(input_file, output_name, var_map, agg_areas=True):
     data_new = data[GEO_COLUMNS + sorted(var_map.keys())]
     data_new = data_new.rename(columns=var_map)
 
-    # Other stuff: calc, drop
+    # Perform any extra necessary calculations
+    if calc:
+        data_new = calc(data_new)
 
     # Aggregate
     if agg_areas:
