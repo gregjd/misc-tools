@@ -9,11 +9,14 @@ GEO_COLUMNS = ['geoID_long', 'geoID_short', 'muni_long', 'muni_short']
 
 def process(input_file, output_name, var_map, calc=None, agg_areas=True):
 
-    VAR_LIST = [var_map[i] for i in sorted(var_map)]
-
     def _add_pct(data_frame):
 
-        return pct.add_percentages(data_frame, VAR_LIST, VAR_LIST[0])
+        var_list = list(data_frame.columns)
+        for var in GEO_COLUMNS + ['area']:
+            if var in var_list:
+                var_list.remove(var)
+        
+        return pct.add_percentages(data_frame, var_list, var_list[0])
 
     def _export(data_frame, suffix, include_index=False):
 
