@@ -11,7 +11,7 @@ def process(input_file, output_name, var_map, calc=None, agg_areas=True):
 
     def _add_pct(data_frame):
 
-        var_list = list(data_frame.columns)
+        var_list = data_frame.columns.tolist()
         for var in GEO_COLUMNS + ['area']:
             if var in var_list:
                 var_list.remove(var)
