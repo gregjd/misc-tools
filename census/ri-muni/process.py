@@ -51,5 +51,6 @@ def process(input_file, output_name, var_map, calc=None, agg_areas=True):
     if agg_areas:
         _export(data_agg_w_pct, 'areas', include_index=True)
         _export(data_ri_w_pct, 'state')
-
-    return (data_new_w_pct, data_agg_w_pct, data_ri_w_pct)
+        return (data_new_w_pct, data_agg_w_pct, data_ri_w_pct)
+    else:
+        return (data_new_w_pct,)
