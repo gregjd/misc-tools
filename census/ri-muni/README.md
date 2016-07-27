@@ -11,7 +11,7 @@ The section headings below are links to the respective Census data tables.
 
 Age data uses individual years of age, which are only given (at our geography level) in the decennial census. Individual years of age are given through 99. 100 through 104 and 105 through 109 are given in 5-year groups, and 110 and older is one group.
 
-There are two sets of data output files for age. One ("age") has age given in specific groups: 0–1, 2–4, 5–12, 13–18, 19–25, 26–64, 65+. The other ("age_all") has individual years of age, with the aforementioned groupings for people age 100 and older.
+There are two sets of data output files for age. One ("age_groups") has age given in specific groups: 0–1, 2–4, 5–12, 13–18, 19–25, 26–64, 65+. The other ("age_each") has individual years of age, with the aforementioned groupings for people age 100 and older.
 
 *Note:* Age data is also available [here](http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/PCT12/0400000US44.06000). The raw data should be the same as in the other table, although the variable codes are different.
 
