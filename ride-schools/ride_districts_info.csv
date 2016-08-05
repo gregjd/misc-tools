@@ -1,0 +1,66 @@
+code,type,status,name,dist,config,grades,grade_min,grade_max,nces,street1,street2,city,zip,phone,url,p_name,p_title
+01,LEA,Active,Barrington,,,PK - 12,PK,12,4400030,283 County Road,"PO Box 95, ",Barrington,02806,4012455000,barringtonschools.org,Michael B. Messore,Superintendent
+03,LEA,Active,Burrillville,,,PK - 12,PK,12,4400090,2300 Bronco Highway,,Harrisville,02830,4015681301,www.bsd-ri.net,Frank Pallotta,Superintendent
+04,LEA,Active,Central Falls,,,PK - 12,PK,12,4400120,949 Dexter ST.,"Lower level, ",Central Falls,02863,4017277700,www.cfschools.net,Victor Capellan,Superintendent
+06,LEA,Active,Coventry,,,PK - 12,PK,12,4400210,1675 Flat River Road,,Coventry,02816,4018229400,www.coventryschools.net,Michael Convery,Superintendent
+07,LEA,Active,Cranston,,,PK - 12,PK,12,4400240,845 Park Avenue,,Cranston,02910,4012708170,www.cpsed.net,Donna Marie Frappier; Jeannine Nota-Masse,Director of Technology; Superintendent
+08,LEA,Active,Cumberland,,,PK - 12,PK,12,4400270,2602 Mendon Road,,Cumberland,02864,4016581600,www.cumberlandschools.org,Robert  Mitchell,Superintendent
+09,LEA,Active,East Greenwich,,,PK - 12,PK,12,4400300,111 Peirce Street,,East Greenwich,02818,4013981201,www.egsd.net,Victor Mercurio,Superintendent
+10,LEA,Active,East Providence,,,PK - 12,PK,12,4400330,145 Taunton Avenue,,East Providence,02914,4014314640,www.epschoolsri.com,Kathryn Crowley,Superintendent
+12,LEA,Active,Foster,,,KG - 05,K,5,4400390,160 Foster Ctr Rd/Isaac,,Foster,02825,4016475100,http://paineschool.org/wp/,Michael S. Barnes Ph.D.,Superintendent
+13,LEA,Active,Glocester,,,PK - 05,PK,5,4400450,Glocester Town Hall,1145 Putnam Pike P.O.Box B,Chepachet,02814,4015684160,www.glocesterri.org/school.htm,Pat Dubois,Superintendent
+15,LEA,Active,Jamestown,,,PK - 12,PK,12,4400510,76 Melrose Avenue,,Jamestown,02835,4014237020,www.jamestownri.com/school/,Carol Ann Blanchette,Superintendent
+16,LEA,Active,Johnston,,,PK - 12,PK,12,4400540,10 Memorial Avenue,,Johnston,02919,4012331900,www.johnstonschools.org,Bernard DiLullo,Superintendent
+17,LEA,Active,Lincoln,,,PK - 12,PK,12,4400570,1624 Lonsdale Avenue,,Lincoln,02865,4017213313,www.lincolnps.org,Georgia Fortunato,Superintendent
+18,LEA,Active,Little Compton,,,KG - 08,K,8,4400600,28 Commons,,Little Compton,02837,4016352351,www.lcsd.k12.ri.us,Robert B. Power,Interim Superintendent
+19,LEA,Active,Middletown,,,PK - 12,PK,12,4400630,26 Oliphant Lane,,Middletown,02842,4018492122,www.mpsri.net,Rosemarie K. Kraeger,Superintendent
+20,LEA,Active,Narragansett,,,PK - 12,PK,12,4400660,25 Fifth Avenue,,Narragansett,02882,4017929450,www.narragansett.k12.ri.us/,Katherine E. Sipala,Superintendent
+21,LEA,Active,Newport,,,PK - 12,PK,12,4400720,15 Wickham Road,,Newport,02840,4018472100,www.npsri.net,Colleen Burns Jermain,Superintendent
+22,LEA,Active,New Shoreham,,,KF - 12,K,12,4400690,High Street,,Block Island,02807,4014667727,blockislandschool.net,Judith A. Lundsten,Superintendent
+23,LEA,Active,North Kingstown,,,PK - 12,PK,12,4400750,100 Romano Vineyard Way,Ste. 120,North Kingstown,02852,4012686403,www.nksd.net,Philip Auger,Superintendent
+24,LEA,Active,North Providence,,,PK - 12,PK,12,4400780,2240 Mineral Spring Avenue,,North Providence,02911,4012331100,http://npsd.k12.ri.us/,Melinda A. Smith,Superintendent
+25,LEA,Active,North Smithfield,,,PK - 12,PK,12,4400810,83 Greene Street,"PO Box 72, ",Slatersville,02876,4017695492,www.northsmithfieldschools.com,Stephen F. Lindberg,Superintendent
+26,LEA,Active,Pawtucket,,,PK - 12,PK,12,4400840,286 Main Street,,Pawtucket,02860,4017296300,www.psdri.net,Patti DiCenso,Superintendent
+27,LEA,Active,Portsmouth,,,PK - 12,PK,12,4400870,29 Middle Road,,Portsmouth,02871,4016831039,www.portsmouthschoolsri.net,Ana Riley,Superintendent
+28,LEA,Active,Providence,,,PK - 12,PK,12,4400900,797 Westminster Street,,Providence,02903,4014569211,providenceschools.org,Christopher N Maher,Superintendent
+30,LEA,Active,Scituate,,,PK - 12,PK,12,4400960,197 Danielson Pike,"PO 188, ",North Scituate,02857,4016474100,www.scituateri.net,Paul R. Lescault,Superintendent
+31,LEA,Active,Smithfield,,,PK - 12,PK,12,4400990,49 Farnum Pike,,Smithfield,02917,4012316606,www.smithfield-ps.org,Robert M. O'Brien,Superintendent
+32,LEA,Active,South Kingstown,,,PK - 12,PK,12,4401020,307 Curtis Corner Road,,Wakefield,02879,4013601300,www.skschools.net,Kristen E. Stringfellow Ed.D.,Superintendent
+33,LEA,Active,Tiverton,,,PK - 12,PK,12,4401050,100 North Brayton Road,,Tiverton,02878,4016248475,www.tivertonschools.org,William Rearick,Superintendent
+35,LEA,Active,Warwick,,,PK - 12,PK,12,4401110,34 Warwick Lake Avenue,,Warwick,02889,4017343100,www.warwickschools.org,"Lynn Dambruch; Dr. Philip Thornton, Ed.D.",Director of Elementary Education; Superintendent
+36,LEA,Active,Westerly,,,PF - 12,PK,12,4401170,15 Highland Avenue,"Babcock Hall, ",Westerly,02891,4013482700,westerly.k12.ri.us,"Roy Seitsinger Jr,. Ph.D.",Superintendent
+38,LEA,Active,West Warwick,,,PK - 12,PK,12,4401140,10 Harris Avenue,,West Warwick,02893,4018211180,www.westwarwickpublicschools.com,Keith Remillard; Karen A. Tarasevich,District Test Coordinator; Superintendent
+39,LEA,Active,Woonsocket,,,PK - 12,PK,12,4401200,McFee Administration Building,"108 High Street, ",Woonsocket,02895,4017674608,woonsocketschools.com,James Wolfgang,Director of Labor Relations
+40,SOP,Active,Davies Career and Tech,,,09 - 12,9,12,4400004,50 Jenckes Hill Road,,Lincoln,02865,4017281500,www.daviestech.org,Victoria Gailliard-Garrick,Superintendent
+41,CHTR,Active,Achievement First Rhode Island,,,KF - 01,K,1,4400021,370 Hartford Avenue,,Providence,02909,4013180221,www.achievementfirst.org/schools/rhode-island-schools/,Benjamin Smith,Director
+42,CHTR,Active,Sheila Skip Nowell Leadership Academy,Sheila Skip Nowell Leadership Academy,,09 - 12,9,12,4400024,43 Hawes Street,,Central Falls,02863,4017510405,http://www.nowellacademy.org/,Jodi LaFauci; Emily Santileses,Director/Superintendent; Principal
+43,CHTR,Active,SouthSide Charter School,,,KG - 05,K,5,4400028,126 Somerset Street,,Providence,02907,4015219696,www.southsideelementary.org,Danielle Costa,Director of Education
+46,CHTR,Active,Segue Institute for Learning,,,06 - 08,6,8,4400014,325 Cowden Street,,Central Falls,02863,4017210964,www.segueifl.org,Angelo  Garcia,Director
+47,CHTR,Active,"Blackstone Valley Prep, A RI Mayoral Academy",,,KF - 10,K,10,4400015,291 Broad St.,,Cumberland,02864,4013353133,www.blackstonevalleyprep.org,Jeremy Chiappetta; Colleen Colarusso; Josh Falk; Jen LoPiccolo; Jonathan Santos Silva; Joy  Souza,Superintendent; Head of School; Principal; Directory of Community & Public Relations; Principal; Head of School
+48,CHTR,Active,Highlander,,,PF - 12,PK,12,4400031,42 Lexington Avenue,,Providence,02907,4012772600,www.highlandercharter.org,Rose Mary Grant,Superintendent
+49,Regional Collaborative,Active,Urban Collaborative,,,07 - 09,7,9,4400005,75 Carpenter Street,,Providence,02903,4012720881,www.ucap.org,Robert DeBlois,Superintendent
+50,SOP,Active,R.I. Sch for the Deaf,,,PF - 12,PK,12,4400001,One Corliss Park,,Providence,02908,4012223525,www.rideaf.net,Nancy Maguire Heath,Director/Superintendent
+51,CHTR,Active,Paul Cuffee Charter Sch,,,KF - 12,K,12,4400032,459 Promenade Street,,Providence,02908,4014532626,www.paulcuffeeschool.org,Eric Charlesworth; Christopher Haskins; Carrie McWilliams; Celeste Terry-Lo,Principal; Superintendent; Principal; Principal (9-12)
+52,CHTR,Active,Kingston Hill Academy,,,KF - 05,K,5,4400033,850 Stony Fort Road,,Saunderstown,02874,4017838282,www.kingstonhill.org,Linda Paolillo,Superintendent
+53,CHTR,Active,International Charter,,,KF - 05,K,5,4400034,334 Pleasant Street,,Pawtucket,02860,4017210824,www.internationalcharterschool.org,Julie Nora Ph.D.,Superintendent
+54,CHTR,Active,Blackstone Academy,,,09 - 12,9,12,4400036,334 Pleasant Street,,Pawtucket,02860,4017261750,www.blackstoneacademy.org,Carolyn Sheehan,Superintendent
+55,CHTR,Active,The Compass School,,,KF - 08,K,8,4400035,537 Old North Road,,Kingston,02881,4017888322,www.compassschool.org,,
+56,REG,Active,Newport County Regional,,,-,,,0,26 Oliphant Lane,,Middletown,02842,4018473916,,,
+58,CHTR,Active,Beacon Charter School,,,09 - 12,9,12,4400008,320 Main Street,,Woonsocket,02895,4016716261,www.beaconart.org,Michael Skeldon,Superintendent
+59,CHTR,Active,Learning Community,,,KF - 08,K,8,4400006,21 Lincoln Avenue,,Central Falls,02863,4017229998,www.thelearningcommunity.com,Sarah Friedman; Meg O'Leary,Superintendents
+60,SOP,Active,MET Career and Tech,,,09 - 12,9,12,4400003,325 Public Street,,Providence,02905,4017522600,www.metcenter.org,Nancy Diaz Bain,Superintendent
+61,CHTR,Active,Trinity Academy for the Performing Arts,,,07 - 12,7,12,4400018,158 Messer Street,,Providence,02909,4014327881,www.trinityacademyfortheperformingarts.org,Nanci DeRobbio,Superintendent
+62,CHTR,Active,The Greene School,,,09 - 12,9,12,4400017,94 John Potter Road,Unit 3,West Greenwich,02817,4013978600,www.thegreeneschool.org,Josh Laplante,Superintendent
+63,CHTR,Active,Rhode Island Nurses Institute Middle College,,,10 - 12,10,12,4400019,150 washington Street,4th Floor,Providence,02903,4016804900,www.tomorrowsnurses.org,"Colleen Hitchings; Pamela L McCue MS, RN",Principal; Superintendent
+64,CHTR,Active,Village Green Virtual,,,09 - 11,9,11,4400025,135 Weybosset Street,,Providence,02903,4018312878,www.vgonline.org,Robert Pilkington Ed.D.,Superintendent
+66,,Active,Dept of Corrections,,,-,,,0,"18 Wilma Schesler Lane, Dix Building",,Cranston,02920,4014622507,,Ralph Orleck,Principal/Special Education Director
+67,SOP,Active,DCYF,,,06 - 12,6,12,4400009,101 Friendship Street,4th Floor,Providence,02903,4015283576,www.dcyf.ri.gov,Mike Burk,Superintendent
+68,CHTR,Active,The Hope Academy,,,KG - 08,K,8,4400027,1000 Eddy Street,,Providence,02905,4015339192,www.hopeacademyri.org,,
+75,Regional Collaborative,Active,Northern RI Collaborative,,,PK - 12,PK,12,4400020,640 George Washington Hwy,Suite 200,Lincoln,02865,4014952000,www.nric-ri.org,Joseph M. Nasif Jr.,Interim Director
+76,Regional Collaborative,Active,West Bay Collaborative,,,KG - 12,K,12,4400023,144 Bignall Street,,Warwick,02888,4019418353,,Karen G. Ostroff,Principal
+77,Regional Collaborative,Active,East Bay Educational Collaborative,,,KG - 12,K,12,4400026,317 Market Street,,Warren,02885,4012454998,www.ebecri.org,Donna M. Ottaviano Ed.D.,Ex. Director
+79,CHTR,Active,RISE Prep Mayoral Academy,,,KF - 08,K,8,0,1 Social Street,,Woonsocket,02895,4017655127,www.riseprepri.org,Rosalind Murphy,Director
+96,LEA,Active,Bristol Warren,,,PK - 12,PK,12,4400065,151 State Street,,Bristol,02809,4012534000,www.bw.k12.ri.us,Mario Andrade,Superintendent
+97,LEA,Active,Exeter-West Greenwich,,,PK - 12,PK,12,4400360,940 Nooseneck Hill Road,,West Greenwich,02817,4013975125,ewg.k12.ri.us,James H. Erinakes Ed.D.,Superintendent
+98,LEA,Active,Chariho,,,PK - 12,PK,12,4400150,455A Switch Road,,Wood River Junction,02894,4013647575,www.chariho.k12.ri.us,Barry J. Ricci,Superintendent
+99,LEA,Active,Foster-Glocester,,,06 - 12,6,12,4400420,91 Anan Wade Road,,North Scituate,02857,4017107500,www.fg.k12.ri.us,Michael S. Barnes Ph.D.,Superintendent

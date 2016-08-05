@@ -10,7 +10,7 @@ class SchoolOrDistrict():
 
         self.code = dict_["schcode"]
         self.name = dict_["schname"]
-        self.total = dict_["total"]
+        self.total = int(dict_["total"].replace(",", ""))
         self.enroll = [0]*14  # list with 14 slots, all with value of 0
 
         given_grades = ["GPK", "GPF", "GKG", "GKF", "G01", "G02", "G03",
@@ -18,7 +18,7 @@ class SchoolOrDistrict():
         for grade in given_grades:
             new_grade_name = constants.GRADES[grade]
             list_position = constants.GRADE_POSITIONS[new_grade_name]
-            count = int(dict_[grade])
+            count = int(dict_[grade].replace(",", ""))
             self.enroll[list_position] += count
 
     def getCode(self):
@@ -32,6 +32,17 @@ class SchoolOrDistrict():
     def getTotal(self):
 
         return self.total
+
+    # def getGrade(self, grade):
+
+    #     return self.enroll[GRADE_POSITIONS[grade]]
+
+    def getEnrolls(self, grade_start, grade_end):
+
+        start_index = constants.GRADE_POSITIONS[grade_start]
+        end_index = constants.GRADE_POSITIONS[grade_end] + 1
+
+        return self.enroll[start_index:end_index]
 
     def checkGrades(self, grade_start, grade_end):
         """Checks a provided grade range against the actual enrollments."""
@@ -111,6 +122,8 @@ def mapData(raw_data):
             schools[schcode] = School(d)
         elif len(schcode) == 2:
             districts[schcode] = District(d)
+        elif len(schcode) == 0:
+            pass
         else:
             raise Exception("Variable 'schcode' can only be 2 or 5 " +
                 "characters long. " + str(len(schcode)) +

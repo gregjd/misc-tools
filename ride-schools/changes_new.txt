@@ -1,0 +1,1617 @@
+Coventry High School not in last year's database.
+ldn't find school 61190 in enrollment data.
+E. Providence School Department's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K.
+Couldn't find school 06023 in enrollment data.
+Couldn't find school 70996 in enrollment data.
+Couldn't find school 97902 in enrollment data.
+Couldn't find school 07032 in enrollment data.
+Couldn't find school 24901 in enrollment data.
+Couldn't find school 98002 in enrollment data.
+Warwick Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 2, 3.
+Couldn't find school 50190 in enrollment data.
+Couldn't find school 64190 in enrollment data.
+Couldn't find school 35908 in enrollment data.
+Newport Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K.
+John Wickes School's grade span is supposed to be PK to 6, but it has zero students enrolled in grade(s) PK.
+Couldn't find school 07704 in enrollment data.
+DCYF Alternative Education Program's grade span is supposed to be 6 to 12, but it has zero students enrolled in grade(s) 6, 7.
+Couldn't find school 10030 in enrollment data.
+Couldn't find school 28924 in enrollment data.
+Couldn't find school 28925 in enrollment data.
+Couldn't find school 28926 in enrollment data.
+Couldn't find school 28927 in enrollment data.
+Couldn't find school 28921 in enrollment data.
+Couldn't find school 28922 in enrollment data.
+Couldn't find school 28923 in enrollment data.
+Capt. G. Harold Hunt School's grade span is supposed to be PK to 1, but it has zero students enrolled in grade(s) 1.
+Couldn't find school 26976 in enrollment data.
+Bristol Warren  Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 2.
+Couldn't find school 41190 in enrollment data.
+Central Falls Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 2, 5, 10, 12.
+Couldn't find school 19933 in enrollment data.
+Couldn't find school 46190 in enrollment data.
+S. Kingstown Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 2, 3, 5.
+Couldn't find school 12190 in enrollment data.
+Johnston Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) K, 1, 5.
+Pawtucket Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK.
+Couldn't find school 16903 in enrollment data.
+John F. Horgan Elementary School's grade span is supposed to be PK to 4, but it has zero students enrolled in grade(s) PK.
+Greenbush Elementary School's grade span is supposed to be PK to 4, but it has zero students enrolled in grade(s) PK.
+Smithfield Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 2, 3, 4, 7, 8, 9.
+Couldn't find school 04913 in enrollment data.
+Couldn't find school 04912 in enrollment data.
+Burrillville Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 2, 3, 5, 6, 7.
+Couldn't find school 35840 in enrollment data.
+Couldn't find school 48190 in enrollment data.
+Couldn't find school 43190 in enrollment data.
+Narragansett Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) K, 1, 2, 3, 4, 5, 6, 10, 11.
+Couldn't find school 51190 in enrollment data.
+Couldn't find school 21117 in enrollment data.
+Couldn't find school 07132 in enrollment data.
+Couldn't find school 98102 in enrollment data.
+Couldn't find school 79190 in enrollment data.
+Couldn't find school 63190 in enrollment data.
+Woonsocket Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K.
+Chariho Regional District's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, 1, 2, 3, 4, 5, 6, 7, 9, 10.
+The R.Y.S.E. School's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 4.
+Tiverton Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 4.
+Barrington Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) K, 1, 2, 7, 8.
+Couldn't find school 13190 in enrollment data.
+Couldn't find school 58190 in enrollment data.
+Couldn't find school 39127 in enrollment data.
+Couldn't find school 68190 in enrollment data.
+Couldn't find school 32913 in enrollment data.
+Fogarty Memorial School's grade span is supposed to be PK to 5, but it has zero students enrolled in grade(s) PK.
+Couldn't find school 21017 in enrollment data.
+Couldn't find school 16116 in enrollment data.
+Couldn't find school 21902 in enrollment data.
+N. Providence School Department's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) 7.
+Westerly Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K.
+Jamestown Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 2, 3, 4, 5, 7, 8, 9, 11.
+Couldn't find school 42190 in enrollment data.
+Couldn't find school 35140 in enrollment data.
+Couldn't find school 35141 in enrollment data.
+Couldn't find school 36903 in enrollment data.
+Couldn't find school 36902 in enrollment data.
+Couldn't find school 62190 in enrollment data.
+Founders Academy's grade span is supposed to be 6 to 8, but it has zero students enrolled in grade(s) 7, 8.
+RISE Prep Mayoral Academy's grade span is supposed to be K to 8, but it has zero students enrolled in grade(s) 1, 2, 3, 4, 5, 6, 7, 8.
+Couldn't find school 18190 in enrollment data.
+Couldn't find school 39905 in enrollment data.
+Couldn't find school 39906 in enrollment data.
+Couldn't find school 07974 in enrollment data.
+Couldn't find school 07975 in enrollment data.
+Couldn't find school 07976 in enrollment data.
+Learning Community Admin School's grade span is supposed to be K to 8, but it has zero students enrolled in grade(s) K, 1, 2, 3, 4, 5, 6, 8.
+E. Greenwich Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) K, 1, 2, 3, 10, 11.
+Dr. Martin Luther King, Jr. Elementary School's grade span is supposed to be PK to 5, but it has zero students enrolled in grade(s) PK.
+Couldn't find school 16904 in enrollment data.
+Highlander Charter School's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) 12.
+Citizens Memorial School's grade span is supposed to be 2 to 5, but it has zero students enrolled in grade(s) 2.
+New Shoreham Public Schools's grade span is supposed to be K to 12, but it has zero students enrolled in grade(s) K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.
+Couldn't find school 54190 in enrollment data.
+Couldn't find school 96902 in enrollment data.
+W. Warwick Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 2, 5, 7, 8.
+Coventry Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 2, 3, 5, 12.
+Couldn't find school 60190 in enrollment data.
+Couldn't find school 28933 in enrollment data.
+Couldn't find school 28932 in enrollment data.
+Couldn't find school 28931 in enrollment data.
+Couldn't find school 28930 in enrollment data.
+Couldn't find school 28936 in enrollment data.
+Couldn't find school 28935 in enrollment data.
+Couldn't find school 28934 in enrollment data.
+N. Smithfield Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 4, 5, 7.
+Couldn't find school 10130 in enrollment data.
+Couldn't find school 06123 in enrollment data.
+Middletown Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 2.
+Robert L Bailey IV, Elementary School's grade span is supposed to be PK to 5, but it has zero students enrolled in grade(s) PK.
+Margaret I. Robertson School's grade span is supposed to be PK to 1, but it has zero students enrolled in grade(s) PK, 1.
+Couldn't find school 26905 in enrollment data.
+Couldn't find school 40190 in enrollment data.
+Couldn't find school 08120 in enrollment data.
+Nayatt School's grade span is supposed to be PK to 3, but it has zero students enrolled in grade(s) PK.
+Couldn't find school 99190 in enrollment data.
+Couldn't find school 35040 in enrollment data.
+Cumberland Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 4, 5, 7.
+Couldn't find school 50901 in enrollment data.
+Exeter-W. Greenwich Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 2, 3.
+Couldn't find school 96114 in enrollment data.
+Couldn't find school 39904 in enrollment data.
+Kingston Hill Admin School's grade span is supposed to be K to 5, but it has zero students enrolled in grade(s) K, 1, 2, 3, 4.
+Couldn't find school 53190 in enrollment data.
+Lincoln Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, 8.
+Couldn't find school 55190 in enrollment data.
+Blackstone Valley Prep Admin School's grade span is supposed to be K to 10, but it has zero students enrolled in grade(s) 1, 2, 3, 4, 5, 7, 9, 10.
+Portsmouth Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K, 1, 7.
+N. Kingstown Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K.
+Fort Barton School's grade span is supposed to be PK to 4, but it has zero students enrolled in grade(s) PK.
+Evolutions High School's grade span is supposed to be 9 to 9, but it also has students enrolled in grade(s) 10.
+Providence Public Schools's grade span is supposed to be PK to 12, but it has zero students enrolled in grade(s) PK, K.
+Primrose Hill School has a mismatch:
+Old url: http://www.primrosehillschool.org/default.aspx
+New url: http://www.primrosehillschool.org/default.aspx/
+Nayatt School has a mismatch:
+Old url: http://www.nayattschool.org/default.aspx
+New url: http://www.nayattschool.org/default.aspx/
+Hampden Meadows School has a mismatch:
+Old url: http://www.hampdenmeadows.org/default.aspx
+New url: http://www.hampdenmeadows.org/default.aspx/
+Barrington Middle School has a mismatch:
+Old principal: Andrew Anderson
+New principal: Andrew  Anderson
+Barrington Middle School has a mismatch:
+Old url: http://www.barringtonmiddle.org/default.aspx
+New url: http://www.barringtonmiddle.org/default.aspx/
+Sowams Elementary School has a mismatch:
+Old url: http://barringtonschools.org
+New url: http://barringtonschools.org/
+Steere Farm Elementary School has a mismatch:
+Old url: http://www.bsd-ri.net/schools
+New url: http://www.bsd-ri.net/schools/
+William L. Callahan School has a mismatch:
+Old url: www.bsd-ri.net/schools
+New url: http://www.bsd-ri.net/schools/
+Austin T. Levy School has a mismatch:
+Old url: http://www.bsd-ri.net/schools
+New url: http://www.bsd-ri.net/schools/
+Ella Risk School has a mismatch:
+Old principal: Maureen Azar
+New principal: Michael Templeton
+Ella Risk School has a mismatch:
+Old phone: 4017277730
+New phone: 4017277731
+Capt. G. Harold Hunt School has a mismatch:
+Old url: http://hunt.cfschools.net/index.html
+New url: http://hunt.cfschools.net/
+Capt. G. Harold Hunt School has a mismatch:
+Old high_grade: PK
+New high_grade: 1
+School 04105 missing from new data.
+Veterans Memorial Elementary has a mismatch:
+Old principal: Ann Lynch
+New principal: Jose Valerio
+Central Falls High School has a mismatch:
+Old name_iwl: Central Falls High School
+New name_iwl: Central Falls Senior High School
+Central Falls High School has a mismatch:
+Old principal: Joshua Laplante
+New principal: Troy Silvia
+School 04109 missing from new data.
+School 04110 missing from new data.
+Calcutt Middle School has a mismatch:
+Old name_iwl: Calcutt Middle School
+New name_iwl: Dr. Earl F. Calcutt Middle School
+Calcutt Middle School has a mismatch:
+Old principal: Heather Dos Santos
+New principal: Buddy Comet
+Margaret I. Robertson School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+Margaret I. Robertson School has a mismatch:
+Old nces_code: 440012000028
+New nces_code: 440012000482
+The Learning Community Charter School has a mismatch:
+Old principal: Sarah Friedman and Meg O'Leary
+New principal: Sarah Friedman; Meg O'Leary
+The Learning Community Charter School has a mismatch:
+Old principal_label: Co-Principals
+New principal_label: Principals
+The Learning Community Charter School has a mismatch:
+Old url: http://www.thelearningcommunity.com
+New url: http://www.thelearningcommunity.com/
+Segue Institute for Learning has a mismatch:
+Old principal: Melissa Lourenco
+New principal: Angelo Garcia; Angelo Garcia; Melissa Lourenco; Melissa Lourenco
+Segue Institute for Learning has a mismatch:
+Old principal_label: Principal
+New principal_label: Ex. Director; Ex. Director; Principal; Principal
+Segue Institute for Learning has a mismatch:
+Old url: http://segueifl.org/
+New url: 
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old name_iwl: Sheila Skip Nowell Leadership Academy (I)
+New name_iwl: Sheila Skip Nowell Leadership Academy (Central Campus)
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old district_name: Nowell Leadership Academy
+New district_name: Sheila Skip Nowell Leadership Academy
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old principal: Jodi Timpani
+New principal: Jodi LaFauci
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old nces_code: 
+New nces_code: 440002400484
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old phone: 4017221600
+New phone: 4017510405
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old principal_label: Principal
+New principal_label: Director
+Sheila Skip Nowell Leadership Academy (I) has a mismatch:
+Old url: http://www.nowellacademy.org/
+New url: 
+School 06105 missing from new data.
+School 06111 missing from new data.
+Hopkins Hill School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+School 06114 missing from new data.
+Tiogue School has a mismatch:
+Old principal: Louise Seitsinger
+New principal: Louise  Seitsinger
+Tiogue School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+Blackrock School has a mismatch:
+Old principal: Alicia Reniere-Castle
+New principal: Nicole Hitchener
+Coventry High School has a mismatch:
+Old principal: Michael Hobin
+New principal: Michael J. Hobin
+Washington Oak School has a mismatch:
+Old url: http://www.coventryschools.net
+New url: http://www.coventryschools.net/
+Oak Lawn School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Oak Lawn School has a mismatch:
+Old url: http://oaklawnschool.wix.com/index
+New url: http://oaklawnschool.wix.com/index/
+School 07108 missing from new data.
+Daniel D. Waterman School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Chester W. Barrows School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Chester W. Barrows School has a mismatch:
+Old url: http://cpsed.net/barrows/revised/site/Welcome.html
+New url: http://cpsed.net/barrows/revised/site/Welcome.html/
+Cranston High School East has a mismatch:
+Old url: http://cpsed.net/chse/
+New url: http://chse.cpsed.net/
+William R. Dutemple School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+William R. Dutemple School has a mismatch:
+Old url: http://dutemple.wix.com/index
+New url: http://cpsed.net/dutemple/INDEX2.htm/
+Edward S. Rhodes School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Eden Park School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Gladstone Street School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Stadium School has a mismatch:
+Old principal_label: Princiapl
+New principal_label: Principal
+Stadium School has a mismatch:
+Old url: http://stadiumelementary.weebly.com/index.html
+New url: http://stadiumelementary.weebly.com/index.html/
+Woodridge School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Woodridge School has a mismatch:
+Old url: http://cpsed.net/wood/
+New url: http://woodridgeschool.weebly.com/
+Garden City School has a mismatch:
+Old url: http://www.gardencityelementaryschool.com/index.html
+New url: http://www.gardencityelementaryschool.com/index.html/
+George J. Peters School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+George J. Peters School has a mismatch:
+Old url: http://georgejpeters.wix.com/georgejpeters
+New url: http://www.cpsed.net/
+Arlington School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Arlington School has a mismatch:
+Old url: http://arlingtonallstars.wikispaces.com/home
+New url: http://arlingtonallstars.wikispaces.com/
+Cranston High School West has a mismatch:
+Old url: http://cpsed.net/chsw/index.htm
+New url: http://cpsed.net/chsw/index.htm/
+Stone Hill School has a mismatch:
+Old principal: Norma Cole
+New principal: Danielle DeSimone
+Western Hills Middle School has a mismatch:
+Old principal: Anthony Corrente
+New principal: 
+Western Hills Middle School has a mismatch:
+Old principal_label: Principal
+New principal_label: 
+Edgewood Highland School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Hope Highlands Elementary School has a mismatch:
+Old principal: Roxanne Murphy
+New principal: Roxanne Gustafson
+Hope Highlands Elementary School has a mismatch:
+Old url: http://www.hopehighlands.net/Pages/default.aspx
+New url: http://www.hopehighlands.net/Pages/default.aspx/
+NE Laborers'/Cranston Public Schools Construction Career Academy has a mismatch:
+Old name_iwl: NE Laborers'/Cranston Public Schools Construction Career Academy
+New name_iwl: NEL/CPS Construction Career Academy
+NE Laborers'/Cranston Public Schools Construction Career Academy has a mismatch:
+Old url: http://charter.cpsed.net/home.asp
+New url: http://nelcpscca.wix.com/nelcpscca/
+Orchard Farms Elementary School has a mismatch:
+Old url: https://sites.google.com/site/orchardfarmselementaryschool/
+New url: http://sites.google.com/site/orchardfarmselementaryschool/
+DCYF Alternative Education Program has a mismatch:
+Old low_grade: 7
+New low_grade: 6
+B.F. Norton Elementary School has a mismatch:
+Old principal: Antonio Dimanna
+New principal: Dina Cerra
+B.F. Norton Elementary School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/bf-norton-school
+New url: http://www.cumberlandschools.org/content/bf-norton-school/
+Garvin Memorial School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/garvin-memorial-school
+New url: http://www.cumberlandschools.org/content/garvin-memorial-school/
+Community School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/community-school
+New url: http://www.cumberlandschools.org/content/community-school/
+John J. McLaughlin Cumberland Hill School has a mismatch:
+Old principal: Elizabeth Coogan
+New principal: Debra Malcolm
+John J. McLaughlin Cumberland Hill School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/john-j-mclaughlin-cumberland-hill-school
+New url: http://www.cumberlandschools.org/content/john-j-mclaughlin-cumberland-hill-school/
+Ashton School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/Ashton
+New url: http://www.cumberlandschools.org/content/Ashton/
+Cumberland High School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/cumberland-high-school
+New url: http://www.cumberlandschools.org/content/cumberland-high-school/
+Joseph L. McCourt Middle School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/joseph-l-mccourt-middle-school
+New url: http://www.cumberlandschools.org/content/joseph-l-mccourt-middle-school/
+North Cumberland Middle School has a mismatch:
+Old principal: Bethany Coughlin
+New principal: Bethany  Coughlin
+North Cumberland Middle School has a mismatch:
+Old url: http://www.cumberlandschools.org/content/north-cumberland-middle-school
+New url: http://www.cumberlandschools.org/content/north-cumberland-middle-school/
+School 08118 missing from new data.
+Cumberland Preschool Center has a mismatch:
+Old url: http://www.cumberlandschools.org/elementaryschools/pre-school
+New url: http://www.cumberlandschools.org/schools/PreSchool/index.htm/
+Blackstone Valley Prep Elementary School has a mismatch:
+Old principal: Kyle Quadros
+New principal: Jeremy Chiappetta; Kyle Quadros
+Blackstone Valley Prep Elementary School has a mismatch:
+Old principal_label: Principal
+New principal_label: Head of School; Principal
+Blackstone Valley Prep Elementary School has a mismatch:
+Old url: http://www.blackstonevalleyprep.org/elementary-school-1
+New url: http://www.blackstonevalleyprep.org/our-schools/elementary-school-1/
+Blackstone Valley Prep Middle School has a mismatch:
+Old city: Lincoln
+New city: Central Falls
+Blackstone Valley Prep Middle School has a mismatch:
+Old zip: 02865
+New zip: 02863
+Blackstone Valley Prep Middle School has a mismatch:
+Old street1: 3 Fairlawn Way
+New street1: 909 Lonsdale
+Blackstone Valley Prep Middle School has a mismatch:
+Old phone: 4014752680
+New phone: 4014758829
+Blackstone Valley Prep Middle School has a mismatch:
+Old url: http://www.blackstonevalleyprep.org/middle-school-1
+New url: http://www.blackstonevalleyprep.org/our-schools/middle-school/
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old principal: Colleen Colarusso
+New principal: Jeremy Chiappetta; Colleen Colarusso
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old street1: 7 Fatima Drive
+New street1: 52 Broad St.
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old nces_code: 
+New nces_code: 440001500480
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old phone: 4013353133
+New phone: 4013056860
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old principal_label: Principal
+New principal_label: Director; Principal
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old url: http://www.blackstonevalleyprep.org/elementary-school-2
+New url: http://www.blackstonevalleyprep.org/
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old high_grade: 3
+New high_grade: 4
+Blackstone Valley Prep High School has a mismatch:
+Old street1: 291 Broad Street
+New street1: 291 Broad St.
+Blackstone Valley Prep High School has a mismatch:
+Old nces_code: 
+New nces_code: 440001500488
+Blackstone Valley Prep High School has a mismatch:
+Old phone: 4018713131
+New phone: 4014050320
+Blackstone Valley Prep High School has a mismatch:
+Old url: http://www.blackstonevalleyprep.org/high-school
+New url: http://www.blackstonevalleyprep.org/
+Blackstone Valley Prep High School has a mismatch:
+Old high_grade: 9
+New high_grade: 10
+James H. Eldredge Elementary School has a mismatch:
+Old name_iwl: James H. Eldredge Elementary School
+New name_iwl: James H. Eldredge El. School
+James H. Eldredge Elementary School has a mismatch:
+Old principal: Domenic Giusti
+New principal: Domenic M. Giusti
+James H. Eldredge Elementary School has a mismatch:
+Old url: http://www.egsd.net/Eldredge.cfm?subpage=620387
+New url: http://www.egsd.net/Eldredge.cfm?subpage=620387/
+Archie R. Cole Middle School has a mismatch:
+Old url: http://www.egsd.net/MiddleSchool.cfm?subpage=620383
+New url: http://www.egsd.net/MiddleSchool.cfm?subpage=620383/
+Frenchtown School has a mismatch:
+Old url: http://www.egsd.net/Frenchtown.cfm?subpage=620391
+New url: http://www.egsd.net/Frenchtown.cfm?subpage=620391/
+East Greenwich High School has a mismatch:
+Old principal: Michael Podraza
+New principal: Michael  Podraza
+East Greenwich High School has a mismatch:
+Old url: http://www.egsd.net/HighSchool.cfm?subpage=620381
+New url: http://www.egsd.net/HighSchool.cfm?subpage=620381/
+Meadowbrook Farms School has a mismatch:
+Old url: http://www.egsd.net/Meadowbrook.cfm?subpage=620393
+New url: http://www.egsd.net/Meadowbrook.cfm?subpage=620393/
+George Hanaford School has a mismatch:
+Old url: http://www.egsd.net/Hanaford.cfm?subpage=620385
+New url: http://www.egsd.net/Hanaford.cfm?subpage=620385/
+Edward R. Martin Middle School has a mismatch:
+Old principal: Frank DeVall
+New principal: Fatima Avila
+Edward R. Martin Middle School has a mismatch:
+Old url: http://epschoolsri.com/martin
+New url: http://www.epschoolsri.com/martin/
+James R. D. Oldham School has a mismatch:
+Old url: 
+New url: http://www.epschoolsri.com/oldham/
+East Providence High School has a mismatch:
+Old principal: Janet Sheehan
+New principal: Shani Wallace
+East Providence High School has a mismatch:
+Old url: http://eastprovidencehighschool.com/web/
+New url: http://eastprovidencehighschool.com/
+Kent Heights School has a mismatch:
+Old principal: Fatima Avila
+New principal: Stephen Prew
+Kent Heights School has a mismatch:
+Old url: http://www.epschoolsri.com/kent
+New url: http://epschoolsri.com/kentheights/
+Alice M. Waddington School has a mismatch:
+Old url: http://www.epschoolsri.com/waddington
+New url: http://www.epschoolsri.com/waddington/
+Agnes B. Hennessey School has a mismatch:
+Old principal: Carrie McWilliams
+New principal: Elaine Allen
+Agnes B. Hennessey School has a mismatch:
+Old url: http://epschoolsri.com/hennessey
+New url: http://epschoolsri.com/hennessey/
+Emma G. Whiteknact School has a mismatch:
+Old url: http://www.epschoolsri.com/whiteknact
+New url: http://www.epschoolsri.com/whiteknact/
+School 10121 missing from new data.
+Riverside Middle School has a mismatch:
+Old url: http://epschoolsri.com/riverside
+New url: http://www.epschoolsri.com/riverside/
+Orlo Avenue School has a mismatch:
+Old principal: Yanaiza Gallant
+New principal: Yanaiza A. Gallant
+Myron J. Francis Elementary School has a mismatch:
+Old principal: Lloydanne Leddy
+New principal: Lloydanne E. Leddy
+Myron J. Francis Elementary School has a mismatch:
+Old principal_label: Principal
+New principal_label: Principal (PK-8)
+Myron J. Francis Elementary School has a mismatch:
+Old url: http://epschoolsri.com/francis
+New url: http://epschoolsri.com/francis/
+ has a mismatch:
+Old name_iwl: 
+New name_iwl: E. Providence Area Career and Technical Center
+ has a mismatch:
+Old district_name: 
+New district_name: East Providence
+ has a mismatch:
+Old principal: 
+New principal: Karen A. Mellen
+ has a mismatch:
+Old city: 
+New city: East Providence
+ has a mismatch:
+Old zip: 
+New zip: 02914
+ has a mismatch:
+Old street1: 
+New street1: 1998 Pawtucket Avenue
+ has a mismatch:
+Old low_grade: 
+New low_grade: 9
+ has a mismatch:
+Old nces_code: 440000200459
+New nces_code: 440033000459
+ has a mismatch:
+Old phone: 
+New phone: 4014357815
+ has a mismatch:
+Old principal_label: 
+New principal_label: Principal
+ has a mismatch:
+Old url: 
+New url: http://eastprovidencehighschool.com/web/
+ has a mismatch:
+Old high_grade: 
+New high_grade: 12
+Fogarty Memorial School has a mismatch:
+Old principal: Laurie Mokaba
+New principal: Laurie S Mokaba
+Fogarty Memorial School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+Fogarty Memorial School has a mismatch:
+Old url: http://fms.glocschools.org/
+New url: http://fms.glocschools.org/home/
+West Glocester Elementary has a mismatch:
+Old url: http://wges.glocschools.org/
+New url: http://www.ri.net/schools/Glocester/WGES/home.html/
+Lawn Avenue School has a mismatch:
+Old name_iwl: Lawn Avenue School
+New name_iwl: Jamestown School-Lawn
+Lawn Avenue School has a mismatch:
+Old url: http://www.jamestownri.com/school/lawnave.htm
+New url: http://www.jamestownri.com/school/lawnave.htm/
+Melrose Avenue School has a mismatch:
+Old name_iwl: Melrose Avenue School
+New name_iwl: Jamestown School-Melrose
+Melrose Avenue School has a mismatch:
+Old url: http://www.jamestownri.com/school/melroseave.htm
+New url: http://www.jamestownri.com/school/melroseave.htm/
+School 16104 missing from new data.
+Sarah Dyer Barnes School has a mismatch:
+Old low_grade: 1
+New low_grade: K
+Graniteville School has a mismatch:
+Old principal: Maria Petronio-McAfee
+New principal: Julie-anne Zarella
+Graniteville School has a mismatch:
+Old url: http://graniteville.johnstonschools.org/
+New url: http://www.johnstonschools.org/
+Early Childhood Center has a mismatch:
+Old principal: Maria Petronio-McAfee
+New principal: Julie-anne Zarella
+Early Childhood Center has a mismatch:
+Old url: http://graniteville.johnstonschools.org/ECC/index.html
+New url: http://www.johnstonschools.org/
+School 17102 missing from new data.
+Saylesville Elementary School has a mismatch:
+Old principal: Reza Sarkarati
+New principal: Reza  Sarkarati
+School 17114 missing from new data.
+Lincoln Middle School has a mismatch:
+Old principal: Mark Thompson
+New principal: Heidi Godowski
+William M. Davies Career & Technical Center has a mismatch:
+Old name_iwl: William M. Davies Career & Technical Center
+New name_iwl: Wm. M. Davies Jr. Career-Technical  High School
+William M. Davies Career & Technical Center has a mismatch:
+Old district_name: Davies Career & Tech
+New district_name: Davies Career and Tech
+Wilbur & McMahon Schools has a mismatch:
+Old name_iwl: Wilbur & McMahon Schools
+New name_iwl: Wilbur and McMahon Schools
+Wilbur & McMahon Schools has a mismatch:
+Old url: http://www.lcsd.k12.ri.us/pages/Wilbur_McMahon_School
+New url: http://www.lcsd.k12.ri.us/
+Aquidneck School has a mismatch:
+Old principal: Vincent Giuliano
+New principal: Michelle Fonseca
+Aquidneck School has a mismatch:
+Old url: http://www.ri.net/middletown/aquidneck/index.html
+New url: http://www.ri.net/middletown/aquidneck/index.html/
+Forest Avenue School has a mismatch:
+Old url: http://www.ri.net/middletown/forest/index.html
+New url: http://www.ri.net/middletown/forest/index.html/
+Middletown High School has a mismatch:
+Old url: http://www.mpsri.net/page.cfm?p=887
+New url: http://www.mpsri.net/mhs/
+School 19112 missing from new data.
+Joseph H. Gaudet School has a mismatch:
+Old principal: Michelle Fonseca
+New principal: Beth Hayes
+Joseph H. Gaudet School has a mismatch:
+Old url: http://www.ri.net/middletown/gaudet/index.html
+New url: http://www.mpsri.net/
+Joseph H. Gaudet Learning Academy has a mismatch:
+Old principal: Michelle Fonseca
+New principal: Beth Hayes
+Joseph H. Gaudet Learning Academy has a mismatch:
+Old url: http://www.ri.net/middletown/gaudet/index.html
+New url: http://www.ri.net/middletown/gaudet/index.html/
+Narragansett Elementary School has a mismatch:
+Old url: http://www.narragansett.k12.ri.us/NES/Index.html
+New url: http://www.narragansett.k12.ri.us/NES/Index.html/
+Narragansett High School has a mismatch:
+Old principal: Daniel Warner
+New principal: Daniel F. Warner
+School 21102 missing from new data.
+School 21103 missing from new data.
+School 21105 missing from new data.
+Frank E. Thompson Middle School has a mismatch:
+Old url: http://www.npsri.net/tms
+New url: http://www.npsri.net/tms/
+Claiborne Pell Elementary School has a mismatch:
+Old principal: Kimberly Behan
+New principal: Kimberly Behan Ed. D.
+Claiborne Pell Elementary School has a mismatch:
+Old nces_code: 
+New nces_code: 440072000485
+Claiborne Pell Elementary School has a mismatch:
+Old url: http://www.npsri.net/pell
+New url: http://www.npsri.net/pell/
+School 21110 missing from new data.
+Rogers High School has a mismatch:
+Old principal: Jeffrey Gross
+New principal: Jeffrey Goss
+Rogers High School has a mismatch:
+Old url: http://www.npsri.net/rhs
+New url: http://www.npsri.net/rhs/
+School 21112 missing from new data.
+School 21114 missing from new data.
+Block Island School has a mismatch:
+Old principal: John Canole and Kristine Monje
+New principal: John Canole; Kristine Monje
+Block Island School has a mismatch:
+Old street1: 15 High Street
+New street1: High Street
+Block Island School has a mismatch:
+Old principal_label: Co-Principals
+New principal_label: Principals
+School 23104 missing from new data.
+Wickford Middle School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Wickford_Middle_School
+New url: http://www2.nksd.net/education/school/school.php?sectionid=16/
+School 23107 missing from new data.
+North Kingstown Senior High School has a mismatch:
+Old url: http://www.edlinesites.net/pages/North_Kingstown_Sr__High
+New url: http://www.edlinesites.net/pages/North_Kingstown_Sr__High/
+Fishing Cove Elementary School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Fishing_Cove_Elementary_School
+New url: http://www2.nksd.net/education/school/school.php?sectionid=8/
+Forest Park Elementary School has a mismatch:
+Old url: http://www.edlinesites.net/pages/817973137223816930
+New url: http://www2.nksd.net/education/school/school.php?sectionid=9/
+Hamilton Elementary School has a mismatch:
+Old principal: Morag Cronkite
+New principal: Kaitlin Lambert Donahue
+Hamilton Elementary School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Hamilton_School
+New url: http://www2.nksd.net/education/school/school.php?sectionid=10/
+Davisville Middle School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Davisville_Middle_School
+New url: http://www2.nksd.net/education/school/school.php?sectionid=7/
+Suzanne M. Henseler Quidnessett Elementary School has a mismatch:
+Old principal: Louise Denette
+New principal: Louise M. Denette
+Suzanne M. Henseler Quidnessett Elementary School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Quidnesset_School
+New url: http://www2.nksd.net/education/school/school.php?sectionid=13/
+Stony Lane Elementary School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Stony_Lane_Elementary_School
+New url: http://www2.nksd.net/education/school/school.php?sectionid=14/
+The Compass School has a mismatch:
+Old district_name: Compass Charter School
+New district_name: The Compass School
+The Compass School has a mismatch:
+Old url: http://www.compassschool.org/home/
+New url: http://www.compassschool.org/
+North Providence High School has a mismatch:
+Old url: http://npsd.k12.ri.us/nphs/
+New url: http://www.northprovidencehighschool.net/
+Stephen Olney School has a mismatch:
+Old principal: Janine Napolitano
+New principal: 
+Stephen Olney School has a mismatch:
+Old principal_label: Principal
+New principal_label: 
+Birchwood Middle School has a mismatch:
+Old principal: Steven Clarke
+New principal: Melissa Goho
+Dr. Harry L. Halliwell Memorial School has a mismatch:
+Old principal: Diane Jolin
+New principal: Jennifer Daigneault
+North Smithfield High School has a mismatch:
+Old principal: Robert Mezzanotte
+New principal: Timothy McGee
+North Smithfield Middle School has a mismatch:
+Old principal: John Lahar
+New principal: John C. Lahar
+North Smithfield Elementary School has a mismatch:
+Old principal: Carolyn Frayne
+New principal: Diane Jolin
+William E. Tolman Senior High School has a mismatch:
+Old name_iwl: William E. Tolman Senior High School
+New name_iwl: William E Tolman Senior High School
+William E. Tolman Senior High School has a mismatch:
+Old principal: Christopher Savastano
+New principal: Christopher  Savastano
+Samuel Slater Junior High School has a mismatch:
+Old principal: Jacqueline Ash
+New principal: Jacqueline  Ash
+JM Walsh School for the Performing & Visual Arts has a mismatch:
+Old name_iwl: JM Walsh School for the Performing & Visual Arts
+New name_iwl: Jacqueline M. Walsh School for the Performing and Visual Arts
+Shea Senior High School has a mismatch:
+Old name_iwl: Shea Senior High School
+New name_iwl: Charles E. Shea High School
+Shea Senior High School has a mismatch:
+Old principal: Don Miller
+New principal: Charles McGair
+Henry J. Winters School has a mismatch:
+Old high_grade: 6
+New high_grade: 5
+Elizabeth Baldwin School has a mismatch:
+Old principal: Joan DiOrio
+New principal: Joan DiOrio; Kim McCaughey; Kim McCaughey
+Elizabeth Baldwin School has a mismatch:
+Old principal_label: Principal
+New principal_label: Principals
+M. Virginia Cunningham School has a mismatch:
+Old principal: Paul Zona Jr.
+New principal: Paul A. Zona Jr.
+Francis J. Varieur School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+Blackstone Academy Charter School has a mismatch:
+Old principal: Kyleen Carpenter
+New principal: Kyleen E. Carpenter; Carolyn Sheehan; Carolyn Sheehan; Carolyn Sheehan
+Blackstone Academy Charter School has a mismatch:
+Old principal_label: Principal
+New principal_label: Principal; Ex. Director; Ex. Director; Ex. Director
+School 27103 missing from new data.
+Howard Hathaway School has a mismatch:
+Old url: http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=117&linkid=nav-menu-c
+New url: http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=117&linkid;=nav-menu-c/
+Portsmouth High School has a mismatch:
+Old url: http://www.portsmouthschoolsri.net/education/school/school.php?sectionid=349&
+New url: http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=2769&linkid;=nav-menu-/
+Melville Elementary School has a mismatch:
+Old url: http://www.portsmouthschoolsri.net/education/school/school.php?sectionid=4&
+New url: http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=89&linkid;=nav-menu-co/
+Portsmouth Middle School has a mismatch:
+Old url: http://www.portsmouthschoolsri.net/education/school/school.php?sectionid=3&
+New url: http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=75&linkid;=nav-menu-co/
+School 27115 missing from new data.
+School 28102 missing from new data.
+Leviton Dual Language School has a mismatch:
+Old url: http://providenceschools.org/elementary-schools/leviton
+New url: http://providenceschools.org/elementary-schools/leviton/
+School 28104 missing from new data.
+Frank Spaziano Annex has a mismatch:
+Old name_iwl: Frank Spaziano Annex
+New name_iwl: Frank D. Spaziano Elementary School Annex
+Frank Spaziano Annex has a mismatch:
+Old principal: Eusebio Lopes
+New principal: William Niemeyer
+Frank Spaziano Annex has a mismatch:
+Old url: http://www.edline.net/pages/Frank_Spaziano_ES
+New url: http://providenceschools.org/elementary-schools/frank-spaziano--annex/
+School 28111 missing from new data.
+Dr. Jorge Alvarez High School has a mismatch:
+Old url: http://www.edline.net/pages/Jorge_Alvarez_High_School
+New url: http://www.providenceschools.org/high-schools/alvarez/
+Asa Messer Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Asa_Messer_Elementary_School
+New url: http://providenceschools.org/elementary-schools/messer/
+Alan Shawn Feinstein Elementary at Broad Street has a mismatch:
+Old url: http://www.edline.net/pages/Alan_Shawn_FeinsteinES
+New url: http://providenceschools.org/elementary-schools/feinstein-at-broad/
+School 28119 missing from new data.
+Alfred Lima, Sr. Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Alfred_Lima_Elementary
+New url: http://providenceschools.org/elementary-schools/lima/
+Charles Fortes Elementary School has a mismatch:
+Old name_iwl: Charles Fortes Elementary School
+New name_iwl: Charles N. Fortes Elementary School
+Charles Fortes Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Charles_Fortes_ES
+New url: http://www.providenceschools.org/elementary-schools/fortes/
+School 28123 missing from new data.
+Webster Avenue School has a mismatch:
+Old url: http://www.edline.net/pages/Webster_Avenue_School
+New url: http://providenceschools.org/elementary-schools/webster/
+Veazie Street School has a mismatch:
+Old url: http://www.edline.net/pages/Veazie_Street_School
+New url: http://providenceschools.org/elementary-schools/veazie/
+School 28131 missing from new data.
+Frank Spaziano Avenue Elementary School & Annex has a mismatch:
+Old name_iwl: Frank Spaziano Avenue Elementary School & Annex
+New name_iwl: Frank D. Spaziano Elementary School
+Frank Spaziano Avenue Elementary School & Annex has a mismatch:
+Old principal: Eusebio Lopes
+New principal: William Niemeyer
+Frank Spaziano Avenue Elementary School & Annex has a mismatch:
+Old low_grade: K
+New low_grade: 2
+Frank Spaziano Avenue Elementary School & Annex has a mismatch:
+Old principal_label: School Test Coordina
+New principal_label: Principal
+Frank Spaziano Avenue Elementary School & Annex has a mismatch:
+Old url: http://www.edline.net/pages/Frank_Spaziano_ES
+New url: http://providenceschools.org/elementary-schools/frank-spaziano--annex/
+George J. West Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/George_West_ES
+New url: http://providenceschools.org/elementary-schools/west/
+Esek Hopkins Middle School has a mismatch:
+Old url: http://www.edline.net/pages/Esek_Hopkins_Middle_School
+New url: http://providenceschools.org/middle-schools/hopkins/
+Robert F. Kennedy Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Robert_Kennedy_ES
+New url: http://providenceschools.org/elementary-schools/kennedy/
+Central High School has a mismatch:
+Old principal_label: Acting Principal
+New principal_label: Principal
+Central High School has a mismatch:
+Old url: http://www.centralknights.org/
+New url: http://providenceschools.org/high-schools/central/
+Carl G. Lauro Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Carl_Lauro_Elementary
+New url: http://providenceschools.org/elementary-schools/lauro/
+Reservoir Avenue School has a mismatch:
+Old url: http://www.edline.net/pages/Reservoir_Avenue_School
+New url: http://providenceschools.org/elementary-schools/reservoir/
+Nathan Bishop Middle School has a mismatch:
+Old url: http://www.edline.net/pages/NathanBishopMS
+New url: http://providenceschools.org/middle-schools/bishop/
+Gilbert Stuart Middle School has a mismatch:
+Old principal: Edward Halpin
+New principal: Scott Sutherland
+Gilbert Stuart Middle School has a mismatch:
+Old url: http://www.edline.net/pages/Gilbert_Stuart_Middle_School
+New url: http://providenceschools.org/middle-schools/stuart/
+Nathanael Greene Middle School has a mismatch:
+Old url: http://www.edline.net/pages/NathanaelGreeneMS
+New url: http://providenceschools.org/middle-schools/greene/
+School 28146 missing from new data.
+School 28148 missing from new data.
+Mount Pleasant High School has a mismatch:
+Old url: http://www.mtpleasanths.org/
+New url: http://providenceschools.org/high-schools/mount-pleasant/
+Vartan Gregorian Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Vartan_Gregorian_ES
+New url: http://providenceschools.org/elementary-schools/gregorian/
+William D'Abate Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/DAbateES
+New url: http://providenceschools.org/elementary-schools/dabate/
+School 28155 missing from new data.
+Robert L. Bailey, IV Elementary School has a mismatch:
+Old name_iwl: Robert L. Bailey, IV Elementary School
+New name_iwl: Robert L Bailey IV, Elementary School
+Robert L. Bailey, IV Elementary School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+Robert L. Bailey, IV Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/BaileyES
+New url: http://providenceschools.org/elementary-schools/bailey/
+Lillian Feinstein Elementary, Sackett Street has a mismatch:
+Old url: http://www.edline.net/pages/Lillian_Feinstein_ES
+New url: http://providenceschools.org/elementary-schools/feinstein-at-sackett/
+School 28158 missing from new data.
+School 28159 missing from new data.
+Harry Kizirian Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/Harry_Kizirian_Elementary
+New url: http://providenceschools.org/elementary-schools/kizirian/
+The Sgt. Cornel Young, Jr. & Charlotte Woods Elementary School @ The B. Joe Clanton Complex has a mismatch:
+Old name_iwl: The Sgt. Cornel Young, Jr. & Charlotte Woods Elementary School @ The B. Joe Clanton Complex
+New name_iwl: The Sgt. Cornel Young, Jr & Charlotte Woods Elementary School @ The B. Joe Clanton Complex
+The Sgt. Cornel Young, Jr. & Charlotte Woods Elementary School @ The B. Joe Clanton Complex has a mismatch:
+Old principal: Christine Riley
+New principal: Edward Lee
+The Sgt. Cornel Young, Jr. & Charlotte Woods Elementary School @ The B. Joe Clanton Complex has a mismatch:
+Old low_grade: K
+New low_grade: PK
+The Sgt. Cornel Young, Jr. & Charlotte Woods Elementary School @ The B. Joe Clanton Complex has a mismatch:
+Old url: http://www.edline.net/pages/YoungAndWoodsES
+New url: http://providenceschools.org/elementary-schools/young--woods/
+Dr. Martin Luther King, Jr. Elementary School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+Dr. Martin Luther King, Jr. Elementary School has a mismatch:
+Old url: http://www1.providenceschools.org/elementary-schools/king
+New url: http://providenceschools.org/elementary-schools/king/
+Classical High School has a mismatch:
+Old url: http://classicalhighschool.org/
+New url: http://providenceschools.org/high-schools/classical/
+Pleasant View School has a mismatch:
+Old url: http://www.edline.net/pages/PleasantViewElementarySchool
+New url: http://providenceschools.org/elementary-schools/pleasant-view/
+School 28166 missing from new data.
+School 28168 missing from new data.
+Times2 Academy has a mismatch:
+Old principal: Jerry Kowalczyk and Katherine Maloney
+New principal: Jerry Kowalczyk; Katherine Maloney
+Times2 Academy has a mismatch:
+Old principal_label: Head of School; Dean
+New principal_label: Elementary Head of School; Dean of Academics (7-12)
+School 28172 missing from new data.
+Academy for Career Exploration has a mismatch:
+Old name_iwl: Academy for Career Exploration
+New name_iwl: Academy for Career Exploration (ACES)
+Academy for Career Exploration has a mismatch:
+Old principal: Mario Cirillo
+New principal: Mario F Cirillo
+School 28179 missing from new data.
+School 28180 missing from new data.
+Anthony Carnevale Elementary School has a mismatch:
+Old url: http://www.edline.net/pages/CarnevaleES
+New url: http://providenceschools.org/elementary-schools/carnevale/
+School 28183 missing from new data.
+School 28186 missing from new data.
+E-Cubed Academy has a mismatch:
+Old url: http://providenceschools.org/high-schools/e-cubed
+New url: http://providenceschools.org/high-schools/e-cubed/
+School 28188 missing from new data.
+William B. Cooley Senior High School & Providence Academy of International Studies @ The Juanita San has a mismatch:
+Old name_iwl: William B. Cooley Senior High School & Providence Academy of International Studies @ The Juanita San
+New name_iwl: William B. Cooley, Sr. High School and the Providence Academy of International Studies High School
+School 28191 missing from new data.
+School 28192 missing from new data.
+Providence Career & Technical Academy has a mismatch:
+Old name_iwl: Providence Career & Technical Academy
+New name_iwl: Providence Career and Technical Academy
+Providence Career & Technical Academy has a mismatch:
+Old principal: Ramon Torres
+New principal: Luke Driver; Wobberson Torchon
+Providence Career & Technical Academy has a mismatch:
+Old principal_label: Principal
+New principal_label: Director; Principal
+Providence Career & Technical Academy has a mismatch:
+Old url: http://www.edline.net/pages/PCTA
+New url: http://www.edline.net/pages/PCTA/
+West Broadway Middle School has a mismatch:
+Old url: http://www.edline.net/pages/WestBroadway
+New url: 
+West Broadway Middle School has a mismatch:
+Old high_grade: 6
+New high_grade: 8
+Highlander Charter School has a mismatch:
+Old url: http://highlandercharter.org/
+New url: http://www.highlandercharter.org/
+Highlander Charter School has a mismatch:
+Old high_grade: 10
+New high_grade: 12
+Paul Cuffee Charter School has a mismatch:
+Old principal: Christopher Haskins
+New principal: Eric Charlesworth; Becky Coustan
+Paul Cuffee Charter School has a mismatch:
+Old principal_label: Head of School
+New principal_label: Principal; Principal (9-12)
+Paul Cuffee Charter School has a mismatch:
+Old url: http://www.paulcuffeeschool.org
+New url: http://www.paulcuffeeschool.org/
+School 28603 missing from new data.
+School 28604 missing from new data.
+School 28605 missing from new data.
+Trinity Academy for the Performing Arts has a mismatch:
+Old high_grade: 11
+New high_grade: 12
+RI Nurses Institute Middle College Charter High School has a mismatch:
+Old principal: Brian Butler
+New principal: Colleen Hitchings
+RI Nurses Institute Middle College Charter High School has a mismatch:
+Old street1: 150 Washington Street
+New street1: 150 washington Street
+RI Nurses Institute Middle College Charter High School has a mismatch:
+Old nces_code: 
+New nces_code: 440001900479
+RI Nurses Institute Middle College Charter High School has a mismatch:
+Old url: http://www.rinimc.org/
+New url: http://www.tomorrowsnurses.org/
+Village Green Virtual Charter School has a mismatch:
+Old principal: Robert Pilkington
+New principal: Robert Pilkington Ed.D.
+Village Green Virtual Charter School has a mismatch:
+Old nces_code: 
+New nces_code: 440002500487
+Village Green Virtual Charter School has a mismatch:
+Old high_grade: 11
+New high_grade: 12
+Achievement First Rhode Island has a mismatch:
+Old name_iwl: Achievement First Rhode Island
+New name_iwl: Achievement First Providence Mayoral Academy
+Achievement First Rhode Island has a mismatch:
+Old principal: Morgan Carter
+New principal: Morgan Carter; Benjamin Smith
+Achievement First Rhode Island has a mismatch:
+Old nces_code: 
+New nces_code: 440002100486
+Achievement First Rhode Island has a mismatch:
+Old principal_label: Principal
+New principal_label: Principal; Director
+Achievement First Rhode Island has a mismatch:
+Old url: http://www.achievementfirst.org/schools/rhode-island-schools/achievement-first-providence-mayoral-academy-elementary/about/
+New url: http://www.achievementfirst.org/schools/rhode-island-schools/
+Achievement First Rhode Island has a mismatch:
+Old high_grade: 2
+New high_grade: 3
+Sheila Skip Nowell Leadership Academy (II) has a mismatch:
+Old name_iwl: Sheila Skip Nowell Leadership Academy (II)
+New name_iwl: Sheila Skip Nowell Leadership Academy (Capital Campus)
+Sheila Skip Nowell Leadership Academy (II) has a mismatch:
+Old district_name: Nowell Leadership Academy
+New district_name: Sheila Skip Nowell Leadership Academy
+Sheila Skip Nowell Leadership Academy (II) has a mismatch:
+Old principal: Jodi Timpani
+New principal: Jodi LaFauci
+Sheila Skip Nowell Leadership Academy (II) has a mismatch:
+Old nces_code: 
+New nces_code: 440002400483
+Sheila Skip Nowell Leadership Academy (II) has a mismatch:
+Old principal_label: Principal
+New principal_label: Director
+Sheila Skip Nowell Leadership Academy (II) has a mismatch:
+Old url: http://www.nowellacademy.org/
+New url: 
+SouthSide Elementary Charter School has a mismatch:
+Old district_name: 
+New district_name: SouthSide Charter School
+SouthSide Elementary Charter School has a mismatch:
+Old nces_code: 
+New nces_code: 440002800490
+SouthSide Elementary Charter School has a mismatch:
+Old principal_label: Director
+New principal_label: Director of Administration
+SouthSide Elementary Charter School has a mismatch:
+Old high_grade: K
+New high_grade: 1
+The Hope Academy has a mismatch:
+Old district_name: 
+New district_name: The Hope Academy
+The Hope Academy has a mismatch:
+Old principal: Donna Dimery
+New principal: Raphael  Diaz; Margaret  Knowlton
+The Hope Academy has a mismatch:
+Old nces_code: 
+New nces_code: 440002700489
+The Hope Academy has a mismatch:
+Old phone: 4012805698
+New phone: 4015339192
+The Hope Academy has a mismatch:
+Old principal_label: Head of School
+New principal_label: Principal; Superintendent
+The Hope Academy has a mismatch:
+Old high_grade: K
+New high_grade: 1
+Rhode Island School for the Deaf has a mismatch:
+Old street1: 1 Corliss Park
+New street1: One Corliss Park
+Rhode Island School for the Deaf has a mismatch:
+Old principal_label: Director
+New principal_label: Director/Superintendent
+Metropolitan Regional Career & Technical Center has a mismatch:
+Old name_iwl: Metropolitan Regional Career & Technical Center
+New name_iwl: Metropolitan Regional Career and Technical Center
+Metropolitan Regional Career & Technical Center has a mismatch:
+Old district_name: MET Career & Tech
+New district_name: MET Career and Tech
+Metropolitan Regional Career & Technical Center has a mismatch:
+Old principal: Nancy Diaz Bain
+New principal: Arthur Baraf; Steven Bartholomew; Alin Bennett; Nancy Diaz Bain; Brad Martin; Janet Villanueva-Williams; Chantell Wyllie
+Metropolitan Regional Career & Technical Center has a mismatch:
+Old principal_label: Co-Director
+New principal_label: Principal; Principal; Principal; Co-Director; Principal; Principal; Principal
+Metropolitan Regional Career & Technical Center has a mismatch:
+Old url: http://metcenter.org/
+New url: http://www.metcenter.org/
+Hope Elementary School has a mismatch:
+Old principal: Data Morel
+New principal: Dana Morel
+Clayville Elementary School has a mismatch:
+Old url: http://www.scituateri3.net/clayville/
+New url: http://www.scituateri.net/clayville/
+Scituate Middle School has a mismatch:
+Old principal: Michael Zajac
+New principal: Michael T. Zajac
+Scituate Middle School has a mismatch:
+Old url: http://scituateri3.net/sms03/
+New url: http://www.scituateri.net/SMS/
+North Scituate Elementary School has a mismatch:
+Old url: http://www.scituateri3.net/nses/
+New url: http://www.scituateri.net/nses/
+William Winsor School has a mismatch:
+Old principal: Laurie Ratigan
+New principal: Brian Ackerman
+Anna M. McCabe School has a mismatch:
+Old url: https://sites.google.com/a/smithfield-ps.org/anna-mccabe-elementary-school/
+New url: http://ames.smithfield-ps.org/
+Smithfield Senior High School has a mismatch:
+Old principal: Daniel Kelley
+New principal: Daniel P. Kelley
+School 32104 missing from new data.
+South Kingstown Integrated Pre-school has a mismatch:
+Old district_name: Wakefield
+New district_name: South Kingstown
+South Kingstown Integrated Pre-school has a mismatch:
+Old principal: Coleen Smith
+New principal: 
+South Kingstown Integrated Pre-school has a mismatch:
+Old nces_code: 
+New nces_code: 440102000481
+South Kingstown Integrated Pre-school has a mismatch:
+Old principal_label: Principal
+New principal_label: 
+Peace Dale Elementary School has a mismatch:
+Old principal: Susan Martin
+New principal: Lisa Wilson
+Peace Dale Elementary School has a mismatch:
+Old street1: 109 Kersey Road
+New street1: 109  Kersey Road
+South Kingstown High School has a mismatch:
+Old principal: Robert McCarthy
+New principal: Robert Mezzanotte
+School 32109 missing from new data.
+School 32115 missing from new data.
+Kingston Hill Academy has a mismatch:
+Old principal_label: Principal
+New principal_label: Superintendent
+Kingston Hill Academy has a mismatch:
+Old url: http://kingstonhill.org/drupal/
+New url: http://www.kingstonhill.org/
+Walter E. Ranger School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+Fort Barton School has a mismatch:
+Old principal: Suzette Wordell
+New principal: Suzette L. Wordell
+Pocasset School has a mismatch:
+Old principal: Fran Blaess
+New principal: Deanne Reilly
+Norwood School has a mismatch:
+Old url: http://www.warwickschools.org/Norwood/default.htm
+New url: http://www.warwickschools.org/Norwood/default.htm/
+Greenwood School has a mismatch:
+Old principal: Dennis Winn
+New principal: Kenneth Rassler
+Greenwood School has a mismatch:
+Old url: http://www.warwickschools.org/greenwood/default.htm
+New url: http://www.warwickschools.org/greenwood/default.htm/
+School 35117 missing from new data.
+Aldrich Junior High School has a mismatch:
+Old url: http://www.warwickschools.org/aldrich/default.htm
+New url: http://www.warwickschools.org/aldrich/default.htm/
+Wyman School has a mismatch:
+Old url: http://www.warwickschools.org/wyman/default.htm
+New url: http://www.warwickschools.org/wyman/default.htm/
+Gorton Junior High School has a mismatch:
+Old principal: Jeffrey Taylor
+New principal: Jeffrey A Taylor
+Gorton Junior High School has a mismatch:
+Old url: http://www.warwickschools.org/gorton/default.htm
+New url: http://www.warwickschools.org/gorton/default.htm/
+E. G. Robertson School has a mismatch:
+Old principal: Frank Ricci
+New principal: Brian Dillon
+E. G. Robertson School has a mismatch:
+Old url: http://www.warwickschools.org/robertson/default.htm
+New url: http://www.warwickschools.org/robertson/default.htm/
+School 35122 missing from new data.
+Lippitt School has a mismatch:
+Old url: http://www.warwickschools.org/Lippitt/default.htm
+New url: http://www.warwickschools.org/Lippitt/default.htm/
+Randall Holden School has a mismatch:
+Old principal: Kenneth Rassler
+New principal: Frank Ricci
+Randall Holden School has a mismatch:
+Old url: http://www.warwickschools.org/holden/default.htm
+New url: http://www.warwickschools.org/holden/default.htm/
+Francis School has a mismatch:
+Old url: http://www.warwickschools.org/francis/default.htm
+New url: http://www.warwickschools.org/francis/default.htm/
+School 35126 missing from new data.
+Sherman School has a mismatch:
+Old url: http://www.warwickschools.org/sherman/default.htm
+New url: http://www.warwickschools.org/sherman/default.htm/
+Holliman School has a mismatch:
+Old url: http://www.warwickschools.org/holliman/default.htm
+New url: http://www.warwickschools.org/holliman/default.htm/
+John Wickes School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+John Wickes School has a mismatch:
+Old url: http://www.warwickschools.org/wickes/default.htm
+New url: http://www.warwickschools.org/wickes/default.htm/
+Warwick Veterans Memorial High School has a mismatch:
+Old name_iwl: Warwick Veterans Memorial High School
+New name_iwl: Warwick Veterans Memorial HS
+Warwick Veterans Memorial High School has a mismatch:
+Old principal: Gerry Habershaw
+New principal: Gerry Joseph Habershaw M.Ed.
+Warwick Veterans Memorial High School has a mismatch:
+Old url: http://www.warwickschools.org/vets/default.htm
+New url: http://www.warwickschools.org/vets/default.htm/
+Cedar Hill School has a mismatch:
+Old url: http://www.warwickschools.org/cedarhill/default.htm
+New url: http://www.warwickschools.org/cedarhill/default.htm/
+Park School has a mismatch:
+Old url: http://www.warwickschools.org/park/default.htm
+New url: http://www.warwickschools.org/park/default.htm/
+Warwick Neck School has a mismatch:
+Old url: http://www.warwickschools.org/warneck/default.htm
+New url: http://www.warwickschools.org/warneck/default.htm/
+Pilgrim High School has a mismatch:
+Old principal: Marie Cote
+New principal: Pamela Bernardi
+Pilgrim High School has a mismatch:
+Old url: http://www.warwickschools.org/pilgrim/default.htm
+New url: http://www.warwickschools.org/pilgrim/default.htm/
+Harold F. Scott School has a mismatch:
+Old url: http://www.warwickschools.org/scott/default.htm
+New url: http://www.warwickschools.org/scott/default.htm/
+Cottrell F. Hoxsie School has a mismatch:
+Old url: http://www.warwickschools.org/Hoxsie/default.htm
+New url: http://www.warwickschools.org/Hoxsie/default.htm/
+Drum Rock Early Childhood Center has a mismatch:
+Old url: http://www.warwickschools.org/drumrock/
+New url: http://www.warwickschools.org/
+Toll Gate High School has a mismatch:
+Old url: http://webmail.warwickschools.org/schools/tollgate/index
+New url: http://webmail.warwickschools.org/schools/tollgate/index/
+Winman Junior High School has a mismatch:
+Old url: http://www.warwickschools.org/winman/default.htm
+New url: http://www.warwickschools.org/winman/default.htm/
+Bradford Elementary School has a mismatch:
+Old principal: Debra Pendola
+New principal: Debra S. Pendola
+Bradford Elementary School has a mismatch:
+Old url: http://bes.westerly.k12.ri.us/
+New url: http://bes.westerly.k12.ri.us/?sessionid=83eabbdcfc8d57b5fe9e245dfe448730&t;/
+Westerly Middle School has a mismatch:
+Old url: http://wms.westerly.k12.ri.us/
+New url: http://wms.westerly.k12.ri.us/?sessionid=7890ab2a3607f0b59eae80a1f292128f&t;/
+Westerly High School has a mismatch:
+Old principal: Steven Ruscito
+New principal: Todd Grimes
+Westerly High School has a mismatch:
+Old url: http://whs.westerly.k12.ri.us/
+New url: http://whs.westerly.k12.ri.us/?sessionid=d3ab1f4e9f7e0b996c6d9d30e5b41979&t;/
+School 36105 missing from new data.
+State Street School has a mismatch:
+Old url: http://sss.westerly.k12.ri.us/
+New url: http://sss.westerly.k12.ri.us/?sessionid=69bd2ddf4e5cdb67173c6b3bfa2dd1a3&t;/
+Dunn's Corners School has a mismatch:
+Old url: http://dcs.westerly.k12.ri.us/
+New url: http://dcs.westerly.k12.ri.us/?sessionid=d04e20bd0e448b1a44a9158b16113477&t;/
+Springbrook Elementary School has a mismatch:
+Old principal: Victor Ventura
+New principal: Susan Martin
+Springbrook Elementary School has a mismatch:
+Old url: http://ses.westerly.k12.ri.us/
+New url: http://ses.westerly.k12.ri.us/?sessionid=8df5a2567a6a7041271d98f522c2f4f2&t;/
+John F. Horgan Elementary School has a mismatch:
+Old url: http://www.ww-ps.com/education/school/school.php?sectionid=3&
+New url: http://www.westwarwickpublicschools.com/education/school/school.php?sectiondetailid=22&linkid;=nav-me/
+West Warwick Senior High School has a mismatch:
+Old url: http://www.ww-ps.com/education/school/school.php?sectiondetailid=70&linkid=nav-menu-container-4-54450
+New url: http://www.westwarwickpublicschools.com/education/school/school.php?sectiondetailid=70&linkid;=nav-me/
+John F. Deering Middle School has a mismatch:
+Old url: http://www.ww-ps.com/education/school/school.php?sectiondetailid=34&linkid=nav-menu-container-4-54450
+New url: http://www.westwarwickpublicschools.com/education/school/school.php?sectiondetailid=34&linkid;=nav-me/
+Greenbush Elementary School has a mismatch:
+Old principal: Brian Ackerman
+New principal: Derrick Ciesla
+Greenbush Elementary School has a mismatch:
+Old url: http://www.ww-ps.com/education/school/school.php?sectiondetailid=10&
+New url: http://www.westwarwickpublicschools.com/education/school/school.php?sectiondetailid=10&linkid;=nav-me/
+Wakefield Hills Elementary School has a mismatch:
+Old principal: Keith Remillard
+New principal: Leah Bessette
+Wakefield Hills Elementary School has a mismatch:
+Old url: https://sites.google.com/a/westwarwickpublicschools.com/whes/home
+New url: http://www.westwarwickpublicschools.com/education/school/school.php?sectiondetailid=58&linkid;=nav-me/
+School 39109 missing from new data.
+Governor Aram J. Pothier School has a mismatch:
+Old principal_label: Principal
+New principal_label: Superintendent
+Governor Aram J. Pothier School has a mismatch:
+Old url: http://pothierelementaryschool.weebly.com/
+New url: http://woonsocketschools.com/
+Governor Aram J. Pothier School has a mismatch:
+Old high_grade: 2
+New high_grade: 3
+School 39112 missing from new data.
+Woonsocket Middle School has a mismatch:
+Old principal: Steven Boss
+New principal: Mark Thompson
+Woonsocket Middle School has a mismatch:
+Old street1: 60 Florence Dr
+New street1: Woonsocket Middle School at Hamlet
+Woonsocket Middle School has a mismatch:
+Old street2: 
+New street2: 60 Florence Dr.
+School 39116 missing from new data.
+Citizens Memorial School has a mismatch:
+Old principal: Raphael Diaz
+New principal: Danielle Costa
+Globe Park School has a mismatch:
+Old principal: Robert Derosiers
+New principal: Lynn Prentiss
+Woonsocket High School has a mismatch:
+Old principal: Lynne Bedard
+New principal: Carnell Henderson
+Woonsocket High School has a mismatch:
+Old phone: 4017674707
+New phone: 4017674703
+Kevin K. Coleman Elementary School has a mismatch:
+Old principal_label: 
+New principal_label: Principal
+Beacon Charter High School for the Arts has a mismatch:
+Old name_iwl: Beacon Charter High School for the Arts
+New name_iwl: BEACON Charter School
+School 96103 missing from new data.
+Guiteras School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Guiteras
+New url: http://www.edlinesites.net/pages/Guiteras/
+Colt Andrews School has a mismatch:
+Old url: http://www.edlinesites.net/pages/ColtAndrews
+New url: http://www.edlinesites.net/pages/ColtAndrews/
+Rockwell School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Rockwell
+New url: http://www.edlinesites.net/pages/Rockwell/
+Mt. Hope High School has a mismatch:
+Old url: http://www.edlinesites.net/pages/MtHope
+New url: http://www.edlinesites.net/pages/MtHope/
+School 96108 missing from new data.
+School 96111 missing from new data.
+Kickemuit Middle School has a mismatch:
+Old principal: Beth Hayes
+New principal: Jared Vance
+Kickemuit Middle School has a mismatch:
+Old url: http://www.edlinesites.net/pages/Kickemuit_Middle_School
+New url: http://www.edlinesites.net/pages/Kickemuit_Middle_School/
+Hugh Cole School has a mismatch:
+Old url: http://www.edlinesites.net/pages/HughCole
+New url: http://www.edlinesites.net/pages/HughCole/
+Wawaloam School has a mismatch:
+Old url: https://sites.google.com/a/ewg.k12.ri.us/wawaloam/
+New url: http://ewg.k12.ri.us/
+Mildred E. Lineham School has a mismatch:
+Old principal: Robin Corsi
+New principal: 
+Mildred E. Lineham School has a mismatch:
+Old principal_label: Early Childhood Coor
+New principal_label: 
+Mildred E. Lineham School has a mismatch:
+Old url: https://sites.google.com/a/ewg.k12.ri.us/lineham-school/
+New url: http://ewg.k12.ri.us/
+Metcalf School has a mismatch:
+Old principal: Mary Lou Almonte
+New principal: 
+Metcalf School has a mismatch:
+Old principal_label: Principal
+New principal_label: 
+Metcalf School has a mismatch:
+Old url: https://sites.google.com/a/ewg.k12.ri.us/metcalf-elementary-school/
+New url: http://ewgrsd.org/Schools/Metcalf/tabid/128/Default.aspx/
+Exeter-West Greenwich Regional Junior High has a mismatch:
+Old name_iwl: Exeter-West Greenwich Regional Junior High
+New name_iwl: Exeter-West Greenwich Regional  Junior High
+Exeter-West Greenwich Regional Junior High has a mismatch:
+Old principal: Mary Slattery
+New principal: Mary  Slattery
+Exeter-West Greenwich Regional Junior High has a mismatch:
+Old url: https://sites.google.com/a/ewg.k12.ri.us/ewg-junior-high/
+New url: http://sites.google.com/a/ewg.k12.ri.us/ewg-junior-high/
+Exeter-West Greenwich Regional High School has a mismatch:
+Old url: https://sites.google.com/a/ewg.k12.ri.us/senior-high/
+New url: http://sites.google.com/site/ewgseniorhigh/
+The Greene School has a mismatch:
+Old principal: Deanna Duncan
+New principal: 
+The Greene School has a mismatch:
+Old street2: Unit #3
+New street2: 
+The Greene School has a mismatch:
+Old principal_label: Head of School
+New principal_label: 
+Chariho Regional High School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/chs
+New url: http://www.chariho.k12.ri.us/chs/
+Chariho Regional Middle School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/middle-school
+New url: http://www.chariho.k12.ri.us/middle-school/
+Charlestown Elementary School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/chamain
+New url: http://www.chariho.k12.ri.us/chamain/
+Richmond Elementary School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/ric
+New url: http://www.chariho.k12.ri.us/ric/
+Ashaway Elementary School has a mismatch:
+Old principal: Jeffrey Scanapieco
+New principal: Jeffrey  Scanapieco
+Ashaway Elementary School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/ash
+New url: http://www.chariho.k12.ri.us/ash/
+Hope Valley Elementary School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/hv
+New url: http://www.chariho.k12.ri.us/hv/
+The R.Y.S.E. School has a mismatch:
+Old url: http://www.chariho.k12.ri.us/rys
+New url: http://www.chariho.k12.ri.us/rys/
+Ponaganset Middle School has a mismatch:
+Old url: http://www.fg.k12.ri.us/PonagansetMiddle.cfm
+New url: http://www.fg.k12.ri.us/PonagansetMiddle.cfm?subpage=1823/
+Ponaganset High School has a mismatch:
+Old principal: David Estes
+New principal: Renee Palazzo
+Ponaganset High School has a mismatch:
+Old url: http://www.fg.k12.ri.us/PonagansetHigh.cfm
+New url: http://www.fg.k12.ri.us/PonagansetHigh.cfm?subpage=1821/
+School Statewide missing from new data.
+School Statewide6_8 missing from new data.
+School Statewide9_12 missing from new data.
+School StatewideK_5 missing from new data.
+Scituate Public Schools not in last year's database.
+Trinity Admin School not in last year's database.
+E. Providence School Department not in last year's database.
+Coventry VTA not in last year's database.
+Job Corps Center in Vermont not in last year's database.
+Exeter Job Corps Academy not in last year's database.
+Cranston VTA not in last year's database.
+STAND (Students Taking Action Now w/ Determination) not in last year's database.
+Chariho VTA not in last year's database.
+Warwick Public Schools not in last year's database.
+R.I. Sch for the Deaf Admin School not in last year's database.
+Village Green Virtual Admin School not in last year's database.
+Professional Development Center not in last year's database.
+Newport Public Schools not in last year's database.
+RI Department of Corrections, Education Unit not in last year's database.
+East Providence VTA not in last year's database.
+Crossroads Rhode Island not in last year's database.
+Dorcas Place not in last year's database.
+English for Action not in last year's database.
+The Genesis Center not in last year's database.
+Amos House not in last year's database.
+Community College of Rhode Island not in last year's database.
+Comprehensive Community Action Programs not in last year's database.
+Blackstone Valley Community Action Program not in last year's database.
+Bristol Warren  Public Schools not in last year's database.
+Achievement First Admin School not in last year's database.
+Central Falls Schools not in last year's database.
+Aquidneck Island not in last year's database.
+Segue Admin School not in last year's database.
+S. Kingstown Public Schools not in last year's database.
+Foster Public Schools not in last year's database.
+Johnston Public Schools not in last year's database.
+Pawtucket Public Schools not in last year's database.
+South County Community Action not in last year's database.
+Smithfield Public Schools not in last year's database.
+Progreso Latino not in last year's database.
+Central Falls Even Start not in last year's database.
+Burrillville Public Schools not in last year's database.
+Westbay Community Action not in last year's database.
+Highlander Admin School not in last year's database.
+SouthSide Admin School not in last year's database.
+Narragansett Public Schools not in last year's database.
+Paul Cuffee Admin School not in last year's database.
+Newport Area Career and Technical Center not in last year's database.
+Cranston Area Career Technical Center not in last year's database.
+Chariho Area Career and Technical Center not in last year's database.
+RISE Prep Mayoral Academy Admin not in last year's database.
+Nurses Institute Admin School not in last year's database.
+Woonsocket Public Schools not in last year's database.
+Chariho Regional District not in last year's database.
+Tiverton Public Schools not in last year's database.
+Barrington Public Schools not in last year's database.
+Glocester Public Schools not in last year's database.
+Beacon Admin School not in last year's database.
+Woonsocket Area Career and Technical Center not in last year's database.
+The Hope Academy Admin not in last year's database.
+Education Exchange not in last year's database.
+Aquidneck Island Adult Learning Center not in last year's database.
+Calef School (High School Annex) not in last year's database.
+Eastbay CAP not in last year's database.
+N. Providence School Department not in last year's database.
+Westerly Public Schools not in last year's database.
+Jamestown Public Schools not in last year's database.
+Cranston Public Schools not in last year's database.
+Nowell Admin School not in last year's database.
+Warwick Area Career and Technical Center not in last year's database.
+West Bay Collaborative not in last year's database.
+Westerly Even Start not in last year's database.
+Literacy Volunteers of Washington  County not in last year's database.
+Greene Admin School not in last year's database.
+Founders Academy not in last year's database.
+RISE Prep Mayoral Academy not in last year's database.
+Little Compton Schools not in last year's database.
+Project RIRAL not in last year's database.
+Woonsocket Even Start not in last year's database.
+Cranston Alternate Education not in last year's database.
+Institute for Labor Studies & Research not in last year's database.
+Rhode Island Department of Corrections not in last year's database.
+Learning Community Admin School not in last year's database.
+E. Greenwich Public Schools not in last year's database.
+Tri-Town not in last year's database.
+New Shoreham Public Schools not in last year's database.
+Blackstone Admin School not in last year's database.
+Literacy Volunteers of East Bay not in last year's database.
+W. Warwick Public Schools not in last year's database.
+Coventry Public Schools not in last year's database.
+MET Career and Tech Admin School not in last year's database.
+Rhode Island College Outreach Program not in last year's database.
+Providence Plan not in last year's database.
+Providence Housing Authority not in last year's database.
+Providence Community Action Program not in last year's database.
+Year Up not in last year's database.
+Rhode Island Indian Council not in last year's database.
+Rhode Island Family Literacy Initiative not in last year's database.
+N. Smithfield Schools not in last year's database.
+The Regional Career and Technical Center at Coventry HS not in last year's database.
+Middletown Public Schools not in last year's database.
+Pawtucket School Department not in last year's database.
+Davies Career and Tech Admin School not in last year's database.
+Northern RI Collaborative not in last year's database.
+Foster-Glocester Schools not in last year's database.
+Blackstone Valley Prep Elementary 3 School not in last year's database.
+Warwick VTA not in last year's database.
+Cumberland Public Schools not in last year's database.
+School for the Deaf Transition not in last year's database.
+Exeter-W. Greenwich Schools not in last year's database.
+East Bay Educational Collaborative not in last year's database.
+Project Learn not in last year's database.
+Kingston Hill Admin School not in last year's database.
+International Admin School not in last year's database.
+Lincoln Public Schools not in last year's database.
+Compass Admin School not in last year's database.
+Blackstone Valley Prep Admin School not in last year's database.
+Portsmouth Public Schools not in last year's database.
+N. Kingstown Public Schools not in last year's database.
+360 High School not in last year's database.
+Evolutions High School not in last year's database.
+Providence Public Schools not in last year's database.
+Achievement First Iluminar Mayoral Academy not in last year's database.
+ is listed as a website for 49 schools.
+http://www.paulcuffeeschool.org/ is listed as a website for 2 schools.
+http://www.cpsed.net/ is listed as a website for 2 schools.
+http://www.thegreeneschool.org/ is listed as a website for 2 schools.
+http://www.vgonline.org/ is listed as a website for 2 schools.
+http://www.skschools.net/ is listed as a website for 2 schools.
+http://www.riseprepri.org/ is listed as a website for 2 schools.
+http://www.kingstonhill.org/ is listed as a website for 2 schools.
+http://www.metcenter.org/ is listed as a website for 2 schools.
+http://www.thelearningcommunity.com/ is listed as a website for 2 schools.
+http://www.bsd-ri.net/schools/ is listed as a website for 3 schools.
+http://www.internationalcharterschool.org/ is listed as a website for 2 schools.
+http://www.blackstonevalleyprep.org/ is listed as a website for 4 schools.
+http://ewg.k12.ri.us/ is listed as a website for 2 schools.
+http://www.blackstoneacademy.org/ is listed as a website for 2 schools.
+http://www.coventryschools.net/ is listed as a website for 2 schools.
+http://www.achievementfirst.org/schools/rhode-island-schools/ is listed as a website for 2 schools.
+http://www.compassschool.org/ is listed as a website for 2 schools.
+http://barringtonschools.org/ is listed as a website for 2 schools.
+http://www.warwickschools.org/ is listed as a website for 3 schools.
+http://www.hopeacademyri.org/ is listed as a website for 2 schools.
+http://www.southsideelementary.org/ is listed as a website for 2 schools.
+http://johnstonhighschool.com/ is listed as a website for 2 schools.
+http://blockislandschool.net/ is listed as a website for 2 schools.
+http://www.beaconart.org/ is listed as a website for 3 schools.
+http://www.daviestech.org/ is listed as a website for 2 schools.
+http://providenceschools.org/elementary-schools/frank-spaziano--annex/ is listed as a website for 2 schools.
+http://woonsocketschools.com/ is listed as a website for 5 schools.
+http://www.rideaf.net/ is listed as a website for 2 schools.
+http://www.tomorrowsnurses.org/ is listed as a website for 2 schools.
+http://www.lcsd.k12.ri.us/ is listed as a website for 2 schools.
+http://www.highlandercharter.org/ is listed as a website for 2 schools.
+http://www.paineschool.org/ is listed as a website for 2 schools.
+http://www.trinityacademyfortheperformingarts.org/ is listed as a website for 2 schools.
+http://www.johnstonschools.org/ is listed as a website for 3 schools.

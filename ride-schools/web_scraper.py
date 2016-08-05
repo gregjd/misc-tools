@@ -78,16 +78,17 @@ def getAllInfo(schools_html):
     schools = []
     districts = []
 
-    for s in school_list:
-        sch_scrape = scrapeSchoolPage(s)
-        if sch_scrape != None:
-            schools.append(sch_scrape)
+    # for s in school_list:
+    #     sch_scrape = scrapeSchoolPage(s)
+    #     if sch_scrape != None:
+    #         schools.append(sch_scrape)
     for d in district_list:
         dist_scrape = scrapeSchoolPage(d)
         if dist_scrape != None:
             districts.append(dist_scrape)
 
-    writeCSV("ride_schools_info.csv", convertAllToString(schools))
+    writeCSV("ride_districts_info.csv", convertAllToString(districts))
+    # writeCSV("ride_schools_info.csv", convertAllToString(schools))
 
     return (schools, districts)
 
@@ -95,7 +96,9 @@ def getSchoolInfo(url):
 
     page = bs4.BeautifulSoup(urllib2.urlopen(url).read(), "html.parser")
 
-    sch_name = "name": getAttribute(page, "Name", "link")
+    sch_name = getAttribute(page, "Name", "link")
+
+    # print sch_name
 
     # if multiple addresses, make a note in the logfile:
     labels = [i.get_text() for i in 
@@ -235,7 +238,11 @@ def getPrincipal(page, url, sch_name):
         return ("", "")
     elif len(principals) > 1:
         name_list = [p["name"] for p in principals]
+        name_set = set(name_list)
         title_list = [p["title"] for p in principals]
+        # if len(name_set) != len(name_list):  # if there are duplicate names
+        #     unique = set([tuple(sorted(d.items())) for d in principals])
+        #     principals = [dict(u) for u in unique]  # unique principals
         if len(set(name_list)) == 1:  # if they're actually the same person
             if len(set(title_list)) == 1:  # if the title is the same
                 title_ = title_list[0]
@@ -337,6 +344,10 @@ def shortenGrade(grade):
         return ("")
     else:
         return g
+
+def isActive(active):
+
+    ef
 
 
 # Run

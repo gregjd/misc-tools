@@ -3,15 +3,19 @@ import enroll
 import utils
 
 
-# change slice file location each year:
+# School metadata; says whether each school is open or closed. Change this.
 SLICE_FILE = "//TPPFILE/Data/WORK/iRide/Year Seven/Slice/00225.csv"
 
+# Current school year. Change this.
+SCHOOL_YEAR = "2015-2016"
+
+# Enrollments file. (Currently references this file in the current folder.)
 ENROLL_FILE = "enroll.csv"
 
-SCHOOL_YEAR = "2015-2016"  # move to constants?
+# New file name. Will be saved in the current folder.
+NEW_FILE = "statewide_stats.csv"
 
-
-def main(new_csv_file="statewide_stats.csv"):
+def main(NEW_FILE):
     """Calculates the stats, writes them to a CSV, returns them as a dict."""
 
     # List of all schools
@@ -72,7 +76,7 @@ def main(new_csv_file="statewide_stats.csv"):
     # Past years included this preschools-only number, then later cut it
     del summary["Schools-Preschools"]
 
-    writeCSV(new_csv_file, [summary])
+    writeCSV(new_csv_file, summary)
 
     return summary
 
@@ -102,12 +106,9 @@ def toPct(number):
 
     return float(format(number*100, ".2f"))
 
-# copied from merge.py; todo: include as part of utils
-def writeCSV(new_file_name, schools_list):
+# TODO: move the actual saving part to utils.py?
+def writeCSV(new_file_name, summary_stats):
 
-    # sorted_list = sorted(schools_list, key=lambda k: k["school_code"])
-    sorted_list = schools_list
-    # header = [i for i in schools_list[0]]
     header = ["School_Year", "Students -Total #",
         "Students-Public E", "Students-Public M", "Students-Public H",
         "Students - Charter District", "Students-Charter Independent",
@@ -117,14 +118,15 @@ def writeCSV(new_file_name, schools_list):
         "Schools-District Operated", "Schools-State Operated",
         "Schools - Charter District", "Schools-Charter Independent",
         "Schools-Collaboratives"]
-    print "\nSaving file:", new_file_name, "..."
+    print ("\nSaving file: " + new_file_name + " ...")
     with open(new_file_name, "wb") as csvfile:
         writer = csv.DictWriter(csvfile, header)
         writer.writeheader()
-        for s in sorted_list:
-            writer.writerow(s)
+##        for s in schools_list:
+##            writer.writerow(s)
+        writer.writerow(summary_stats)
     csvfile.close()
-    print "Saved file:", new_file_name
+    print ("Saved file: " + new_file_name)
 
     return
 

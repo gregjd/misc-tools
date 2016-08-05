@@ -1,0 +1,146 @@
+Capt. G. Harold Hunt School has a mismatch:
+Old high_grade: PK
+New high_grade: 1
+
+Blackstone Valley Prep Elementary 2 School has a mismatch:
+Old high_grade: 3
+New high_grade: 4
+
+Blackstone Valley Prep High School has a mismatch:
+Old high_grade: 9
+New high_grade: 10
+
+Henry J. Winters School has a mismatch:
+Old high_grade: 6
+New high_grade: 5
+
+West Broadway Middle School has a mismatch:
+Old high_grade: 6
+New high_grade: 8
+
+Highlander Charter School has a mismatch:
+Old high_grade: 10
+New high_grade: 12
+
+Trinity Academy for the Performing Arts has a mismatch:
+Old high_grade: 11
+New high_grade: 12
+
+Village Green Virtual Charter School has a mismatch:
+Old high_grade: 11
+New high_grade: 12
+
+Achievement First Rhode Island has a mismatch:
+Old high_grade: 2
+New high_grade: 3
+
+SouthSide Elementary Charter School has a mismatch:
+Old high_grade: K
+New high_grade: 1
+
+The Hope Academy has a mismatch:
+Old high_grade: K
+New high_grade: 1
+
+Governor Aram J. Pothier School has a mismatch:
+Old high_grade: 2
+New high_grade: 3
+
+------
+
+Margaret I. Robertson School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+Hopkins Hill School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Tiogue School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+Oak Lawn School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Daniel D. Waterman School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Chester W. Barrows School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+William R. Dutemple School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Edward S. Rhodes School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Eden Park School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Gladstone Street School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Woodridge School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+George J. Peters School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Arlington School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Edgewood Highland School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+DCYF Alternative Education Program has a mismatch:
+Old low_grade: 7
+New low_grade: 6
+
+Fogarty Memorial School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+Sarah Dyer Barnes School has a mismatch:
+Old low_grade: 1
+New low_grade: K
+
+Francis J. Varieur School has a mismatch:
+Old low_grade: PK
+New low_grade: K
+
+Frank Spaziano Avenue Elementary School & Annex has a mismatch:
+Old low_grade: K
+New low_grade: 2
+
+Robert L. Bailey, IV Elementary School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+The Sgt. Cornel Young, Jr. & Charlotte Woods Elementary School @ The B. Joe Clanton Complex has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+Dr. Martin Luther King, Jr. Elementary School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+Walter E. Ranger School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+
+John Wickes School has a mismatch:
+Old low_grade: K
+New low_grade: PK
+

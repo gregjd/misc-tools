@@ -32,6 +32,7 @@ def main():
             new_dict = last[sch_code]
             new_dict["school_year"] = SCHOOL_YEAR
             schools_list.append(new_dict)
+            # should these actually not be added to checked?
         checked.add(sch_code)
     for e in sch_enrolls:
         if e not in checked:
